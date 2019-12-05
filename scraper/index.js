@@ -94,6 +94,10 @@ const ENDING_PAGE = 62;
       });
     }
 
+    if (page < 10) {
+      page = `0${page}`;
+    }
+
     fs.writeFile(
       `./json/pages/${page}.json`,
       JSON.stringify(results, null, 2),
