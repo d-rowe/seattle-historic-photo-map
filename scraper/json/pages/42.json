@@ -1,0 +1,986 @@
+[
+  {
+    "title": "The A. Hambach Co. at 1st Ave. S. and King St., ca. 1910",
+    "identifier": "spl_gpn_012",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "A. Hambach Company (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "First Avenue South (Seattle, Wash.)",
+      "South King Street (Seattle, Wash.)",
+      "Kaiser Cafe (Seattle, Wash.)",
+      "Rainier Brewing Company",
+      "Pedestrians"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "1st Avenue S. and S. King St.",
+    "coordinates": [
+      "47.598342",
+      "-122.334234"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3387/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Seattle City Light Substation at Yesler Way and 7th Ave., ca. 1910",
+    "identifier": "spl_gpn_015",
+    "description": "Located at 7th Ave. and Yesler Way, this was the city's first substation delivering power to Seattleites. It was constructed in 1910.",
+    "subjects": [
+      "Seattle City Light",
+      "Electric Substations--Washington (State)--Seattle",
+      "Electric Power Transmission--Washington (State)--Seattle",
+      "Electric lighting"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "7th Ave. and Yesler Way",
+    "coordinates": [
+      "47.601728",
+      "-122.324255"
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3390/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Monmouth Apartments at 20th Ave. and Yesler Way, ca. 1910",
+    "identifier": "spl_gpn_020",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Monmouth Apartments (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Twentieth Avenue (Seattle, Wash.)",
+      "Yesler Way (Seattle, Wash.)",
+      "Pedestrians"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "20th Ave. and Yesler Way",
+    "coordinates": [
+      "47.601671",
+      "-122.306349"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3395/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Weed's Pharmacy window, ca. 1910",
+    "identifier": "spl_gpn_014",
+    "description": "",
+    "subjects": [
+      "Weed's Pharmacy (Seattle, Wash.)",
+      "Drugstores--Washington (State)--Seattle",
+      "Weed, M. A. (Melvin Albert), 1882-1962",
+      "Pharmacists",
+      "Show windows",
+      "Welch's",
+      "Walter M. Lowney Company"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "S. Jackson St. and 26th Ave. S.",
+    "coordinates": [
+      "47.599161",
+      "-122.29854"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3389/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View south on 2nd Ave. from Columbia St., ca. 1910.",
+    "identifier": "spl_gpn_016",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Office buildings--Washington (State)--Seattle",
+      "Hoge Building (Seattle, Wash.)",
+      "Seattle Trunk Company (Seattle, Wash.)",
+      "Epler Block (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Second Avenue (Seattle, Wash.)",
+      "Automobiles",
+      "Pedestrians",
+      "Cable cars (Streetcars)",
+      "Street-railroads--Washington (State)--Seattle",
+      "Union Savings & Trust Company (Seattle, Wash.)",
+      "Alaska Building (Seattle, Wash.)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "2nd Ave. and Columbia St.",
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3391/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Hotel Seward on 3rd Ave., ca. 1910",
+    "identifier": "spl_gpn_010",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Hotels--Washington (State)--Seattle",
+      "Hotel Seward (Seattle, Wash.)",
+      "Alaskan Liquor Company (Seattle, Wash.)",
+      "Gem Waffle House (Seattle, Wash.)",
+      "Baths, Turkish--Washington (State)--Seattle",
+      "Maryland Dairy Luncheon (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Third Avenue (Seattle, Wash.)",
+      "Horse-drawn vehicles"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "3rd Ave. and Jefferson St.",
+    "coordinates": [
+      "47.602341",
+      "-122.331034"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3385/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Star Apartments at 11th Ave. and E. Spruce St., ca. 1910",
+    "identifier": "spl_gpn_019",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Star Apartments (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Eleventh Avenue (Seattle, Wash.)",
+      "East Spruce Street (Seattle, Wash.)",
+      "Pedestrians"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "11th Ave. and E. Spruce St.",
+    "coordinates": [
+      "47.603341",
+      "-122.317727"
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3394/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View west from Yesler Way and 4th Ave., ca. 1911",
+    "identifier": "spl_gpn_013",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Hillside Saloon (Seattle, Wash.)",
+      "New Chicago Dye Works (Seattle, Wash.)",
+      "Grand Union Cafe (Seattle, Wash.)",
+      "Grand Union Hotel (Seattle, Wash.)",
+      "Bismarck Saloon (Seattle, Wash.)",
+      "Frye Hotel (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Yesler Way (Seattle, Wash.)",
+      "Cable cars (Streetcars)",
+      "Street-railroads--Washington (State)--Seattle",
+      "Pedestrians"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "4th Ave. and Yesler Way",
+    "coordinates": [
+      "47.601794",
+      "-122.329016"
+    ],
+    "createdDate": "1911-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3388/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Unidentified apartment building, ca. 1910",
+    "identifier": "spl_gpn_017",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Streets--Washington (State)--Seattle",
+      "Boys"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3392/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Storefronts at 510 1st Ave. S., ca. 1910",
+    "identifier": "spl_gpn_011",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Stores, retail--Washington (State)--Seattle",
+      "A.H. Andrews (Seattle, Wash.)",
+      "Manufacturer's Distributing Company (Seattle, Wash.)",
+      "E.C. Atkins and Company (Seattle, Wash.)",
+      "United Iron Works (Seattle, Wash.)",
+      "Sherwin Williams Company (Seattle, Wash.)",
+      "George B. Adair Agency (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "First Avenue South (Seattle, Wash.)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "1st Ave. S. and King St.",
+    "coordinates": [
+      "47.597887",
+      "-122.333708"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3386/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Ben Lomond Apartments, ca. 1910",
+    "identifier": "spl_gpn_018",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Ben Lomond Apartments (Seattle, Wash.)",
+      "Lake Union (Wash.)",
+      "Dwellings"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.627498",
+      "-122.327435"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3393/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Storefronts at 930-1020 1st Ave. S., ca. 1910",
+    "identifier": "spl_gpn_009",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Nelle and Engelbrecht Company (Seattle, Wash.)",
+      "Cragin Company (Seattle, Wash.)",
+      "Perine Machinery Company (Seattle, Wash.)",
+      "Seattle Junk Company",
+      "Streets--Washington (State)--Seattle",
+      "First Avenue South (Seattle, Wash.)",
+      "Automobiles"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.593493",
+      "-122.33371"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3384/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Normandie Apartments at 9th Ave. and University, ca. 1910",
+    "identifier": "spl_gpn_021",
+    "description": "The Normandie Apartments opened to tenants in 1910. The building was demolished in 1974.",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Normandie Apartments (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "University Street (Seattle, Wash.)",
+      "Ninth Avenue (Seattle, Wash.)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.610539",
+      "-122.329261"
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3396/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Man [Walter F. Piper?] with backpack, ca. 1910",
+    "identifier": "spl_gpn_030",
+    "description": "Identity of man may be Walter F. Piper. A caption on the photograph spl_gpn_065 reads \"Our house 1504 18th Ave. Seattle, corner view with trees, 1910.\" In 1910, this address was home to Walter F. Piper, his mother and sisters. Other images of a man identified as the photographer in this collection include spl_gpn_031, spl_gpn_115, and spl_gpn_117. While this photo and the man pictured in spl_gpn_031 are clearly the same, is not certain if the same individual is also photographed in spl_gpn_115 and spl_gpn_117.",
+    "subjects": [
+      "Portraits--Oregon",
+      "Piper, Walter F.--Portraits",
+      "Men",
+      "Backpacking",
+      "Trees",
+      "Pipes"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3405/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Boat on riverbank, ca. 1910",
+    "identifier": "spl_gpn_027",
+    "description": "",
+    "subjects": [
+      "Boats and boating",
+      "Rivers--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3402/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View west to Puget Sound, ca. 1910",
+    "identifier": "spl_gpn_032",
+    "description": "",
+    "subjects": [
+      "Puget Sound (Wash.)",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3407/default.jpg?highlightTerms="
+  },
+  {
+    "title": "\"Henriette\" loading cargo at Colman Dock, ca. 1910",
+    "identifier": "spl_gpn_026",
+    "description": "The Indianapolis and Chippewa sign at the top left indicates the photo was taken near Seattle's Colman Dock where they departed from on their Tacoma runs.",
+    "subjects": [
+      "Boats and boating",
+      "Steamboats",
+      "Henriette (Steamship)",
+      "Cranes, derricks, etc.",
+      "Pier 52 (Seattle, Wash.)",
+      "Colman Dock (Seattle, Wash.)",
+      "Elliott Bay (Wash.)",
+      "Men",
+      "Cranes, derricks, etc."
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "Alaskan Way S. and Columbia St.",
+    "coordinates": [
+      "47.602475",
+      "-122.336897"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3401/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Pair of puppies, ca. 1910",
+    "identifier": "spl_gpn_028",
+    "description": "",
+    "subjects": [
+      "Puppies",
+      "Dogs"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3403/default.jpg?highlightTerms="
+  },
+  {
+    "title": "The Silvian Apartments on E. Harrison St., ca. 1910",
+    "identifier": "spl_gpn_022",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Silvian Apartments (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "East Harrison Street (Seattle, Wash.)",
+      "Pedestrians"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.622151",
+      "-122.320172"
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3397/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Man [Walter F. Piper?] on Great Northern Railway Bridge in Index, WA, 1909",
+    "identifier": "spl_gpn_031",
+    "description": "Identity of man may be Walter F. Piper. A caption on the photograph spl_gpn_065 reads \"Our house 1504 18th Ave. Seattle, corner view with trees, 1910.\" In 1910, this address was home to Walter F. Piper, his mother and sisters. Other images of a man identified as the photographer in this collection include spl_gpn_031, spl_gpn_115, and spl_gpn_117. While this photo and the man pictured in spl_gpn_031 are clearly the same, is not certain if the same individual is also photographed in spl_gpn_115 and spl_gpn_117.",
+    "subjects": [
+      "Portraits--Washington (State)--Index",
+      "Piper, Walter F.--Portraits",
+      "Men",
+      "Railroad bridges--Washington (State)--Index",
+      "Rivers--Washington (State)--Index",
+      "Skykomish River, North Fork (Wash.)",
+      "Great Northern Railway Company (U.S.)",
+      "Index (Wash.)"
+    ],
+    "photographer": "",
+    "intersection": "",
+    "coordinates": [
+      "47.819146",
+      "-121.554921"
+    ],
+    "createdDate": "1909-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3406/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Steamships loading cargo at Colman Dock, ca. 1910",
+    "identifier": "spl_gpn_025",
+    "description": "The \"Indianapolis\" and \"Chippewa\" departed on their Tacoma runs from Seattle's Colman Dock at the base of Columbia Street.",
+    "subjects": [
+      "Steamboats",
+      "Puget (Steamship)",
+      "Rosalie (Steamship)",
+      "Cranes, derricks, etc.",
+      "Pier 52 (Seattle, Wash.)",
+      "Colman Dock (Seattle, Wash.)",
+      "Elliott Bay (Wash.)",
+      "Men"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "Alaskan Way S. and Columbia St.",
+    "coordinates": [
+      "47.602475",
+      "-122.336897"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3400/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Ralph Williams with backpack, ca. 1910",
+    "identifier": "spl_gpn_029",
+    "description": "",
+    "subjects": [
+      "Portraits--Oregon",
+      "Williams, Ralph",
+      "Men",
+      "Backpacking",
+      "Trees",
+      "Shovels",
+      "Williams, Ralph--Portraits"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3404/default.jpg?highlightTerms="
+  },
+  {
+    "title": "The Van Siclen Apartments on 8th Ave., ca. 1910",
+    "identifier": "spl_gpn_023",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Apartment houses--Washington (State)--Seattle",
+      "Van Siclen Apartments (Seattle, Wash.)",
+      "Streets--Washington (State)--Seattle",
+      "Eighth Avenue (Seattle, Wash.)",
+      "Automobiles"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.609482",
+      "-122.329869"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3398/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Sigma Nu Fraternity house, ca. 1910",
+    "identifier": "spl_gpn_024",
+    "description": "The 1910 Seattle City Directory lists the Sigma Nu residence at 4325 15th Ave. NE.",
+    "subjects": [
+      "Greek letter societies--Washington (State)--Seattle",
+      "Sigma Nu",
+      "University of Washington",
+      "Dwellings--Washington (State)--Seattle"
+    ],
+    "photographer": "",
+    "intersection": "",
+    "coordinates": [
+      "47.660022",
+      "-122.311976"
+    ],
+    "createdDate": "1909-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3399/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Unidentified man on Great Northern Railway Bridge in Index, WA, 1909",
+    "identifier": "spl_gpn_033",
+    "description": "",
+    "subjects": [
+      "Men",
+      "Railroad bridges--Washington (State)--Index",
+      "Rivers--Washington (State)--Index",
+      "Great Northern Railway Company (U.S.)",
+      "Index (Wash.)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.819146",
+      "-121.554921"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3408/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Snowy country road with wagon tracks, ca. 1910",
+    "identifier": "spl_gpn_042",
+    "description": "Location is presumed to be in Washington State although exact location is unknown.",
+    "subjects": [
+      "Roads--Washington (State)",
+      "Snow",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3417/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Group riding horse and wagon in Shelton, WA, ca. 1910",
+    "identifier": "spl_gpn_034",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Shelton",
+      "Horse-drawn vehicles",
+      "Carriages and carts",
+      "Men",
+      "Boys",
+      "Girls",
+      "Shelton (Wash.)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3409/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Snowy country road, ca. 1910",
+    "identifier": "spl_gpn_044",
+    "description": "",
+    "subjects": [
+      "Roads--Washington (State)",
+      "Snow",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3419/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Old logging railway, ca. 1910",
+    "identifier": "spl_gpn_037",
+    "description": "",
+    "subjects": [
+      "Trees",
+      "Logging",
+      "Railroads--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3412/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Country road, ca. 1910",
+    "identifier": "spl_gpn_036",
+    "description": "Location is presumed to be in Washington State but the exact location is unknown.",
+    "subjects": [
+      "Trees",
+      "Roads--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3411/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Broken log, ca. 1910",
+    "identifier": "spl_gpn_040",
+    "description": "",
+    "subjects": [
+      "Timber",
+      "Forests and forestry"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3415/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Country road and barn, ca. 1910",
+    "identifier": "spl_gpn_039",
+    "description": "Location is presumed to be in Washington State but the exact location is unknown.",
+    "subjects": [
+      "Roads--Washington (State)",
+      "Barns--Washington (State)",
+      "Carriages and carts",
+      "Wheels"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3414/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View west to Puget Sound, ca. 1910",
+    "identifier": "spl_gpn_035",
+    "description": "",
+    "subjects": [
+      "Puget Sound (Wash.)",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3410/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Broken log, ca. 1910",
+    "identifier": "spl_gpn_041",
+    "description": "",
+    "subjects": [
+      "Timber",
+      "Forests and forestry"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3416/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Rock slide, ca. 1910",
+    "identifier": "spl_gpn_043",
+    "description": "",
+    "subjects": [
+      "Rockslides",
+      "Rocks"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3418/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Puget Sound with snow, ca. 1910",
+    "identifier": "spl_gpn_038",
+    "description": "",
+    "subjects": [
+      "Puget Sound (Wash.)",
+      "Trees",
+      "Snow"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3413/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Man and dog at log cabin doorway, ca. 1910",
+    "identifier": "spl_gpn_048",
+    "description": "",
+    "subjects": [
+      "Men",
+      "Boys",
+      "Dogs",
+      "Cabins--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3423/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Man in Sunset Mine tunnel, ca. 1910",
+    "identifier": "spl_gpn_054",
+    "description": "The Sunset Mine, located near Index, Washington, operated between 1897 and 1946 producing gold, silver and copper. After Arthur C. Egbert staked his claim in 1897, the Sunset Mining Company was formed to manage operation of the mine.",
+    "subjects": [
+      "Sunset Mining Company",
+      "Mines and mineral resources--Washington (State)--Index",
+      "Sunset Mine (Index, Wash.)",
+      "Miners",
+      "Men",
+      "Tunnels--Washington (State)--Seattle"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.8592",
+      "-121.4648"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3429/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Trees and snow, ca. 1910",
+    "identifier": "spl_gpn_047",
+    "description": "",
+    "subjects": [
+      "Trees",
+      "Snow"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3422/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Back view of house with boy and laundry, ca. 1910",
+    "identifier": "spl_gpn_051",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)",
+      "Dwellings--Washington (State)",
+      "Boys",
+      "Clotheslines",
+      "Laundry"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3426/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View of forest and mountains from Sunset Hill, ca. 1910",
+    "identifier": "spl_gpn_056",
+    "description": "The Sunset Mine, located near Index, Washington, operated between 1897 and 1946 producing gold, silver and copper. After Arthur C. Egbert staked his claim in 1897, the Sunset Mining Company was formed to manage operation of the mine.",
+    "subjects": [
+      "Sunset Mining Company",
+      "Sunset Mine (Index, Wash.)",
+      "Trees",
+      "Mountains--Washington (State)",
+      "Cascade Range"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.8592",
+      "-121.4648"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3431/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Side view of house, ca. 1910",
+    "identifier": "spl_gpn_050",
+    "description": "",
+    "subjects": [
+      "Buildings--Washington (State)--Seattle",
+      "Dwellings--Washington (State)--Seattle"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3425/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Group with cabin and cow, ca. 1910",
+    "identifier": "spl_gpn_052",
+    "description": "",
+    "subjects": [
+      "Men",
+      "Women",
+      "Girls",
+      "Boys",
+      "Cabins--Washington (State)",
+      "Dwellings--Washington (State)--Seattle",
+      "Cows",
+      "Fences"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3427/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Cabin on lake, ca. 1910",
+    "identifier": "spl_gpn_046",
+    "description": "Presumed to be in Washington but exact location is unknown.",
+    "subjects": [
+      "Lakes--Washington (State)",
+      "Cabins--Washington (State)",
+      "Dwellings--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3421/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Country home, ca. 1910",
+    "identifier": "spl_gpn_049",
+    "description": "Location is presumed to be in Washington State but the exact location is unknown.",
+    "subjects": [
+      "Buildings--Washington (State)",
+      "Dwellings--Washington (State)",
+      "Rivers--Washington (State)",
+      "Barns--Washington (State)",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3424/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Miners outside Sunset Mine tunnel entrance, ca. 1910",
+    "identifier": "spl_gpn_053",
+    "description": "The Sunset Mine, located near Index, Washington, operated between 1897 and 1946 producing gold, silver and copper. After Arthur C. Egbert staked his claim in 1897, the Sunset Mining Company was formed to manage operation of the mine.",
+    "subjects": [
+      "Sunset Mining Company",
+      "Sunset Mine (Index, Wash.)",
+      "Miners",
+      "Men",
+      "Trees",
+      "Buildings--Washington (State)--Index"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.8592",
+      "-121.4648"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3428/default.jpg?highlightTerms="
+  },
+  {
+    "title": "View of forest from Sunset Mine, ca. 1910",
+    "identifier": "spl_gpn_055",
+    "description": "The Sunset Mine, located near Index, Washington, operated between 1897 and 1946 producing gold, silver and copper. After Arthur C. Egbert staked his claim in 1897, the Sunset Mining Company was formed to manage operation of the mine.",
+    "subjects": [
+      "Sunset Mining Company",
+      "Sunset Mine (Index, Wash.)",
+      "Trees"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.8592",
+      "-121.4648"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3430/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Puget Sound and Mount Rainier, ca. 1910",
+    "identifier": "spl_gpn_045",
+    "description": "",
+    "subjects": [
+      "Puget Sound (Wash.)",
+      "Rainier, Mount (Wash.)",
+      "Docks--Washington (State)"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      ""
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3420/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Piper home at 1504 18th Ave., ca. 1910",
+    "identifier": "spl_gpn_065",
+    "description": "The address for this home is 1504 18th Ave. The 1910 Seattle City Directory lists Walter F. Piper, vice president of Piper & [William B.] Taft Inc., as the resident at this address. Also living at this address in 1910 are Minnie Piper, his mother; and Matilda and Lillian Piper, his sisters. His father, Seattle pioneer Andrew W. Piper, died in 1904.",
+    "subjects": [
+      "Dwellings--Washington (State)--Seattle",
+      "Eighteenth Avenue (Seattle, Wash.)",
+      "Piper, Andrew W.",
+      "Piper, Walter F."
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "18th Ave. and E. Pike St.",
+    "coordinates": [
+      "47.614287",
+      "-122.308459"
+    ],
+    "createdDate": "1910-01-01T00:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3440/default.jpg?highlightTerms="
+  },
+  {
+    "title": "Tracks leading to Sunset mine, ca. 1910",
+    "identifier": "spl_gpn_059",
+    "description": "The Sunset Mine, located near Index, Washington, operated between 1897 and 1946 producing gold, silver and copper. After Arthur C. Egbert staked his claim in 1897, the Sunset Mining Company was formed to manage operation of the mine.",
+    "subjects": [
+      "Sunset Mining Company",
+      "Sunset Mine (Index, Wash.)",
+      "Railroad tracks",
+      "Tunnels--Washington (State)--Index"
+    ],
+    "photographer": "Piper, Walter F.",
+    "intersection": "",
+    "coordinates": [
+      "47.8592",
+      "-121.4648"
+    ],
+    "createdDate": "1910-01-01T08:00:00.000Z",
+    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3434/default.jpg?highlightTerms="
+  }
+]

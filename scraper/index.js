@@ -2,7 +2,7 @@ const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const STARTING_PAGE = 32;
+const STARTING_PAGE = 1;
 const ENDING_PAGE = 62;
 
 (async () => {
