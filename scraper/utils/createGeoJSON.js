@@ -8,7 +8,7 @@ const geoJSON = joined.map(entry => {
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: [-122.413682, 37.775408]
+      coordinates
     },
     properties: entry
   };
