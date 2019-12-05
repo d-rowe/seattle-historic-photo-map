@@ -6,6 +6,7 @@
   "scripts": {
     "client": "npm start --prefix client",
     "scrape": "npm start --prefix scraper",
+    "build": "npm run-script build --prefix client",
     "client-install": "npm install --prefix client",
     "scraper-install": "npm install --prefix scraper",
     "test": "echo \"Error: no test specified\" && exit 1"
