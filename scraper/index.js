@@ -2,10 +2,12 @@ const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
+const STARTING_PAGE = 32;
+const ENDING_PAGE = 62;
+
 (async () => {
-  let completeResults = [];
   const browser = await puppeteer.launch();
-  for (let page = 1; page <= 62; page++) {
+  for (let page = STARTING_PAGE; page <= ENDING_PAGE; page++) {
     let results = [];
     console.log(`Loading page ${page}...`);
     const mainPage = await browser.newPage();
@@ -92,25 +94,16 @@ const fs = require("fs");
       });
     }
 
-    fs.writeFile(`./json/page-${page}.json`, JSON.stringify(results), function(
-      err
-    ) {
-      if (err) {
-        console.log(err);
+    fs.writeFile(
+      `./json/pages/${page}.json`,
+      JSON.stringify(results, null, 2),
+      function(err) {
+        if (err) {
+          console.log(err);
+        }
       }
-    });
-    completeResults.push(...results);
+    );
   }
-
-  fs.writeFile(
-    "historic-photos.json",
-    JSON.stringify(completeResults),
-    function(err) {
-      if (err) {
-        console.log(err);
-      }
-    }
-  );
 
   await browser.close();
 })();
