@@ -99,7 +99,7 @@ const ENDING_PAGE = 62;
     }
 
     fs.writeFile(
-      `./json/pages/${page}.json`,
+      `./pages/${page}.json`,
       JSON.stringify(results, null, 2),
       function(err) {
         if (err) {

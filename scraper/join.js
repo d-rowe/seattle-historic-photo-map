@@ -24,18 +24,20 @@ joined = joined.filter(entry => entry.coordinates[0] !== "");
 for (let i = 0; i < joined.length; i++) {
   let { length } = joined[i].coordinates;
   if (length > 2) {
-    joined[i].coordinates.splice(2, length);
+    joined[i].coordinates.splice(1, 1);
   }
 }
 
 let numOmitted = totalEntries - joined.length;
 
-fs.writeFile("historic-photos.json", JSON.stringify(joined, null, 2), function(
-  err
-) {
-  if (err) {
-    console.log(err);
+fs.writeFile(
+  "../client/src/historic-photos.json",
+  JSON.stringify(joined, null, 2),
+  function(err) {
+    if (err) {
+      console.log(err);
+    }
   }
-});
+);
 console.log(`Joined ${lastPage} pages, ${joined.length} images.`);
 console.log(`${numOmitted} images omitted for lack of coordinate information.`);

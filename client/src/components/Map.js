@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import "./Map.css";
+import HistoricPhotos from "../historic-photos.json";
 
 delete L.Icon.Default.prototype._getIconUrl;
 
@@ -23,10 +25,18 @@ const Map = () => {
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    L.marker([47.6062, -122.3321])
-      .addTo(map)
-      .bindPopup("A pretty CSS3 popup.<br> Easily customizable.")
-      .openPopup();
+    HistoricPhotos.forEach((photoInfo, i) => {
+      if (i > 200) return;
+      let { coordinates } = photoInfo;
+      if (coordinates[0] && coordinates[1]) {
+        L.marker(photoInfo.coordinates)
+          .addTo(map)
+          .bindPopup(
+            `${photoInfo.title}<img src=${photoInfo.imageURL} class="img-fit"></img>`
+          )
+          .openPopup();
+      }
+    });
   };
 
   return <div id="map" style={{ height: "100vh" }} />;
