@@ -19,7 +19,7 @@
       "-122.349871"
     ],
     "createdDate": "1910-09-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4171/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4171/default.jpg"
   },
   {
     "title": "Women in costume, ca. 1915",
@@ -36,7 +36,7 @@
       "-122.334674"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4177/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4177/default.jpg"
   },
   {
     "title": "Morris D. Tacher, restaurant owner, December 4, 1949",
@@ -59,7 +59,7 @@
       "-122.340369"
     ],
     "createdDate": "1949-12-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4178/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4178/default.jpg"
   },
   {
     "title": "Class of Walla Walla School, June 6, 1911",
@@ -82,7 +82,7 @@
       "-122.300819"
     ],
     "createdDate": "1911-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4179/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4179/default.jpg"
   },
   {
     "title": "J.D. Ross, ca. 1930",
@@ -100,7 +100,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4176/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4176/default.jpg"
   },
   {
     "title": "Miss Effie Chapman, ca. 1910",
@@ -121,7 +121,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4229/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4229/default.jpg"
   },
   {
     "title": "Librarians at desk in Seattle Central Library Children's Room, ca. 1911",
@@ -144,7 +144,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4232/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4232/default.jpg"
   },
   {
     "title": "Periodical Department at Seattle Central Library, ca. 1910",
@@ -167,7 +167,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4225/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4225/default.jpg"
   },
   {
     "title": "Fremont Branch Interior, Seattle Public Library, ca. 1905",
@@ -190,7 +190,7 @@
       "-122.349609"
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4226/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4226/default.jpg"
   },
   {
     "title": "Bon Marche at 2nd Ave. and Pike St., ca. 1918",
@@ -215,7 +215,7 @@
       "-122.338906"
     ],
     "createdDate": "1918-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4228/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4228/default.jpg"
   },
   {
     "title": "Capitol Hill Commercial Club Seafair float, 1959",
@@ -242,7 +242,7 @@
       "-122.313033"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4235/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4235/default.jpg"
   },
   {
     "title": "Judson Toll Jennings in Seattle Central Library office, ca. 1910",
@@ -263,7 +263,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4231/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4231/default.jpg"
   },
   {
     "title": "Seattle buses during transit strike, January 13, 1946",
@@ -282,7 +282,7 @@
       "-122.324191"
     ],
     "createdDate": "1946-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4234/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4234/default.jpg"
   },
   {
     "title": "Pacific Fisherman, Inc., ca. 1975",
@@ -302,7 +302,7 @@
       "-122.388074"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4233/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4233/default.jpg"
   },
   {
     "title": "Reference Room in temporary Seattle Central Library, ca. 1905",
@@ -322,7 +322,7 @@
       "-122.334896"
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4227/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4227/default.jpg"
   },
   {
     "title": "Seattle Central Library at 4th Ave. and Spring St., ca. 1906",
@@ -343,7 +343,7 @@
       "-122.332984"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4230/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4230/default.jpg"
   },
   {
     "title": "Men attempting to rescue bus passengers following accident, April 11, 1946",
@@ -363,7 +363,7 @@
       "-122.303234"
     ],
     "createdDate": "1946-04-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4249/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4249/default.jpg"
   },
   {
     "title": "Rowe Machine Works, ca. 1975",
@@ -382,7 +382,7 @@
       "-122.388636"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4255/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4255/default.jpg"
   },
   {
     "title": "Men reading in Seattle Central Library Newspaper Room, ca. 1910",
@@ -404,7 +404,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4236/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4236/default.jpg"
   },
   {
     "title": "Polk St. sidewalk marker at 20th Ave. NW and NW 63rd St., ca. 1975",
@@ -425,7 +425,7 @@
       "-122.382136"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4246/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4246/default.jpg"
   },
   {
     "title": "\"La Beverie\" waiting to pass through Ballard Locks, ca. 1950",
@@ -447,7 +447,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4238/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4238/default.jpg"
   },
   {
     "title": "Seattle Central Library clipping and postcard, ca. 1907",
@@ -467,7 +467,7 @@
       "-122.332984"
     ],
     "createdDate": "1907-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4245/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4245/default.jpg"
   },
   {
     "title": "Portrait of unidentified girl, ca. 1910",
@@ -485,7 +485,7 @@
       "-122.339345"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4247/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4247/default.jpg"
   },
   {
     "title": "Seattle Fire Department vehicle decorated for parade, ca. 1912",
@@ -511,7 +511,7 @@
       "-122.337775"
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4241/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4241/default.jpg"
   },
   {
     "title": "Colonial Theatre, 1916",
@@ -536,7 +536,7 @@
       "-122.33746"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4242/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4242/default.jpg"
   },
   {
     "title": "Seattle Central Library Bindery, 1910",
@@ -558,7 +558,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4257/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4257/default.jpg"
   },
   {
     "title": "Street sign at 20th Ave. NW and NW 63rd St., ca. 1975",
@@ -582,7 +582,7 @@
       "-122.382136"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4237/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4237/default.jpg"
   },
   {
     "title": "Charlotte Wallace, Superintendent of Circulation in her office at Seattle Central Library, ca. 1910",
@@ -603,7 +603,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4239/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4239/default.jpg"
   },
   {
     "title": "Seattle Central Library Bindery, 1910",
@@ -625,7 +625,7 @@
       "-122.332984"
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4244/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4244/default.jpg"
   },
   {
     "title": "Ballard Transfer Company van, ca. 1975",
@@ -643,7 +643,7 @@
       "-122.388466"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4253/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4253/default.jpg"
   },
   {
     "title": "Washington State Patrol at the scene of a bus accident, April 11, 1946",
@@ -664,7 +664,7 @@
       "-122.303234"
     ],
     "createdDate": "1946-04-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4259/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4259/default.jpg"
   },
   {
     "title": "Children's Room in temporary Seattle Central Library, ca. 1905",
@@ -686,7 +686,7 @@
       "-122.334896"
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4254/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4254/default.jpg"
   },
   {
     "title": "Ballard dock, ca. 1975",
@@ -704,7 +704,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4224/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4224/default.jpg"
   },
   {
     "title": "Office at Seattle Central Library, ca. 1910",
@@ -727,7 +727,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4248/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4248/default.jpg"
   },
   {
     "title": "Ballard machine shop, ca. 1975",
@@ -744,7 +744,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4251/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4251/default.jpg"
   },
   {
     "title": "Fremont Baptist Church, ca. 1975",
@@ -762,7 +762,7 @@
       "-122.349093"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4250/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4250/default.jpg"
   },
   {
     "title": "Man working at Ballard wharves, ca. 1975",
@@ -782,7 +782,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4243/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4243/default.jpg"
   },
   {
     "title": "Technology librarian at Seattle Central Library, ca. 1910",
@@ -803,7 +803,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4263/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4263/default.jpg"
   },
   {
     "title": "Men reading in Seattle Central Library Newspaper Room, ca. 1910",
@@ -825,7 +825,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4262/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4262/default.jpg"
   },
   {
     "title": "Salmon Bay Foundry Company, ca. 1975",
@@ -844,7 +844,7 @@
       "-122.387634"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4261/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4261/default.jpg"
   },
   {
     "title": "The Marketplace entryway on NW Market St., ca. 1975",
@@ -863,7 +863,7 @@
       "-122.385411"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4260/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4260/default.jpg"
   },
   {
     "title": "Parker and Bang's Union 76 Station on Leary Ave. NW, 1956",
@@ -886,7 +886,7 @@
       "-122.381809"
     ],
     "createdDate": "1956-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4258/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4258/default.jpg"
   },
   {
     "title": "Women at Seattle Central Library Registration Desk, ca. 1910",
@@ -907,7 +907,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4256/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4256/default.jpg"
   },
   {
     "title": "Unidentified Ballard buildings, ca. 1975",
@@ -923,7 +923,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4252/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4252/default.jpg"
   },
   {
     "title": "Women at desk in Seattle Central Library Children's Room, ca. 1911",
@@ -945,7 +945,7 @@
       "-122.332984"
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4240/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4240/default.jpg"
   },
   {
     "title": "Seattle Central Library reference stacks, 1940",
@@ -964,7 +964,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4223/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4223/default.jpg"
   },
   {
     "title": "View north on 1st Ave. from Pioneer Square, 1899",
@@ -994,7 +994,7 @@
       "-122.333886"
     ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4270/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4270/default.jpg"
   },
   {
     "title": "Line outside liquor store preparing for V-J Day celebrations, August 12, 1945",
@@ -1014,7 +1014,7 @@
       ""
     ],
     "createdDate": "1945-08-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4271/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4271/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Union St., January 1916Front",
@@ -1041,7 +1041,7 @@
       "-122.337997"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3842/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3842/default.jpg"
   },
   {
     "title": "View north from King Street Station, April 4, 1906Front",
@@ -1061,6 +1061,6 @@
       "-122.329936"
     ],
     "createdDate": "1906-04-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3845/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3845/default.jpg"
   }
 ]

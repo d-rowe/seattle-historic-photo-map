@@ -15,7 +15,7 @@
       "-122.326312"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3596/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3596/default.jpg"
   },
   {
     "title": "Waterfront from Marion St. to Union St., ca. 1868",
@@ -38,7 +38,7 @@
       "-122.370833"
     ],
     "createdDate": "1868-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3589/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3589/default.jpg"
   },
   {
     "title": "Temperance Hall on E. 72nd St., 1891",
@@ -61,7 +61,7 @@
       "-122.324129"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3593/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3593/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, May 22, 1991",
@@ -82,7 +82,7 @@
       "-122.326659"
     ],
     "createdDate": "1991-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3591/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3591/default.jpg"
   },
   {
     "title": "Bakery and Confectionery Workers Union local no. 9, ca. 1903",
@@ -100,7 +100,7 @@
       ""
     ],
     "createdDate": "1903-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3628/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3628/default.jpg"
   },
   {
     "title": "Librarian checking out books at Central Library, June 6, 1953",
@@ -125,7 +125,7 @@
       "-122.332984"
     ],
     "createdDate": "1953-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3632/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3632/default.jpg"
   },
   {
     "title": "Fauntleroy Church Sunday School class, 1908",
@@ -150,7 +150,7 @@
       "-122.387063"
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3635/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3635/default.jpg"
   },
   {
     "title": "Woodland Park gazebo, 1891",
@@ -171,7 +171,7 @@
       "-122.34407"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3630/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3630/default.jpg"
   },
   {
     "title": "Broadway High School All-City Orchestra, 1939-1940",
@@ -190,7 +190,7 @@
       "-122.321861"
     ],
     "createdDate": "1939-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3585/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3585/default.jpg"
   },
   {
     "title": "Ships near Pier 8, ca. 1905",
@@ -218,7 +218,7 @@
       "-122.342887"
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3582/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3582/default.jpg"
   },
   {
     "title": "Seattle streetcar, ca. 1925",
@@ -234,7 +234,7 @@
       ""
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3583/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3583/default.jpg"
   },
   {
     "title": "Green Lake streetcar, ca. 1925",
@@ -251,7 +251,7 @@
       "-122.354062"
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3586/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3586/default.jpg"
   },
   {
     "title": "Food conservation exhibit at Green Lake Library, ca. 1917",
@@ -274,7 +274,7 @@
       "-122.326659"
     ],
     "createdDate": "1917-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3579/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3579/default.jpg"
   },
   {
     "title": "Four men and Space Needle, ca. 1962",
@@ -295,7 +295,7 @@
       "-122.352175"
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3576/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3576/default.jpg"
   },
   {
     "title": "Green Lake fill, January 4, 1913",
@@ -317,7 +317,7 @@
       "-122.325661"
     ],
     "createdDate": "1913-01-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3580/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3580/default.jpg"
   },
   {
     "title": "Lake Union and Western Mill, 1888",
@@ -338,7 +338,7 @@
       "-122.338604"
     ],
     "createdDate": "1888-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3587/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3587/default.jpg"
   },
   {
     "title": "View south on Green Lake Way N. near N. 54th St., August 3, 1927",
@@ -359,7 +359,7 @@
       "-122.340068"
     ],
     "createdDate": "1927-08-03T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3578/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3578/default.jpg"
   },
   {
     "title": "Green Lake fill, June 1913",
@@ -379,7 +379,7 @@
       "-122.325661"
     ],
     "createdDate": "1913-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3584/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3584/default.jpg"
   },
   {
     "title": "Group at the Plaza of the States, 1962",
@@ -400,7 +400,7 @@
       "-122.350433"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3570/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3570/default.jpg"
   },
   {
     "title": "View south from N. 46th St and Woodland Park Ave. N., August 12, 1930",
@@ -422,7 +422,7 @@
       "-122.3446"
     ],
     "createdDate": "1930-08-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3574/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3574/default.jpg"
   },
   {
     "title": "Pike Place Market, June 22, 1971",
@@ -448,7 +448,7 @@
       "-122.340071"
     ],
     "createdDate": "1971-06-22T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3568/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3568/default.jpg"
   },
   {
     "title": "Woodland Park lawn bowling, ca. 1920",
@@ -467,7 +467,7 @@
       "-122.346239"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3573/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3573/default.jpg"
   },
   {
     "title": "James St. and Yesler Way, ca. 1867",
@@ -498,7 +498,7 @@
       "-122.334119"
     ],
     "createdDate": "1867-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3624/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3624/default.jpg"
   },
   {
     "title": "Boater on Green Lake, ca. 1910",
@@ -520,7 +520,7 @@
       "-122.325661"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3621/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3621/default.jpg"
   },
   {
     "title": "Green Lake fill, January 4, 1913",
@@ -542,7 +542,7 @@
       "-122.325661"
     ],
     "createdDate": "1913-01-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3616/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3616/default.jpg"
   },
   {
     "title": "Woodland Court Apartments, ca. 1930",
@@ -559,7 +559,7 @@
       "-122.349588"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3615/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3615/default.jpg"
   },
   {
     "title": "Green Lake School, 1906",
@@ -578,7 +578,7 @@
       "-122.328633"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3623/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3623/default.jpg"
   },
   {
     "title": "Intelligencer Office near 1st Ave. and Cherry St., ca. 1876",
@@ -600,7 +600,7 @@
       "-122.334303"
     ],
     "createdDate": "1876-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3618/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3618/default.jpg"
   },
   {
     "title": "Dexter Horton home, ca. 1870",
@@ -620,7 +620,7 @@
       "-122.333548"
     ],
     "createdDate": "1870-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3613/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3613/default.jpg"
   },
   {
     "title": "View north from E. Green Lake Way N. and NE Ravenna Blvd., May 25, 1921",
@@ -645,7 +645,7 @@
       "-122.325737"
     ],
     "createdDate": "1921-05-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3619/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3619/default.jpg"
   },
   {
     "title": "Smith Tower dragon, October 2007",
@@ -663,7 +663,7 @@
       "-122.331722"
     ],
     "createdDate": "2007-10-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3622/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3622/default.jpg"
   },
   {
     "title": "Works Progress Administration sign at Green Lake, March 12, 1937",
@@ -681,7 +681,7 @@
       "-122.325661"
     ],
     "createdDate": "1937-03-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3617/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3617/default.jpg"
   },
   {
     "title": "Woodland Park Rules and Regulations, 1891",
@@ -702,7 +702,7 @@
       "-122.34407"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3614/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3614/default.jpg"
   },
   {
     "title": "View south from E. Green Lake Way N. and NE Ravenna Blvd., May 25, 1921",
@@ -727,7 +727,7 @@
       "-122.325737"
     ],
     "createdDate": "1921-05-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3620/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3620/default.jpg"
   },
   {
     "title": "View south from Green Lake Way N. and N. 55th St.. February 2, 1927",
@@ -749,7 +749,7 @@
       "-122.340041"
     ],
     "createdDate": "1927-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3612/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3612/default.jpg"
   },
   {
     "title": "Group at Woodland Park, 1891",
@@ -767,7 +767,7 @@
       ""
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3572/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3572/default.jpg"
   },
   {
     "title": "Damaged Seattle streetcar, December 31, 1919",
@@ -784,7 +784,7 @@
       "-122.354347"
     ],
     "createdDate": "1919-12-31T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3567/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3567/default.jpg"
   },
   {
     "title": "1st Ave. S. north from S. Main St., 1877",
@@ -827,7 +827,7 @@
       "-122.334125"
     ],
     "createdDate": "1877-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3569/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3569/default.jpg"
   },
   {
     "title": "Woodland Park farm house, 1891",
@@ -848,7 +848,7 @@
       "-122.34407"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3575/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3575/default.jpg"
   },
   {
     "title": "Construction of Waterfront Park, June 26, 1974",
@@ -872,7 +872,7 @@
       "-122.341828"
     ],
     "createdDate": "1974-06-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3639/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3639/default.jpg"
   },
   {
     "title": "Greenwood Library open house at new building, January 21, 1954",
@@ -895,7 +895,7 @@
       "-122.354853"
     ],
     "createdDate": "1954-01-21T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3636/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3636/default.jpg"
   },
   {
     "title": "Homes at 5316, 5312 and 5308 Green Lake Way N., August 3, 1927",
@@ -916,7 +916,7 @@
       "-122.339706"
     ],
     "createdDate": "1927-08-03T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3638/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3638/default.jpg"
   },
   {
     "title": "R. Metz and Church in Israel member discussing the body of the Church's leader, Daniel Sawlt's, June 1929",
@@ -935,7 +935,7 @@
       "-122.368006"
     ],
     "createdDate": "1929-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3642/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3642/default.jpg"
   },
   {
     "title": "Seattle World's Fair truck advertisement, ca. 1962",
@@ -954,7 +954,7 @@
       ""
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3640/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3640/default.jpg"
   },
   {
     "title": "John Muir Elementary Drum and Bugle Corps, March 1, 1932",
@@ -974,7 +974,7 @@
       "-122.290713"
     ],
     "createdDate": "1932-03-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3646/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3646/default.jpg"
   },
   {
     "title": "Green Lake and Phinney's Boathouse from Woodland Park, 1891",
@@ -997,7 +997,7 @@
       "-122.34407"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3644/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3644/default.jpg"
   },
   {
     "title": "Woodland Park entrance lodge, 1891",
@@ -1022,7 +1022,7 @@
       "-122.34407"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3641/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3641/default.jpg"
   },
   {
     "title": "Child in Seattle slum, October 10, 1965",
@@ -1039,7 +1039,7 @@
       ""
     ],
     "createdDate": "1965-10-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3647/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3647/default.jpg"
   },
   {
     "title": "Man and boy hunting and fishing on Green Lake, 1896",
@@ -1065,7 +1065,7 @@
       "-122.341652"
     ],
     "createdDate": "1896-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3643/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3643/default.jpg"
   },
   {
     "title": "William Wood House at 308 E. 72nd St., ca. 1896",
@@ -1086,6 +1086,6 @@
       "-122.325457"
     ],
     "createdDate": "1896-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3637/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3637/default.jpg"
   }
 ]

@@ -26,8 +26,8 @@
       "-122.333547.611918",
       "-122.3335"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4557/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4557/default.jpg"
   },
   {
     "title": "Puget Sound from Lincoln Park, ca. 1930Front",
@@ -48,8 +48,8 @@
       "-122.39319947.531163",
       "-122.393199"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4551/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4551/default.jpg"
   },
   {
     "title": "Lake Washington Floating Bridge looking SE, ca. 1940Front",
@@ -80,8 +80,8 @@
       "-122.28814947.590057",
       "-122.288149"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4548/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4548/default.jpg"
   },
   {
     "title": "Lake Washington Canal Locks, ca. 1919front",
@@ -100,7 +100,7 @@
       "-122.398068"
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3262/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3262/default.jpg"
   },
   {
     "title": "Ballard Locks under construction, ca. 1915front",
@@ -120,7 +120,7 @@
       "-122.398068"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3265/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3265/default.jpg"
   },
   {
     "title": "Government Locks, Seattle, Wn., Nov. 14, 1944front",
@@ -144,7 +144,7 @@
       "-122.398068"
     ],
     "createdDate": "1944-11-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3280/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3280/default.jpg"
   },
   {
     "title": "Gov. Locks, Seattle, Wn., ca, 1950front",
@@ -167,7 +167,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3283/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3283/default.jpg"
   },
   {
     "title": "Aerial view of Seattle waterfront, ca. 1930Front",
@@ -193,7 +193,7 @@
       "-122.370833"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3878/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3878/default.jpg"
   },
   {
     "title": "Potlatch Parade north from near 1st Ave. and Cherry St., ca. 1911Front",
@@ -223,7 +223,7 @@
       "-122.334303"
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3890/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3890/default.jpg"
   },
   {
     "title": "Grand Trunk Pacific and Colman Docks from Elliott Bay, ca. 1910Front",
@@ -246,7 +246,7 @@
       "-122.370833"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3776/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3776/default.jpg"
   },
   {
     "title": "Lake Washington Floating Bridge looking east, ca. 1940Front",
@@ -277,8 +277,8 @@
       "-122.28814947.590057",
       "-122.288149"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4539/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4539/default.jpg"
   },
   {
     "title": "Edmond Meany Hotel, ca. 1935Front",
@@ -301,8 +301,8 @@
       "-122.31460947.661658",
       "-122.314609"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4369/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4369/default.jpg"
   },
   {
     "title": "Harborview Hospital, March 24, 1946Front",
@@ -335,8 +335,8 @@
       "-122.32405147.604335",
       "-122.324051"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4366/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4366/default.jpg"
   },
   {
     "title": "Puget Sound from Lincoln Park, ca. 1930Front",
@@ -357,8 +357,8 @@
       "-122.39319947.531163",
       "-122.393199"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4536/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4536/default.jpg"
   },
   {
     "title": "Billy Kritsonis and polar bear rug at Jonas Brothers taxidermy shop, October 23, 1949Front",
@@ -387,8 +387,8 @@
       "-122.32069947.616598",
       "-122.320699"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4545/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4545/default.jpg"
   },
   {
     "title": "Ballard playground, ca. 1910Front",
@@ -407,7 +407,7 @@
       "-122.392194"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3767/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3767/default.jpg"
   },
   {
     "title": "Men on hoseback in Shriner parade at 1st Ave. and Seneca, July 14, 1915Front",
@@ -456,8 +456,8 @@
       "-122.33756447.60612",
       "-122.337564"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4354/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4354/default.jpg"
   },
   {
     "title": "Gov't Locks, Seattle, Wn., ca. 1960front",
@@ -479,7 +479,7 @@
       "-122.398068"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3292/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3292/default.jpg"
   },
   {
     "title": "Government Locks, Seattle, Wn., ca. 1949front",
@@ -500,7 +500,7 @@
       "-122.398068"
     ],
     "createdDate": "1949-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3295/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3295/default.jpg"
   },
   {
     "title": "Forestry Building, ca. 1910Front",
@@ -520,7 +520,7 @@
       "-122.305959"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3686/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3686/default.jpg"
   },
   {
     "title": "President Hayes addressing Seattle crowd at Occidental Hotel, 1881Front",
@@ -547,8 +547,8 @@
       "47.602207",
       " -122.334076"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3689/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3689/default.jpg"
   },
   {
     "title": "Grayline S.S. Sightseer entering the Sound from U.S Government Locks at Ballard, ca. 1930front",
@@ -572,7 +572,7 @@
       "-122.398068"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3304/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3304/default.jpg"
   },
   {
     "title": "Government Locks, Seattle, Wash., ca. 1960front",
@@ -601,8 +601,8 @@
       "-122.39806847.666705",
       "-122.398068"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3307/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3307/default.jpg"
   },
   {
     "title": "Columns in front of Denny Hall, ca. 1920Front",
@@ -622,7 +622,7 @@
       "-122.308392"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3761/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3761/default.jpg"
   },
   {
     "title": "Fremont Branch, Seattle Public Library, ca. 1921Front",
@@ -640,7 +640,7 @@
       "-122.348423"
     ],
     "createdDate": "1921-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3758/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3758/default.jpg"
   },
   {
     "title": "Guy Jonas applying putty to taxidermied bear, October 23, 1949Front",
@@ -669,8 +669,8 @@
       "-122.32069947.616598",
       "-122.320699"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4530/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4530/default.jpg"
   },
   {
     "title": "Lake Washington Canal Locks, ca. 1919front",
@@ -690,7 +690,7 @@
       "-122.398068"
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3373/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3373/default.jpg"
   },
   {
     "title": "Physics Hall at the University of Washington, ca. 1950Front",
@@ -710,7 +710,7 @@
       "-122.30795"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3755/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3755/default.jpg"
   },
   {
     "title": "Pacific Squadron leaving Puget Sound, ca. 1910Front",
@@ -731,8 +731,8 @@
       "-122.37083347.607427",
       "-122.370833"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4524/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4524/default.jpg"
   },
   {
     "title": "Columns at the University of Washington, July 16, 1949Front",
@@ -749,7 +749,7 @@
       "-122.306311"
     ],
     "createdDate": "1948-07-16T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3764/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3764/default.jpg"
   },
   {
     "title": "Montlake Bridge, September 29, 1948front",
@@ -770,7 +770,7 @@
       "-122.304607"
     ],
     "createdDate": "1948-09-29T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3370/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3370/default.jpg"
   },
   {
     "title": "Faculty of Central School, May 7, 1883Recto",
@@ -795,7 +795,7 @@
       "-122.330695"
     ],
     "createdDate": "1883-05-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2254/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2254/default.jpg"
   },
   {
     "title": "Group portrait of Ballard schoolchildren, ca. 1900Recto",
@@ -818,7 +818,7 @@
       "-122.384367"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2260/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2260/default.jpg"
   },
   {
     "title": "Columns at University of Washington in snow, February 1916Front",
@@ -837,7 +837,7 @@
       "-122.306311"
     ],
     "createdDate": "1916-02-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3797/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3797/default.jpg"
   },
   {
     "title": "Lake Washington Floating Bridge opening day, July 2, 1940Front",
@@ -872,8 +872,8 @@
       "-122.28814947.590057",
       "-122.288149"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4569/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4569/default.jpg"
   },
   {
     "title": "Puget Sound from Lincoln Park, ca. 1930Front",
@@ -894,8 +894,8 @@
       "-122.39319947.531163",
       "-122.393199"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4566/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4566/default.jpg"
   },
   {
     "title": "Hutchinson Hall, ca. 1950Front",
@@ -915,7 +915,7 @@
       "-122.306675"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3800/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3800/default.jpg"
   },
   {
     "title": "Guy Jonas, April 10, 1938Front",
@@ -940,8 +940,8 @@
       "-122.33380147.606902",
       "-122.333801"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4563/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4563/default.jpg"
   },
   {
     "title": "Ballard Orpheus Club, ca. 1900Recto",
@@ -978,7 +978,7 @@
       ""
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2263/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2263/default.jpg"
   },
   {
     "title": "Group portrait of Ballard schoolchildren, 1902Recto",
@@ -1001,7 +1001,7 @@
       "-122.384367"
     ],
     "createdDate": "1902-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2257/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2257/default.jpg"
   },
   {
     "title": "Harborview Hospital from Smith Tower, ca. 1950Front",
@@ -1036,8 +1036,8 @@
       "-122.32405147.604335",
       "-122.324051"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4351/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4351/default.jpg"
   },
   {
     "title": "Holiday card featuring University of Washington crew, December 23, 1932Inside",
@@ -1064,8 +1064,8 @@
       "-122.25575647.621547",
       "-122.255756"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4345/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4345/default.jpg"
   },
   {
     "title": "Marching band in Shriner parade at 1st Ave. and Seneca, July 14, 1915Front",
@@ -1116,8 +1116,8 @@
       "-122.33756447.60612",
       "-122.337564"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4348/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4348/default.jpg"
   },
   {
     "title": "Lake Washington Boulevard and Mt. Rainier, Seattle, Wn., ca. 1935front",
@@ -1144,8 +1144,8 @@
     "coordinates": [
       ""
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3310/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3310/default.jpg"
   },
   {
     "title": "Portrait of Catherine Blaine, ca. 1880Front",
@@ -1163,7 +1163,7 @@
       ""
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2796/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2796/default.jpg"
   },
   {
     "title": "3rd Ave. and Jefferson St. after the fire, July 1889shp_40463a",
@@ -1196,7 +1196,7 @@
       "-122.330816"
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3564/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3564/default.jpg"
   },
   {
     "title": "Bagpipers in Shriner parade at 1st Ave. and Seneca, July 14, 1915Front",
@@ -1245,8 +1245,8 @@
       "-122.33756447.60612",
       "-122.337564"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4339/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4339/default.jpg"
   },
   {
     "title": "Civic Auditorium and Mount Rainier, ca. 1930Front",
@@ -1270,7 +1270,7 @@
       "-122.350357"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3695/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3695/default.jpg"
   },
   {
     "title": "Locks on Lake Washington Canal, January 18, 1919front",
@@ -1290,7 +1290,7 @@
       "-122.398068"
     ],
     "createdDate": "1919-01-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3319/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3319/default.jpg"
   },
   {
     "title": "Fremont Bridge, ca. 1921Front",
@@ -1308,6 +1308,6 @@
       "-122.349747"
     ],
     "createdDate": "1921-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2935/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2935/default.jpg"
   }
 ]

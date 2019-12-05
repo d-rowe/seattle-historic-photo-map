@@ -15,9 +15,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "",
-    "coordinates": ["47.547555", "-122.315864"],
+    "coordinates": [
+      "47.547555",
+      "-122.315864"
+    ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1265/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1265/default.jpg"
   },
   {
     "title": "Yesler-Leary block, 1887",
@@ -44,9 +47,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1268/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1268/default.jpg"
   },
   {
     "title": "Seattle Public Library Deposit Station No. 1, Weeds Pharmacy, 1912",
@@ -62,9 +68,12 @@
     ],
     "photographer": "Romans Photographic Company",
     "intersection": "",
-    "coordinates": ["47.599161", "-122.29854"],
+    "coordinates": [
+      "47.599161",
+      "-122.29854"
+    ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1266/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1266/default.jpg"
   },
   {
     "title": "W.M. Somervell House at Seattle Golf and Country Club, ca. 1915",
@@ -77,9 +86,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.735914", "-122.360519"],
+    "coordinates": [
+      "47.735914",
+      "-122.360519"
+    ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1271/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1271/default.jpg"
   },
   {
     "title": "Central Branch, Seattle Public Library, 1910",
@@ -100,9 +112,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1261/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1261/default.jpg"
   },
   {
     "title": "Seattle Public Library, Central Branch Reference Room, 1910",
@@ -117,9 +132,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1263/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1263/default.jpg"
   },
   {
     "title": "Seattle Public Library, Central Branch Periodical Room, 1910",
@@ -134,9 +152,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1262/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1262/default.jpg"
   },
   {
     "title": "Collins Building, ca. 1894",
@@ -166,9 +187,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1277/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1277/default.jpg"
   },
   {
     "title": "First Home of Seattle Public Library, ca. 1891",
@@ -191,9 +215,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.602207", "-122.334076"],
+    "coordinates": [
+      "47.602207",
+      "-122.334076"
+    ],
     "createdDate": "1891-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1275/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1275/default.jpg"
   },
   {
     "title": "Sailing ships at coal bunkers near the base of S. King St., 1882",
@@ -211,9 +238,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1281/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1281/default.jpg"
   },
   {
     "title": "Trinity Parish Church, 1903",
@@ -228,9 +258,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.605127", "-122.326347"],
+    "coordinates": [
+      "47.605127",
+      "-122.326347"
+    ],
     "createdDate": "1903-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1273/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1273/default.jpg"
   },
   {
     "title": "Gipsy Smith with Seattle Minister's Federation in front of YMCA, November 6, 1911",
@@ -246,9 +279,12 @@
     ],
     "photographer": "Meyer, E.L.",
     "intersection": "",
-    "coordinates": ["47.605463", "-122.332779"],
+    "coordinates": [
+      "47.605463",
+      "-122.332779"
+    ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1279/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1279/default.jpg"
   },
   {
     "title": "Woodland Park and Green Lake development plans, 1910",
@@ -266,9 +302,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1282/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1282/default.jpg"
   },
   {
     "title": "Mexico (steamer) at wharves, 1882",
@@ -286,9 +325,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way S. and S. Main St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1280/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1280/default.jpg"
   },
   {
     "title": "3rd home of Seattle Public Library in the Rialto Building, ca. 1910",
@@ -312,9 +354,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1274/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1274/default.jpg"
   },
   {
     "title": "Carson D. Boren house, 1870",
@@ -333,9 +378,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Cherry St.",
-    "coordinates": ["47.603048", "-122.333323"],
+    "coordinates": [
+      "47.603048",
+      "-122.333323"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1278/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1278/default.jpg"
   },
   {
     "title": "First logs on Columbia and Puget Sound Railroad, 1880",
@@ -352,9 +400,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1283/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1283/default.jpg"
   },
   {
     "title": "Georgetown Branch, Seattle Public Library, 1940",
@@ -371,9 +422,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.547555", "-122.315864"],
+    "coordinates": [
+      "47.547555",
+      "-122.315864"
+    ],
     "createdDate": "1940-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1276/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1276/default.jpg"
   },
   {
     "title": "Future site of Seattle Public Library at 4th Ave. and Madison St., ca. 1904",
@@ -393,9 +447,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1904-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1272/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1272/default.jpg"
   },
   {
     "title": "Pike St. east from 2nd Ave., 1905",
@@ -420,9 +477,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1284/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1284/default.jpg"
   },
   {
     "title": "View from Yesler Hill, 1874",
@@ -437,9 +497,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1874-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1293/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1293/default.jpg"
   },
   {
     "title": "Collins Playground Story Hour, ca. 1910",
@@ -459,9 +521,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "16th Ave. S. and S. Washington St.",
-    "coordinates": ["47.600846", "-122.311574"],
+    "coordinates": [
+      "47.600846",
+      "-122.311574"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1289/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1289/default.jpg"
   },
   {
     "title": "Fourth Home of the Seattle Public Library, ca. 1899",
@@ -480,9 +545,12 @@
     ],
     "photographer": "Romans Photographic Company",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.60264", "-122.330468"],
+    "coordinates": [
+      "47.60264",
+      "-122.330468"
+    ],
     "createdDate": "1899-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1285/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1285/default.jpg"
   },
   {
     "title": "St. Joseph's Church, ca. 1930",
@@ -496,9 +564,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.626607", "-122.307959"],
+    "coordinates": [
+      "47.626607",
+      "-122.307959"
+    ],
     "createdDate": "1930-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1295/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1295/default.jpg"
   },
   {
     "title": "1st Ave. S. north from S. Washington St., 1865",
@@ -521,9 +592,12 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1865-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1294/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1294/default.jpg"
   },
   {
     "title": "James St. and Yesler Way., 1880",
@@ -555,9 +629,12 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1292/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1292/default.jpg"
   },
   {
     "title": "South Park Fieldhouse Station, Seattle Public Library, ca. 1912",
@@ -576,9 +653,12 @@
     ],
     "photographer": "Curtis & MillerRomans Photographic Company",
     "intersection": "",
-    "coordinates": ["47.528393", "-122.324032"],
+    "coordinates": [
+      "47.528393",
+      "-122.324032"
+    ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1286/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1286/default.jpg"
   },
   {
     "title": "3rd home of Seattle Public Library in the Rialto Building, ca. 1896",
@@ -599,9 +679,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1896-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1290/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1290/default.jpg"
   },
   {
     "title": "Firemen's Deposit Station, ca. 1912",
@@ -617,9 +700,11 @@
     ],
     "photographer": "Romans Photographic Company",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1288/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1288/default.jpg"
   },
   {
     "title": "First Home of Seattle Public Library, ca. 1891",
@@ -642,9 +727,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.602207", "-122.334076"],
+    "coordinates": [
+      "47.602207",
+      "-122.334076"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1291/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1291/default.jpg"
   },
   {
     "title": "Ross Playground Station, Seattle Public Library, ca. 1912",
@@ -663,9 +751,12 @@
     ],
     "photographer": "Romans Photographic Company",
     "intersection": "",
-    "coordinates": ["47.622929", "-122.322318"],
+    "coordinates": [
+      "47.622929",
+      "-122.322318"
+    ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1287/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1287/default.jpg"
   },
   {
     "title": "Yesler's wharf, ca. 1885",
@@ -691,9 +782,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
-    "coordinates": ["47.601735", "-122.336591"],
+    "coordinates": [
+      "47.601735",
+      "-122.336591"
+    ],
     "createdDate": "1885-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1296/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1296/default.jpg"
   },
   {
     "title": "View of temporary tents erected after fire from 2nd Ave. and James St., June 1889",
@@ -711,9 +805,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1299/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1299/default.jpg"
   },
   {
     "title": "Arthur Bernard Langlie, 1940",
@@ -726,9 +823,11 @@
     ],
     "photographer": "Walters Studio",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1940-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1300/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1300/default.jpg"
   },
   {
     "title": "Native American camp on Ballast Island at foot of S. Washington St., June 4, 1892",
@@ -747,9 +846,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1892-06-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1298/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1298/default.jpg"
   },
   {
     "title": "L.C. Smith Building, ca. 1914",
@@ -769,9 +871,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.60198", "-122.331717"],
+    "coordinates": [
+      "47.60198",
+      "-122.331717"
+    ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1304/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1304/default.jpg"
   },
   {
     "title": "Arthur Alexander Phinney, ca. 1912",
@@ -783,9 +888,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1303/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1303/default.jpg"
   },
   {
     "title": "Marine Hospital, ca. 1932",
@@ -798,9 +905,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.592808", "-122.315956"],
+    "coordinates": [
+      "47.592808",
+      "-122.315956"
+    ],
     "createdDate": "1932-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1306/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1306/default.jpg"
   },
   {
     "title": "U.S. Courthouse, ca. 1939",
@@ -817,9 +927,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607303", "-122.331198"],
+    "coordinates": [
+      "47.607303",
+      "-122.331198"
+    ],
     "createdDate": "1939-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1305/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1305/default.jpg"
   },
   {
     "title": "Northern Life Building, ca. 1929",
@@ -841,9 +954,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607738", "-122.335473"],
+    "coordinates": [
+      "47.607738",
+      "-122.335473"
+    ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1307/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1307/default.jpg"
   },
   {
     "title": "President Garfield memorial service at Occidental Hotel, 1881",
@@ -862,9 +978,12 @@
     ],
     "photographer": "",
     "intersection": "James St. and Yesler Way",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1881-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1297/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1297/default.jpg"
   },
   {
     "title": "West Seattle ferry dock, ca. 1900",
@@ -880,9 +999,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.592121", "-122.382325"],
+    "coordinates": [
+      "47.592121",
+      "-122.382325"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1301/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1301/default.jpg"
   },
   {
     "title": "William F. Devin, 1942",
@@ -895,9 +1017,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1942-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1302/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1302/default.jpg"
   },
   {
     "title": "Our Lady of the Lake Church, ca. 1941",
@@ -911,9 +1035,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.69358", "-122.290257"],
+    "coordinates": [
+      "47.69358",
+      "-122.290257"
+    ],
     "createdDate": "1941-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1308/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1308/default.jpg"
   },
   {
     "title": "Our Lady of the Lake Church interior, ca. 1941",
@@ -927,9 +1054,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.69358", "-122.290257"],
+    "coordinates": [
+      "47.69358",
+      "-122.290257"
+    ],
     "createdDate": "1941-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1309/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1309/default.jpg"
   },
   {
     "title": "Horace Chapin Henry house, ca. 1910",
@@ -943,9 +1073,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.629236", "-122.322358"],
+    "coordinates": [
+      "47.629236",
+      "-122.322358"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1311/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1311/default.jpg"
   },
   {
     "title": "Grosvenor House Apartment Building, ca. 1950",
@@ -962,9 +1095,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.617935", "-122.345319"],
+    "coordinates": [
+      "47.617935",
+      "-122.345319"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1315/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1315/default.jpg"
   },
   {
     "title": "Federal Reserve Bank, 1950",
@@ -983,9 +1119,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.60538", "-122.335792"],
+    "coordinates": [
+      "47.60538",
+      "-122.335792"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1316/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1316/default.jpg"
   },
   {
     "title": "Seattle Central Library construction, ca. 1906",
@@ -1005,9 +1144,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1906-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1313/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1313/default.jpg"
   },
   {
     "title": "Husky Stadium, 1950",
@@ -1021,8 +1163,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.649736", "-122.301931"],
+    "coordinates": [
+      "47.649736",
+      "-122.301931"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1319/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1319/default.jpg"
   }
 ]

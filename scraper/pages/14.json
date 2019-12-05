@@ -9,9 +9,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1860-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1811/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1811/default.jpg"
   },
   {
     "title": "John C. Holgate, ca. 1860",
@@ -23,20 +25,27 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1860-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1808/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1808/default.jpg"
   },
   {
     "title": "David Thomas Denny, 1894",
     "identifier": "spl_shp_14987",
     "description": "Transcribed from photograph: \"Portraits. Denny, David Thomas. 1832-1903. 1894.\"",
-    "subjects": ["Portraits--Washington (State)--Seattle", "Denny, David T."],
+    "subjects": [
+      "Portraits--Washington (State)--Seattle",
+      "Denny, David T."
+    ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1802/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1802/default.jpg"
   },
   {
     "title": "Bailey Gatzert, ca. 1875",
@@ -48,9 +57,11 @@
     ],
     "photographer": "Lainer, Charles",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1875-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1806/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1806/default.jpg"
   },
   {
     "title": "Thomas Jefferson Humes, ca. 1900",
@@ -63,9 +74,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1809/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1809/default.jpg"
   },
   {
     "title": "Louisa Boren Denny, 1894",
@@ -78,9 +91,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1804/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1804/default.jpg"
   },
   {
     "title": "David Thomas Denny family, 1858",
@@ -96,9 +111,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1858-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1803/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1803/default.jpg"
   },
   {
     "title": "Edward A. Clark, 1852",
@@ -111,9 +128,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1852-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1800/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1800/default.jpg"
   },
   {
     "title": "Union St. and 3rd Ave., ca. 1945",
@@ -135,9 +154,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "3rd Ave. and Union St.",
-    "coordinates": ["47.60825", "-122.336548"],
+    "coordinates": [
+      "47.60825",
+      "-122.336548"
+    ],
     "createdDate": "1945-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1822/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1822/default.jpg"
   },
   {
     "title": "David Swinson Maynard, ca. 1868",
@@ -150,9 +172,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1868-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1813/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1813/default.jpg"
   },
   {
     "title": "Olympic Hotel from 5th Ave. and Spring St., 1951",
@@ -176,9 +200,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. and Spring St.",
-    "coordinates": ["47.607262", "-122.332447"],
+    "coordinates": [
+      "47.607262",
+      "-122.332447"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1819/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1819/default.jpg"
   },
   {
     "title": "View NW from Smith Tower, 1949",
@@ -200,9 +227,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.60198", "-122.331717"],
+    "coordinates": [
+      "47.60198",
+      "-122.331717"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1817/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1817/default.jpg"
   },
   {
     "title": "View east from 4th Ave. and Yesler Way, 1950",
@@ -224,9 +254,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.60198", "-122.331717"],
+    "coordinates": [
+      "47.60198",
+      "-122.331717"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1820/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1820/default.jpg"
   },
   {
     "title": "View NW from 5th Ave. S. and S. King St., 1950",
@@ -245,9 +278,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. S. and S. King St.",
-    "coordinates": ["47.598351", "-122.32765"],
+    "coordinates": [
+      "47.598351",
+      "-122.32765"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1823/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1823/default.jpg"
   },
   {
     "title": "View north from 4th Ave. and Spring St., 1950",
@@ -275,9 +311,12 @@
     ],
     "photographer": "",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1821/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1821/default.jpg"
   },
   {
     "title": "View east from 4th Ave. and Yesler Way, 1949",
@@ -298,9 +337,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.60198", "-122.331717"],
+    "coordinates": [
+      "47.60198",
+      "-122.331717"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1818/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1818/default.jpg"
   },
   {
     "title": "Thomas Mercer, ca. 1890",
@@ -312,9 +354,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1814/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1814/default.jpg"
   },
   {
     "title": "Aerial view of Elliott Bay and waterfront, 1950",
@@ -334,9 +378,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1816/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1816/default.jpg"
   },
   {
     "title": "View southeast from Northern Life Tower, 1949",
@@ -369,9 +416,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607738", "-122.335473"],
+    "coordinates": [
+      "47.607738",
+      "-122.335473"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1815/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1815/default.jpg"
   },
   {
     "title": "Catherine Troutman Maynard, ca. 1868",
@@ -384,9 +434,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1868-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1812/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1812/default.jpg"
   },
   {
     "title": "Totem Pole in Woodland Park, 1950",
@@ -400,9 +452,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1826/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1826/default.jpg"
   },
   {
     "title": "Lake Union, looking northwest across Portage Bay, ca. 1950",
@@ -423,9 +478,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.647221", "-122.316408"],
+    "coordinates": [
+      "47.647221",
+      "-122.316408"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1825/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1825/default.jpg"
   },
   {
     "title": "Seattle Public Library, Central Library exterior, ca. 1950",
@@ -444,9 +502,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1834/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1834/default.jpg"
   },
   {
     "title": "Lacey V. Murrow Bridge, ca. 1960",
@@ -461,9 +522,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.589919", "-122.284092"],
+    "coordinates": [
+      "47.589919",
+      "-122.284092"
+    ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1831/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1831/default.jpg"
   },
   {
     "title": "Totem Pole in Belvedere Place, West Seattle, 1955",
@@ -481,9 +545,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.579149", "-122.351281"],
+    "coordinates": [
+      "47.579149",
+      "-122.351281"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1828/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1828/default.jpg"
   },
   {
     "title": "Looking south toward Pioneer Place, 1953",
@@ -503,9 +570,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.602034", "-122.333886"],
+    "coordinates": [
+      "47.602034",
+      "-122.333886"
+    ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1832/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1832/default.jpg"
   },
   {
     "title": "Looking north toward Fisher Flouring Mills plant from Spokane St. viaduct, 1949",
@@ -529,9 +599,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.571643", "-122.335077"],
+    "coordinates": [
+      "47.571643",
+      "-122.335077"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1835/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1835/default.jpg"
   },
   {
     "title": "Lacey V. Murrow Bridge tunnel entrance, ca. 1960",
@@ -548,9 +621,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.590057", "-122.288149"],
+    "coordinates": [
+      "47.590057",
+      "-122.288149"
+    ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1830/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1830/default.jpg"
   },
   {
     "title": "George Washington Memorial Bridge (Aurora), ca. 1950",
@@ -573,9 +649,12 @@
     ],
     "photographer": "Seattle Times",
     "intersection": "",
-    "coordinates": ["47.647615", "-122.347355"],
+    "coordinates": [
+      "47.647615",
+      "-122.347355"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1829/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1829/default.jpg"
   },
   {
     "title": "Pioneer Place Totem Pole, 1953",
@@ -591,9 +670,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602034", "-122.333886"],
+    "coordinates": [
+      "47.602034",
+      "-122.333886"
+    ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1827/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1827/default.jpg"
   },
   {
     "title": "University St. west from 5th Ave., 1950",
@@ -617,9 +699,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. and University St.",
-    "coordinates": ["47.608691", "-122.333759"],
+    "coordinates": [
+      "47.608691",
+      "-122.333759"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1824/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1824/default.jpg"
   },
   {
     "title": "Inscription on Pioneer Place totem pole, 1953",
@@ -634,9 +719,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.602034", "-122.333886"],
+    "coordinates": [
+      "47.602034",
+      "-122.333886"
+    ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1833/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1833/default.jpg"
   },
   {
     "title": "Art Building, University of Washington, 1949",
@@ -651,9 +739,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.658403", "-122.306412"],
+    "coordinates": [
+      "47.658403",
+      "-122.306412"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1838/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1838/default.jpg"
   },
   {
     "title": "Pike Place Market stalls, 1950",
@@ -669,9 +760,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.608444 ", "-122.340549"],
+    "coordinates": [
+      "47.608444 ",
+      "-122.340549"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1837/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1837/default.jpg"
   },
   {
     "title": "\"Inspiration,\" Suzzallo Library, University of Washington, ca. 1955",
@@ -688,9 +782,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1846/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1846/default.jpg"
   },
   {
     "title": "Denny Hall, University of Washington, ca. 1950",
@@ -706,9 +803,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.658393", "-122.308833"],
+    "coordinates": [
+      "47.658393",
+      "-122.308833"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1840/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1840/default.jpg"
   },
   {
     "title": "\"Thought,\" Suzzallo Library, University of Washington, ca. 1955",
@@ -725,9 +825,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1844/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1844/default.jpg"
   },
   {
     "title": "Electrical Engineering Building, University of Washington, 1948",
@@ -741,9 +844,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.653286", "-122.305957"],
+    "coordinates": [
+      "47.653286",
+      "-122.305957"
+    ],
     "createdDate": "1948-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1847/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1847/default.jpg"
   },
   {
     "title": "Meany Hall, University of Washington, ca. 1950",
@@ -757,9 +863,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655709", "-122.310569"],
+    "coordinates": [
+      "47.655709",
+      "-122.310569"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1842/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1842/default.jpg"
   },
   {
     "title": "Meany Hall, University of Washington, 1909",
@@ -777,9 +886,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655709", "-122.310569"],
+    "coordinates": [
+      "47.655709",
+      "-122.310569"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1841/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1841/default.jpg"
   },
   {
     "title": "Suzzallo Library, University of Washington, ca. 1955",
@@ -795,9 +907,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1843/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1843/default.jpg"
   },
   {
     "title": "Administration Building, University of Washington, 1949",
@@ -812,9 +927,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.655319", "-122.309352"],
+    "coordinates": [
+      "47.655319",
+      "-122.309352"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1839/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1839/default.jpg"
   },
   {
     "title": "Looking west toward Alaska Steamship Co. pier, 1950",
@@ -839,9 +957,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.60198", "-122.331717"],
+    "coordinates": [
+      "47.60198",
+      "-122.331717"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1836/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1836/default.jpg"
   },
   {
     "title": "\"Mastery,\" Suzzallo Library, University of Washington, ca. 1955",
@@ -858,9 +979,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1845/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1845/default.jpg"
   },
   {
     "title": "Central School, ca. 1950",
@@ -876,9 +1000,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "6th Ave. and Madison St.",
-    "coordinates": ["47.607015", "-122.330695"],
+    "coordinates": [
+      "47.607015",
+      "-122.330695"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1850/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1850/default.jpg"
   },
   {
     "title": "Victorian style residence at 304 1st Ave. N., 1951",
@@ -892,9 +1019,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.621041", "-122.355412"],
+    "coordinates": [
+      "47.621041",
+      "-122.355412"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1851/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1851/default.jpg"
   },
   {
     "title": "Central School, ca. 1950",
@@ -909,9 +1039,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "6th Ave. and Madison St.",
-    "coordinates": ["47.607015", "-122.330695"],
+    "coordinates": [
+      "47.607015",
+      "-122.330695"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1849/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1849/default.jpg"
   },
   {
     "title": "Administration Building, Seattle Public Schools, 1950",
@@ -924,9 +1057,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.626785", "-122.348873"],
+    "coordinates": [
+      "47.626785",
+      "-122.348873"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1848/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1848/default.jpg"
   },
   {
     "title": "7th Ave. W.and W. Olympic Pl., 1956",
@@ -940,9 +1076,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. W. and W. Olympic Pl.",
-    "coordinates": ["47.627687", "-122.366127"],
+    "coordinates": [
+      "47.627687",
+      "-122.366127"
+    ],
     "createdDate": "1956-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1928/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1928/default.jpg"
   },
   {
     "title": "A.U.O.W. band of Seattle, 1902",
@@ -955,8 +1094,10 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1902-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1926/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1926/default.jpg"
   }
 ]

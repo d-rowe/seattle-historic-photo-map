@@ -14,7 +14,7 @@
       ""
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4500/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4500/default.jpg"
   },
   {
     "title": "Seattle's shopping center, ca. 1945",
@@ -37,7 +37,7 @@
       "-122.339809"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4502/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4502/default.jpg"
   },
   {
     "title": "Scenic grandeur along Lake Washington Blvd. showing Mt. Rainier, Seattle, ca. 1945",
@@ -55,7 +55,7 @@
       ""
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4501/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4501/default.jpg"
   },
   {
     "title": "Gilbert and Pat, ca. 1940",
@@ -72,7 +72,7 @@
       ""
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4427/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4427/default.jpg"
   },
   {
     "title": "West Seattle Library branch children's room, 1910",
@@ -92,7 +92,7 @@
       "-122.384696"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4419/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4419/default.jpg"
   },
   {
     "title": "Totem pole in Pioneer Square, Seattle, Wn., ca. 1945",
@@ -117,7 +117,7 @@
       "-122.334303"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4494/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4494/default.jpg"
   },
   {
     "title": "Crossing Mazama Ridge - Mount Rainier, Wash., ca. 1945",
@@ -136,7 +136,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4496/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4496/default.jpg"
   },
   {
     "title": "Lake Washington Pontoon Bridge, ca. 1945",
@@ -155,7 +155,7 @@
       "-122.279023"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4493/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4493/default.jpg"
   },
   {
     "title": "Highway approaching Sunrise - Rainier National Park, ca. 1945",
@@ -174,7 +174,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4492/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4492/default.jpg"
   },
   {
     "title": "Lake Tipsoo, Mount Rainier in the background, ca. 1945",
@@ -193,7 +193,7 @@
       "-121.517471"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4497/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4497/default.jpg"
   },
   {
     "title": "B-17 \"Flying Fortress\" over Mt. Rainier, ca. 1945",
@@ -211,7 +211,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4489/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4489/default.jpg"
   },
   {
     "title": "Snow-covered Mount Rainier in the spring, ca. 1945",
@@ -229,7 +229,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4490/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4490/default.jpg"
   },
   {
     "title": "Aeroplane view of Seattle, Wn., ca. 1945",
@@ -250,7 +250,7 @@
       ""
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4498/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4498/default.jpg"
   },
   {
     "title": "Swans in pond, ca. 1945",
@@ -266,7 +266,7 @@
       ""
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4491/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4491/default.jpg"
   },
   {
     "title": "Mount Rainier, ca. 1945",
@@ -285,7 +285,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4495/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4495/default.jpg"
   },
   {
     "title": "Mount Rainier mirrored in Lake Spanaway, ca. 1945",
@@ -304,7 +304,7 @@
       "-122.447408"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4499/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4499/default.jpg"
   },
   {
     "title": "Kalakala - World famous streamlined ferry - Seattle, Wn., ca. 1945",
@@ -320,7 +320,7 @@
       ""
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4488/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4488/default.jpg"
   },
   {
     "title": "South Lake Union sawmills, ca. 1889",
@@ -339,7 +339,7 @@
       "-122.337129"
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4441/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4441/default.jpg"
   },
   {
     "title": "West Seattle reservoir construction, October 29, 1931",
@@ -361,7 +361,7 @@
       "-122.345457"
     ],
     "createdDate": "1931-10-29T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4445/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4445/default.jpg"
   },
   {
     "title": "Constructing first macadam road near Duwamish, 1906",
@@ -381,7 +381,7 @@
       ""
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4448/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4448/default.jpg"
   },
   {
     "title": "James Wegner's \"Alice\" sculpture at Seattle Central Library, 1966",
@@ -401,7 +401,7 @@
       "-122.332984"
     ],
     "createdDate": "1966-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4442/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4442/default.jpg"
   },
   {
     "title": "New Richmond Cafe, ca. 1915",
@@ -423,7 +423,7 @@
       "-122.328515"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4403/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4403/default.jpg"
   },
   {
     "title": "New Richmond Cafe interior, ca. 1915",
@@ -445,7 +445,7 @@
       "-122.328515"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4394/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4394/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction, June 22, 1929",
@@ -467,7 +467,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-06-22T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4401/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4401/default.jpg"
   },
   {
     "title": "Chippewa ferry, ca. 1930",
@@ -484,7 +484,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4402/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4402/default.jpg"
   },
   {
     "title": "View south from Washington Hotel, 1904Front",
@@ -523,8 +523,8 @@
       "-122.34021847.612026",
       "-122.340218"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4336/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4336/default.jpg"
   },
   {
     "title": "Puget Sound Naval Yard 4th Company, 3rd Battalion, October 1917",
@@ -544,7 +544,7 @@
       "-122.637224"
     ],
     "createdDate": "1917-10-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4400/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4400/default.jpg"
   },
   {
     "title": "Gardens at 4th Ave. entrance of Seattle Central Library, ca. 1960",
@@ -564,7 +564,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4396/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4396/default.jpg"
   },
   {
     "title": "Aerial view of 1-90 looking west, April 7, 1973",
@@ -592,7 +592,7 @@
       "-122.164482"
     ],
     "createdDate": "1973-04-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4397/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4397/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction workers, April 1, 1929",
@@ -615,7 +615,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4438/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4438/default.jpg"
   },
   {
     "title": "Bonney Watson Funeral Home, ca. 1915",
@@ -634,7 +634,7 @@
       "-122.320699"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4430/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4430/default.jpg"
   },
   {
     "title": "University Branch of the Seattle Public Library, 1955",
@@ -655,7 +655,7 @@
       "-122.317883"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4431/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4431/default.jpg"
   },
   {
     "title": "Worker on excavator at Port of Seattle construction project, ca. 1975",
@@ -677,7 +677,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4385/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4385/default.jpg"
   },
   {
     "title": "Bonney Watson Funeral Home, ca. 1915",
@@ -696,7 +696,7 @@
       "-122.320699"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4392/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4392/default.jpg"
   },
   {
     "title": "Igorrotes at the Alaska-Yukon-Pacific Exposition, 1909",
@@ -716,7 +716,7 @@
       "-122.308369"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4398/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4398/default.jpg"
   },
   {
     "title": "View north from Harbor Island, ca. 1975",
@@ -738,7 +738,7 @@
       "-122.346560"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4399/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4399/default.jpg"
   },
   {
     "title": "Workers and equipment at Port of Seattle construction project, ca. 1975",
@@ -760,7 +760,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4439/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4439/default.jpg"
   },
   {
     "title": "Workers laying a pipe in trench at Port of Seattle construction project, ca. 1975",
@@ -782,7 +782,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4437/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4437/default.jpg"
   },
   {
     "title": "Mary D. Hume steam whaler, ca. 1940",
@@ -798,7 +798,7 @@
       ""
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4444/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4444/default.jpg"
   },
   {
     "title": "Aerial view of Des Moines looking south, March 19, 1974",
@@ -821,7 +821,7 @@
       "-122.326048"
     ],
     "createdDate": "1974-03-19T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4450/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4450/default.jpg"
   },
   {
     "title": "Yesler Branch of the Seattle Public Library, ca. 1925",
@@ -842,7 +842,7 @@
       "-122.30165"
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4395/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4395/default.jpg"
   },
   {
     "title": "Streetcars in snow at 4th Ave. and Pike St., February 2, 1916Front",
@@ -867,7 +867,7 @@
       "-122.336685"
     ],
     "createdDate": "1916-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3869/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3869/default.jpg"
   },
   {
     "title": "View north from near 4th Ave. and Pike St., ca. 1944Front",
@@ -891,7 +891,7 @@
       "-122.336685"
     ],
     "createdDate": "1944-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3692/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3692/default.jpg"
   },
   {
     "title": "Snow at 4th Ave. and Pike St., February 1916Front",
@@ -932,8 +932,8 @@
       "-122.33668547.610212",
       "-122.336685"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3719/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3719/default.jpg"
   },
   {
     "title": "U.S. Government Canal Locks. Seattle, Wash., ca. 1929front",
@@ -956,7 +956,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3274/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3274/default.jpg"
   },
   {
     "title": "U.S. Government Locks - Seattle, Wash., ca. 1929front",
@@ -977,7 +977,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3316/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3316/default.jpg"
   },
   {
     "title": "U.S. Government Locks, Seattle, Wash., ca. 1929front",
@@ -999,7 +999,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3331/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3331/default.jpg"
   },
   {
     "title": "U.S. Government Canal Locks. Seattle, Wash., ca. 1929front",
@@ -1019,7 +1019,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3358/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3358/default.jpg"
   },
   {
     "title": "U.S. Government Canal Locks. Seattle, Wash., ca. 1929front",
@@ -1039,7 +1039,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3361/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3361/default.jpg"
   },
   {
     "title": "Union and King Street Stations, ca. 1929Front",
@@ -1061,6 +1061,6 @@
       "-122.328537"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3848/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3848/default.jpg"
   }
 ]

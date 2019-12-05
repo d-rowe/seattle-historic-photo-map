@@ -14,7 +14,7 @@
       ""
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2867/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2867/default.jpg"
   },
   {
     "title": "University Branch, Seattle Public Library, August 12, 1987",
@@ -34,7 +34,7 @@
       "-122.317912"
     ],
     "createdDate": "1987-08-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2803/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2803/default.jpg"
   },
   {
     "title": "Columbia City Branch, Seattle Public Library, 1925",
@@ -53,7 +53,7 @@
       "-122.286959"
     ],
     "createdDate": "1925-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2806/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2806/default.jpg"
   },
   {
     "title": "Franklin High School Glee Club \"Princess Bonnie\" cast, Spring 1921",
@@ -71,7 +71,7 @@
       "-122.292813"
     ],
     "createdDate": "1921-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2801/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2801/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, ca. 1929",
@@ -92,7 +92,7 @@
       "-122.326659"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2804/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2804/default.jpg"
   },
   {
     "title": "William Bloch's son and dog, ca. 1894",
@@ -112,7 +112,7 @@
       "-122.313839"
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2814/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2814/default.jpg"
   },
   {
     "title": "Waldorf Hotel, ca. 1921",
@@ -135,7 +135,7 @@
       "-122.333284"
     ],
     "createdDate": "1921-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2875/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2875/default.jpg"
   },
   {
     "title": "Waldorf Apartments, ca. 1906",
@@ -160,7 +160,7 @@
       "-122.333284"
     ],
     "createdDate": "1906-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2879/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2879/default.jpg"
   },
   {
     "title": "Waldorf Hotel, ca. 1975",
@@ -185,7 +185,7 @@
       "-122.333284"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2877/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2877/default.jpg"
   },
   {
     "title": "Waldorf Hotel, ca. 1991",
@@ -210,7 +210,7 @@
       "-122.333284"
     ],
     "createdDate": "1991-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2878/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2878/default.jpg"
   },
   {
     "title": "Waldorf Hotel, ca. 1980",
@@ -235,7 +235,7 @@
       "-122.333284"
     ],
     "createdDate": "1980-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2876/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2876/default.jpg"
   },
   {
     "title": "Waldorf Hotel, 1997",
@@ -260,7 +260,7 @@
       "-122.333284"
     ],
     "createdDate": "1997-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2881/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2881/default.jpg"
   },
   {
     "title": "Boeing assembly plant, ca. 1975",
@@ -277,7 +277,7 @@
       "-122.217332"
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2891/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2891/default.jpg"
   },
   {
     "title": "Waldorf Hotel, 1935",
@@ -301,7 +301,7 @@
       "-122.333284"
     ],
     "createdDate": "1935-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2882/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2882/default.jpg"
   },
   {
     "title": "Kress Building, May 1982",
@@ -324,7 +324,7 @@
       "-122.385751"
     ],
     "createdDate": "1982-05-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2883/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2883/default.jpg"
   },
   {
     "title": "Boeing airliners and crew at Renton Municipal Airport, ca. 1975",
@@ -346,7 +346,7 @@
       "-122.217332"
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2890/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2890/default.jpg"
   },
   {
     "title": "Construction crane on NW Market St., July 1982",
@@ -369,7 +369,7 @@
       "-122.384752"
     ],
     "createdDate": "1982-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2884/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2884/default.jpg"
   },
   {
     "title": "Boeing airliners at Renton Municipal Airport, ca. 1975",
@@ -391,7 +391,7 @@
       "-122.217332"
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2889/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2889/default.jpg"
   },
   {
     "title": "Construction crane at 22nd Ave. NW and NW Market Street, July 1982",
@@ -414,7 +414,7 @@
       "-122.384752"
     ],
     "createdDate": "1982-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2885/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2885/default.jpg"
   },
   {
     "title": "Ballard Outboard Motor storefront, 1982",
@@ -432,7 +432,7 @@
       "-122.376567"
     ],
     "createdDate": "1982-05-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2886/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2886/default.jpg"
   },
   {
     "title": "Class of Walla Walla School, June 6, 1911",
@@ -455,7 +455,7 @@
       "-122.300819"
     ],
     "createdDate": "1911-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2888/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2888/default.jpg"
   },
   {
     "title": "Cars and storefronts on NW Market Street, 1982",
@@ -477,7 +477,7 @@
       "-122.38611"
     ],
     "createdDate": "1982-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2887/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2887/default.jpg"
   },
   {
     "title": "Waldorf Hotel, December 1994",
@@ -502,7 +502,7 @@
       "-122.333284"
     ],
     "createdDate": "1994-12-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2880/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2880/default.jpg"
   },
   {
     "title": "Jimi Hendrix, February 24, 1968",
@@ -519,7 +519,7 @@
       ""
     ],
     "createdDate": "1968-02-24T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2893/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2893/default.jpg"
   },
   {
     "title": "Unidentified fountain sculpture, 1980",
@@ -535,7 +535,7 @@
       ""
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2903/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2903/default.jpg"
   },
   {
     "title": "Jimi Hendrix in concert, ca. 1965",
@@ -551,7 +551,7 @@
       ""
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2894/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2894/default.jpg"
   },
   {
     "title": "Jimi Hendrix in concert, ca. 1965",
@@ -567,7 +567,7 @@
       ""
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2895/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2895/default.jpg"
   },
   {
     "title": "Unidentified sculpture, 1980",
@@ -582,7 +582,7 @@
       ""
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2902/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2902/default.jpg"
   },
   {
     "title": "Tillicum Village promotional photographs, 1993",
@@ -602,7 +602,7 @@
       "-122.483637"
     ],
     "createdDate": "1993-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2896/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2896/default.jpg"
   },
   {
     "title": "Waldorf Hotel lobby, ca. 1910",
@@ -619,7 +619,7 @@
       "-122.333284"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2901/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2901/default.jpg"
   },
   {
     "title": "Tillicum Village promotional photographs, 1993",
@@ -640,7 +640,7 @@
       "-122.483637"
     ],
     "createdDate": "1993-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2897/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2897/default.jpg"
   },
   {
     "title": "Waldorf Hotel illustration, 1988",
@@ -663,7 +663,7 @@
       "-122.333284"
     ],
     "createdDate": "1988-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2900/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2900/default.jpg"
   },
   {
     "title": "Man and child on rooftop, ca. 1930",
@@ -681,7 +681,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2899/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2899/default.jpg"
   },
   {
     "title": "Boeing B-9 airplane, ca. 1930",
@@ -698,7 +698,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2892/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2892/default.jpg"
   },
   {
     "title": "Princess Angeline, ca. 1887",
@@ -715,7 +715,7 @@
       ""
     ],
     "createdDate": "1887-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2905/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2905/default.jpg"
   },
   {
     "title": "Washington berries, 17 to the quarter, ca. 1890",
@@ -731,7 +731,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2915/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2915/default.jpg"
   },
   {
     "title": "Princess Angeline, 1886",
@@ -749,7 +749,7 @@
       ""
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2906/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2906/default.jpg"
   },
   {
     "title": "\"T.J. Potter\"  at Oregon Improvement Company dock, ca. 1890",
@@ -778,7 +778,7 @@
       "-122.335621"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2914/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2914/default.jpg"
   },
   {
     "title": "3rd Ave. north from University St. towards Washington Hotel, ca. 1890",
@@ -803,7 +803,7 @@
       " -122.335979"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2907/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2907/default.jpg"
   },
   {
     "title": "Pike St. looking east, ca. 1890",
@@ -825,7 +825,7 @@
       "-122.334465"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2908/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2908/default.jpg"
   },
   {
     "title": "Pioneer Square decorated for President Harrison's visit, 1891",
@@ -859,7 +859,7 @@
       "-122.334119"
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2913/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2913/default.jpg"
   },
   {
     "title": "Lake Union from Denny Hill, ca. 1890",
@@ -879,7 +879,7 @@
       "-122.337829"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2909/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2909/default.jpg"
   },
   {
     "title": "Public Schools of Seattle, ca. 1890",
@@ -905,7 +905,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2912/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2912/default.jpg"
   },
   {
     "title": "Seattle Terminal and Railway Elevator Company grain elevator, ca. 1890",
@@ -926,7 +926,7 @@
       "-122.375260"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2910/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2910/default.jpg"
   },
   {
     "title": "View south from Seattle coal bunkers, ca. 1890",
@@ -949,7 +949,7 @@
       "47.594871"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2911/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2911/default.jpg"
   },
   {
     "title": "Unidentified sculpture, 1980",
@@ -964,7 +964,7 @@
       ""
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2904/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2904/default.jpg"
   },
   {
     "title": "\"Walla Walla\" steamship at Oregon Improvement Company dock, June 6, 1891",
@@ -999,7 +999,7 @@
       "-122.335621"
     ],
     "createdDate": "1891-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2916/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2916/default.jpg"
   },
   {
     "title": "Seattle National Bank, ca. 1890",
@@ -1019,7 +1019,7 @@
       "-122.332583"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2923/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2923/default.jpg"
   },
   {
     "title": "Mount Rainier, ca. 1890",
@@ -1034,7 +1034,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2919/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2919/default.jpg"
   },
   {
     "title": "Seattle National Bank interior, ca. 1890",
@@ -1052,6 +1052,6 @@
       "-122.332583"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2918/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2918/default.jpg"
   }
 ]

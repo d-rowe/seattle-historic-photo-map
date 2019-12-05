@@ -16,7 +16,7 @@
       " -122.333342"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1985/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1985/default.jpg"
   },
   {
     "title": "Alley between James St., Jefferson St., 6th Ave. and 7th Ave., February 28, 1953",
@@ -38,7 +38,7 @@
       "-122.327180"
     ],
     "createdDate": "1953-02-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1981/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1981/default.jpg"
   },
   {
     "title": "Alley between James St., Jefferson St., 6th Ave. and 7th Ave., February 28, 1953",
@@ -61,7 +61,7 @@
       "-122.327180"
     ],
     "createdDate": "1953-02-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1982/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1982/default.jpg"
   },
   {
     "title": "1st Ave. and Battery St., 1960",
@@ -81,7 +81,7 @@
       "-122.347757"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1988/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1988/default.jpg"
   },
   {
     "title": "303 36th Ave. E., 1960",
@@ -99,7 +99,7 @@
       "-122.287565"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1950/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1950/default.jpg"
   },
   {
     "title": "816-826 23rd Ave., ca. 1960",
@@ -119,7 +119,7 @@
       "-122.302494"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1947/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1947/default.jpg"
   },
   {
     "title": "1109 Elm Pl. SW, 1954",
@@ -138,7 +138,7 @@
       "-122.38431"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1944/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1944/default.jpg"
   },
   {
     "title": "124 23rd Ave. S., 1954",
@@ -157,7 +157,7 @@
       "-122.302224"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1945/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1945/default.jpg"
   },
   {
     "title": "613 7th Ave., 1960",
@@ -179,7 +179,7 @@
       "-122.327056"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1948/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1948/default.jpg"
   },
   {
     "title": "119 Minor Ave. N., 1961",
@@ -197,7 +197,7 @@
       "-122.332966"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1954/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1954/default.jpg"
   },
   {
     "title": "303 36th Ave. E., 1960",
@@ -215,7 +215,7 @@
       "-122.287565"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1951/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1951/default.jpg"
   },
   {
     "title": "Alley north of Denny Way and west of Pontius Ave. N., November 1954",
@@ -237,7 +237,7 @@
       "-122.332351"
     ],
     "createdDate": "1954-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1949/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1949/default.jpg"
   },
   {
     "title": "6th Ave. and Jefferson St., 1961",
@@ -257,7 +257,7 @@
       "-122.327448"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1955/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1955/default.jpg"
   },
   {
     "title": "605 Jefferson St., 1959",
@@ -275,7 +275,7 @@
       "-122.327459"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1946/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1946/default.jpg"
   },
   {
     "title": "7 and 9 Valley St. near Queen Anne Ave., 1961",
@@ -294,7 +294,7 @@
       "-122.356411"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1952/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1952/default.jpg"
   },
   {
     "title": "201 36th Ave. E., 1961",
@@ -316,7 +316,7 @@
       "-122.287239"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1953/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1953/default.jpg"
   },
   {
     "title": "200 block Eastlake Ave. E., 1953",
@@ -334,7 +334,7 @@
       "-122.329115"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1933/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1933/default.jpg"
   },
   {
     "title": "127 Pontius Ave. N., August 1954",
@@ -354,7 +354,7 @@
       "-122.331694"
     ],
     "createdDate": "1954-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1855/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1855/default.jpg"
   },
   {
     "title": "NW corner of Eastlake Ave. and E. Republican St., 1954",
@@ -374,7 +374,7 @@
       "-122.329163"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1859/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1859/default.jpg"
   },
   {
     "title": "1306-08 Minor Ave., ca. 1960",
@@ -392,7 +392,7 @@
       "-122.326014"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1854/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1854/default.jpg"
   },
   {
     "title": "1010 Stewart St., 1954",
@@ -411,7 +411,7 @@
       "-122.333557"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1853/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1853/default.jpg"
   },
   {
     "title": "Minor Ave. north of Denny Way, September 1954",
@@ -430,7 +430,7 @@
       "-122.332968"
     ],
     "createdDate": "1954-09-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1857/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1857/default.jpg"
   },
   {
     "title": "200 block of Minor Ave. N., 1954",
@@ -448,7 +448,7 @@
       "-122.332966"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1856/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1856/default.jpg"
   },
   {
     "title": "Magnolia bluff homes, 1963",
@@ -465,7 +465,7 @@
       ""
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1858/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1858/default.jpg"
   },
   {
     "title": "500 block James Street, 1960",
@@ -483,7 +483,7 @@
       "-122.329191"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1852/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1852/default.jpg"
   },
   {
     "title": "NW corner of Boren Ave. and Pine St., 1957",
@@ -504,7 +504,7 @@
       "-122.329805"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1869/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1869/default.jpg"
   },
   {
     "title": "826 14th Ave. September 1954",
@@ -522,7 +522,7 @@
       "-122.323574"
     ],
     "createdDate": "1954-09-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1863/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1863/default.jpg"
   },
   {
     "title": "711 S. Dearborn St., 1951",
@@ -542,7 +542,7 @@
       "-122.323504"
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1871/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1871/default.jpg"
   },
   {
     "title": "1123 Harbor Ave. SW, 1959",
@@ -562,7 +562,7 @@
       "-122.383557"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1866/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1866/default.jpg"
   },
   {
     "title": "Wedgwood homes on NE 84th St., 1953",
@@ -582,7 +582,7 @@
       "-122.292253"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1864/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1864/default.jpg"
   },
   {
     "title": "Alley north of Denny Way and west of Melrose, December 1954",
@@ -602,7 +602,7 @@
       "-122.327855"
     ],
     "createdDate": "1954-12-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1868/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1868/default.jpg"
   },
   {
     "title": "Wedgwood homes on NE 81st St., 1954",
@@ -622,7 +622,7 @@
       "-122.291819"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1865/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1865/default.jpg"
   },
   {
     "title": "NE corner of 9th Ave. and Stewart St. and , 1957",
@@ -651,7 +651,7 @@
       "-122.334444"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1862/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1862/default.jpg"
   },
   {
     "title": "Woodshed at 200 block between Fairview Ave. N. and Minor Ave. N., January 1955",
@@ -672,7 +672,7 @@
       "-122.333648"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1867/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1867/default.jpg"
   },
   {
     "title": "4500 NE 73rd Ave., 1954",
@@ -693,7 +693,7 @@
       "-122.279372"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1870/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1870/default.jpg"
   },
   {
     "title": "Whitney House at Highland Dr. and Warren Ave. N., 1964",
@@ -714,7 +714,7 @@
       "-122.354113"
     ],
     "createdDate": "1964-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1861/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1861/default.jpg"
   },
   {
     "title": "600 block S. King St., 1957",
@@ -735,7 +735,7 @@
       "-122.326363"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1860/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1860/default.jpg"
   },
   {
     "title": "Gravestone of Princess Angeline, ca. 1958",
@@ -756,7 +756,7 @@
       "-122.312434"
     ],
     "createdDate": "1958-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1882/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1882/default.jpg"
   },
   {
     "title": "6th Ave. looking SE from James St., 1955",
@@ -777,7 +777,7 @@
       "-122.328081"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1873/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1873/default.jpg"
   },
   {
     "title": "Joshua Green, 1968",
@@ -793,7 +793,7 @@
       ""
     ],
     "createdDate": "1968-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1879/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1879/default.jpg"
   },
   {
     "title": "600 block 7th Ave. S., 1959",
@@ -811,7 +811,7 @@
       "-122.323759"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1877/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1877/default.jpg"
   },
   {
     "title": "Gravestone of Princess Angeline, ca. 1958",
@@ -832,7 +832,7 @@
       "-122.312434"
     ],
     "createdDate": "1958-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1881/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1881/default.jpg"
   },
   {
     "title": "812 23rd Ave., 1959",
@@ -850,7 +850,7 @@
       "-122.302404"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1874/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1874/default.jpg"
   },
   {
     "title": "23rd Ave. and E. Cherry St., 1960",
@@ -872,7 +872,7 @@
       "-122.303658"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1878/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1878/default.jpg"
   },
   {
     "title": "100 block between 1st Ave. N. and Warren Ave., 1957",
@@ -894,7 +894,7 @@
       "-122.355014"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1883/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1883/default.jpg"
   },
   {
     "title": "110 12th Ave. S., 1954",
@@ -913,7 +913,7 @@
       "-122.316743"
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1876/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1876/default.jpg"
   },
   {
     "title": "Original gravestone of Princess Angeline, ca. 1958",
@@ -932,7 +932,7 @@
       "-122.312434"
     ],
     "createdDate": "1958-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1880/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1880/default.jpg"
   },
   {
     "title": "613 7th Ave., 1960",
@@ -954,7 +954,7 @@
       "-122.327056"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1875/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1875/default.jpg"
   },
   {
     "title": "Alley between Olive and Pine Street, 1957",
@@ -974,7 +974,7 @@
       ""
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1872/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1872/default.jpg"
   },
   {
     "title": "1421 17th Ave., 1961",
@@ -992,6 +992,6 @@
       "-122.310162"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1892/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1892/default.jpg"
   }
 ]

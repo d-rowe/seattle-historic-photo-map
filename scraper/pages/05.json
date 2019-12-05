@@ -13,9 +13,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.608216", "-122.335365"],
+    "coordinates": [
+      "47.608216",
+      "-122.335365"
+    ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1310/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1310/default.jpg"
   },
   {
     "title": "Seattle Central Library construction, ca. 1906",
@@ -34,9 +37,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1906-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1314/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1314/default.jpg"
   },
   {
     "title": "Seattle Central Library construction, ca. 1906",
@@ -58,9 +64,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1906-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1312/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1312/default.jpg"
   },
   {
     "title": "Nettleton Apartment Building, 1950",
@@ -77,9 +86,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.60833", "-122.328418"],
+    "coordinates": [
+      "47.60833",
+      "-122.328418"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1318/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1318/default.jpg"
   },
   {
     "title": "Public Safety Building, 1950",
@@ -98,9 +110,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602925", "-122.331339"],
+    "coordinates": [
+      "47.602925",
+      "-122.331339"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1317/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1317/default.jpg"
   },
   {
     "title": "Nathan Eckstein Middle School, 1950",
@@ -115,9 +130,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.682082", "-122.294484"],
+    "coordinates": [
+      "47.682082",
+      "-122.294484"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1320/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1320/default.jpg"
   },
   {
     "title": "Scene at the dock during Alaska gold rush, 1898",
@@ -138,9 +156,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1322/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1322/default.jpg"
   },
   {
     "title": "4th Ave. looking north from Spring St., 1951",
@@ -165,9 +185,12 @@
     ],
     "photographer": "",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1327/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1327/default.jpg"
   },
   {
     "title": "Seattle Central Library entrance on Fourth Ave., 1951",
@@ -183,9 +206,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1325/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1325/default.jpg"
   },
   {
     "title": "Denny Party Monument, ca. 1955",
@@ -203,9 +229,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.578397", "-122.413302"],
+    "coordinates": [
+      "47.578397",
+      "-122.413302"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1328/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1328/default.jpg"
   },
   {
     "title": "Seattle Central Library, 1951",
@@ -230,9 +259,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1326/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1326/default.jpg"
   },
   {
     "title": "Dr. Maynard House at 3045 64th Ave SW, ca. 1950",
@@ -251,9 +283,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602925", "-122.331339"],
+    "coordinates": [
+      "47.602925",
+      "-122.331339"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1329/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1329/default.jpg"
   },
   {
     "title": "Public Safety Building entrance, 1951",
@@ -273,9 +308,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602925", "-122.331339"],
+    "coordinates": [
+      "47.602925",
+      "-122.331339"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1324/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1324/default.jpg"
   },
   {
     "title": "John Wenzler house, 1949",
@@ -293,9 +331,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.604000", "-122.327224"],
+    "coordinates": [
+      "47.604000",
+      "-122.327224"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1331/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1331/default.jpg"
   },
   {
     "title": "Medical-Dental Building, January 1951",
@@ -310,9 +351,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.612625", "-122.335981"],
+    "coordinates": [
+      "47.612625",
+      "-122.335981"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1321/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1321/default.jpg"
   },
   {
     "title": "Between Jefferson St. and James St., 1950",
@@ -332,9 +376,12 @@
     ],
     "photographer": "",
     "intersection": "6th Ave. and James St.",
-    "coordinates": ["47.60416", "-122.328081"],
+    "coordinates": [
+      "47.60416",
+      "-122.328081"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1330/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1330/default.jpg"
   },
   {
     "title": "Public Safety Building World War II memorial plaque, 1951",
@@ -353,9 +400,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602925", "-122.331339"],
+    "coordinates": [
+      "47.602925",
+      "-122.331339"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1323/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1323/default.jpg"
   },
   {
     "title": "David T. Denny cabin, ca. 1901",
@@ -372,9 +422,11 @@
     ],
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1901-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1332/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1332/default.jpg"
   },
   {
     "title": "Stewart Street Baptist Church, 1951",
@@ -389,9 +441,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Stewart St. and Yale Ave. N.",
-    "coordinates": ["47.618839", "-122.330414"],
+    "coordinates": [
+      "47.618839",
+      "-122.330414"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1334/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1334/default.jpg"
   },
   {
     "title": "Collins House at Cherry St. and Minor Ave., April 1952",
@@ -407,9 +462,12 @@
     ],
     "photographer": "",
     "intersection": "Cherry St. and Minor Ave.",
-    "coordinates": ["47.607671", "-122.322088"],
+    "coordinates": [
+      "47.607671",
+      "-122.322088"
+    ],
     "createdDate": "1952-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1335/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1335/default.jpg"
   },
   {
     "title": "Nisei War Memorial, ca. 1955",
@@ -427,9 +485,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.633896", "-122.312434"],
+    "coordinates": [
+      "47.633896",
+      "-122.312434"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1339/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1339/default.jpg"
   },
   {
     "title": "Kellogg house, May 3, 1952",
@@ -446,9 +507,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.612139", "-122.328148"],
+    "coordinates": [
+      "47.612139",
+      "-122.328148"
+    ],
     "createdDate": "1952-05-03T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1336/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1336/default.jpg"
   },
   {
     "title": "Reynolds house, April 30, 1952",
@@ -466,9 +530,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.616185", "-122.328396"],
+    "coordinates": [
+      "47.616185",
+      "-122.328396"
+    ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1337/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1337/default.jpg"
   },
   {
     "title": "Nisei War Memorial detail, ca. 1955",
@@ -488,9 +555,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.633896", "-122.312434"],
+    "coordinates": [
+      "47.633896",
+      "-122.312434"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1338/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1338/default.jpg"
   },
   {
     "title": "Confederate War Veteran's Memorial, ca. 1955",
@@ -509,9 +579,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.633896", "-122.312434"],
+    "coordinates": [
+      "47.633896",
+      "-122.312434"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1340/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1340/default.jpg"
   },
   {
     "title": "Battle of Seattle Plaque, ca. 1955",
@@ -528,9 +601,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1342/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1342/default.jpg"
   },
   {
     "title": "Civil War Veteran's Memorial, ca. 1955",
@@ -548,9 +624,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.633896", "-122.312434"],
+    "coordinates": [
+      "47.633896",
+      "-122.312434"
+    ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1341/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1341/default.jpg"
   },
   {
     "title": "Carson D. Boren plaque, 1952",
@@ -570,9 +649,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.602992", "-122.333562"],
+    "coordinates": [
+      "47.602992",
+      "-122.333562"
+    ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1343/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1343/default.jpg"
   },
   {
     "title": "Outbuilding of  Dr. Minor's Residence, ca. 1952",
@@ -588,9 +670,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Broadway and Cherry St.",
-    "coordinates": ["47.608135", "-122.320809"],
+    "coordinates": [
+      "47.608135",
+      "-122.320809"
+    ],
     "createdDate": "1952-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1333/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1333/default.jpg"
   },
   {
     "title": "Central School bronze plaque, ca. 1952",
@@ -606,9 +691,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.605719", "-122.334098"],
+    "coordinates": [
+      "47.605719",
+      "-122.334098"
+    ],
     "createdDate": "1952-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1344/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1344/default.jpg"
   },
   {
     "title": "Fremont Branch, Seattle Public Library, 1921",
@@ -623,9 +711,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.650062", "-122.348423"],
+    "coordinates": [
+      "47.650062",
+      "-122.348423"
+    ],
     "createdDate": "1921-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1355/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1355/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, 1955",
@@ -639,9 +730,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.681494", "-122.326659"],
+    "coordinates": [
+      "47.681494",
+      "-122.326659"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1347/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1347/default.jpg"
   },
   {
     "title": "Seattle Public Library, Queen Anne Branch, 1914",
@@ -655,9 +749,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.633814", "-122.362665"],
+    "coordinates": [
+      "47.633814",
+      "-122.362665"
+    ],
     "createdDate": "1914-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1353/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1353/default.jpg"
   },
   {
     "title": "University Branch, Seattle Public Library, ca. 1922",
@@ -671,9 +768,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665245", "-122.317883"],
+    "coordinates": [
+      "47.665245",
+      "-122.317883"
+    ],
     "createdDate": "1922-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1350/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1350/default.jpg"
   },
   {
     "title": "West Seattle Branch, Seattle Public Library, ca. 1955",
@@ -687,9 +787,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.582689", "-122.384696"],
+    "coordinates": [
+      "47.582689",
+      "-122.384696"
+    ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1346/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1346/default.jpg"
   },
   {
     "title": "West Seattle Branch, Seattle Public Library, 1910",
@@ -703,9 +806,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.582689", "-122.384696"],
+    "coordinates": [
+      "47.582689",
+      "-122.384696"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1348/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1348/default.jpg"
   },
   {
     "title": "Seattle Central Library, 1925",
@@ -719,9 +825,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1925-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1351/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1351/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, ca. 1923",
@@ -736,9 +845,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.681494", "-122.326659"],
+    "coordinates": [
+      "47.681494",
+      "-122.326659"
+    ],
     "createdDate": "1923-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1349/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1349/default.jpg"
   },
   {
     "title": "Seattle Public Library, Fremont Branch, 1921",
@@ -753,9 +865,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.650062", "-122.348423"],
+    "coordinates": [
+      "47.650062",
+      "-122.348423"
+    ],
     "createdDate": "1921-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1354/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1354/default.jpg"
   },
   {
     "title": "Battle of Seattle memorial, ca. 1952",
@@ -772,9 +887,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.602645", "-122.330526"],
+    "coordinates": [
+      "47.602645",
+      "-122.330526"
+    ],
     "createdDate": "1952-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1345/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1345/default.jpg"
   },
   {
     "title": "Columbia Branch, Seattle Public Library, 1915",
@@ -788,9 +906,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.559901", "-122.286959"],
+    "coordinates": [
+      "47.559901",
+      "-122.286959"
+    ],
     "createdDate": "1915-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1352/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1352/default.jpg"
   },
   {
     "title": "\"Easter\" under construction at Cooke and Lake Shipyard, ca. 1910",
@@ -805,9 +926,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1362/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1362/default.jpg"
   },
   {
     "title": "Ballard oil well, ca. 1910",
@@ -821,9 +945,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.671567", "-122.400049"],
+    "coordinates": [
+      "47.671567",
+      "-122.400049"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1359/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1359/default.jpg"
   },
   {
     "title": "Launch of the \"Forest T. Crosby\" at the Cooke and Lake Shipyard, 1912",
@@ -839,9 +966,12 @@
     ],
     "photographer": "Muirhead",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1367/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1367/default.jpg"
   },
   {
     "title": "Group portrait of Ballard schoolchildren, ca. 1900",
@@ -855,9 +985,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1365/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1365/default.jpg"
   },
   {
     "title": "Freight boat in Ballard, ca. 1900",
@@ -872,9 +1004,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1360/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1360/default.jpg"
   },
   {
     "title": "Group portrait of Ballard schoolchildren, ca. 1900",
@@ -888,9 +1022,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1366/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1366/default.jpg"
   },
   {
     "title": "Ballard Carnegie Library, ca. 1960",
@@ -907,9 +1043,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668967", "-122.383394"],
+    "coordinates": [
+      "47.668967",
+      "-122.383394"
+    ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1363/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1363/default.jpg"
   },
   {
     "title": "Unidentified ship under construction at Cooke and Lake Shipyard, ca. 1910",
@@ -922,9 +1061,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1364/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1364/default.jpg"
   },
   {
     "title": "\"H.B. Jones\" and \"S. David\" at wharf, 1920",
@@ -943,8 +1085,10 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1920-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1357/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1357/default.jpg"
   }
 ]

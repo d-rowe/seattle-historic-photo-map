@@ -14,7 +14,7 @@
       ""
     ],
     "createdDate": "1927-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3625/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3625/default.jpg"
   },
   {
     "title": "David and Catherine Maynard home, ca. 1852",
@@ -33,7 +33,7 @@
       "-122.334125"
     ],
     "createdDate": "1852-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3627/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3627/default.jpg"
   },
   {
     "title": "Works Progress Administration sign at Green Lake, March 12, 1937",
@@ -51,7 +51,7 @@
       "-122.325661"
     ],
     "createdDate": "1937-03-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3617/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3617/default.jpg"
   },
   {
     "title": "Green Lake Way N. near N. 55th St., August 3, 1927",
@@ -71,7 +71,7 @@
       "-122.340041"
     ],
     "createdDate": "1927-08-03T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3592/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3592/default.jpg"
   },
   {
     "title": "Children viewing a Three Little Bruins film at home of Charles N. King, 1958",
@@ -92,7 +92,7 @@
       "-122.290609"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3594/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3594/default.jpg"
   },
   {
     "title": "Smith Tower dragon, October 2007",
@@ -110,7 +110,7 @@
       "-122.331722"
     ],
     "createdDate": "2007-10-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3622/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3622/default.jpg"
   },
   {
     "title": "Child in Seattle slum, October 10, 1965",
@@ -127,7 +127,7 @@
       ""
     ],
     "createdDate": "1965-10-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3647/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3647/default.jpg"
   },
   {
     "title": "Billie Keyes, June 18, 1926",
@@ -144,7 +144,7 @@
       ""
     ],
     "createdDate": "1926-06-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3675/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3675/default.jpg"
   },
   {
     "title": "DuPen Fountain, Coliseum and Space Needle, 1962",
@@ -173,7 +173,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3678/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3678/default.jpg"
   },
   {
     "title": "Marion A. Zioncheck's suicide note, August 9, 1936",
@@ -190,7 +190,7 @@
       "-122.332179"
     ],
     "createdDate": "1936-08-09T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3673/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3673/default.jpg"
   },
   {
     "title": "Space Needle under construction, August 1961",
@@ -214,7 +214,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3679/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3679/default.jpg"
   },
   {
     "title": "Soft drink parlor (formerly a saloon), February 26, 1918",
@@ -231,7 +231,7 @@
       ""
     ],
     "createdDate": "1918-02-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3676/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3676/default.jpg"
   },
   {
     "title": "Space Needle, 1962",
@@ -249,7 +249,7 @@
       "-122.349355"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3660/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3660/default.jpg"
   },
   {
     "title": "Leola Trotter and her cat, June 27, 1932",
@@ -266,7 +266,7 @@
       ""
     ],
     "createdDate": "1932-06-27T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3659/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3659/default.jpg"
   },
   {
     "title": "View NE from Space Needle to Lake Union, 1962",
@@ -287,7 +287,7 @@
       "-122.349355"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3657/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3657/default.jpg"
   },
   {
     "title": "Victor A. Meyers and his family, February 24, 1938",
@@ -307,7 +307,7 @@
       ""
     ],
     "createdDate": "1938-02-24T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3656/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3656/default.jpg"
   },
   {
     "title": "Marion A. Zioncheck boarding train from Chicago to Seattle, June 30, 1936",
@@ -325,7 +325,7 @@
       "-87.638924"
     ],
     "createdDate": "1936-06-30T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3653/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3653/default.jpg"
   },
   {
     "title": "View SW from near 5th Ave. and Olive Way toward monorail station, 1962",
@@ -351,7 +351,7 @@
       "-122.337371"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3651/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3651/default.jpg"
   },
   {
     "title": "Jackie LeMay, May 28, 1932",
@@ -371,7 +371,7 @@
       ""
     ],
     "createdDate": "1932-05-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3654/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3654/default.jpg"
   },
   {
     "title": "International Fountain and sky ride, 1962",
@@ -401,7 +401,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3671/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3671/default.jpg"
   },
   {
     "title": "Marion A. Zioncheck speaking at microphone, June 30, 1936",
@@ -419,7 +419,7 @@
       "-87.638924"
     ],
     "createdDate": "1936-06-30T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3662/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3662/default.jpg"
   },
   {
     "title": "Fairgrounds outside the entrance to the Gayway, 1962",
@@ -445,7 +445,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3664/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3664/default.jpg"
   },
   {
     "title": "Lake Washington bicycle path, ca. 1905",
@@ -465,7 +465,7 @@
       ""
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3652/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3652/default.jpg"
   },
   {
     "title": "View north from 5th Ave. and Olive Way to the monorail, 1962",
@@ -494,7 +494,7 @@
       "-122.337371"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3655/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3655/default.jpg"
   },
   {
     "title": "Fairgoers and U.S. Science Pavilion arches, 1962",
@@ -519,7 +519,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3658/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3658/default.jpg"
   },
   {
     "title": "Puget Sound and the Olympic Mountains from Seattle, ca. 1910",
@@ -536,7 +536,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3666/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3666/default.jpg"
   },
   {
     "title": "Marion A. Zioncheck with Texans Jack and Ed Clark, August 5, 1936",
@@ -555,7 +555,7 @@
       ""
     ],
     "createdDate": "1936-08-05T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3668/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3668/default.jpg"
   },
   {
     "title": "Marion A. Zioncheck being transported from Gallinger Hospital, June 23, 1936",
@@ -574,7 +574,7 @@
       "-76.974148"
     ],
     "createdDate": "1936-06-23T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3665/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3665/default.jpg"
   },
   {
     "title": "Space Needle from south gate of the World's Fair, 1962",
@@ -595,7 +595,7 @@
       "-122.349355"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3663/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3663/default.jpg"
   },
   {
     "title": "View south from Space Needle, 1962",
@@ -617,7 +617,7 @@
       "-122.349355"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3667/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3667/default.jpg"
   },
   {
     "title": "Jets over Space Needle, 1962",
@@ -637,7 +637,7 @@
       "-122.349355"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3669/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3669/default.jpg"
   },
   {
     "title": "Interior of Marion A. Zioncheck's Washington D.C. apartment, May 26, 1936",
@@ -654,7 +654,7 @@
       "-77.03567"
     ],
     "createdDate": "1936-05-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3661/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3661/default.jpg"
   },
   {
     "title": "Ships in harbor, ca. 1905",
@@ -671,7 +671,7 @@
       ""
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3672/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3672/default.jpg"
   },
   {
     "title": "Duwamish River, ca. 1905",
@@ -688,7 +688,7 @@
       ""
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3677/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3677/default.jpg"
   },
   {
     "title": "Flag Plaza, Armory and Space Needle, 1962",
@@ -716,7 +716,7 @@
       "-122.352152"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3674/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3674/default.jpg"
   },
   {
     "title": "Canada Pavilion and fountain, 1962",
@@ -742,7 +742,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3670/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3670/default.jpg"
   },
   {
     "title": "Barney Ross, national welter weight, meeting with Howard Dent Jr. from University of Washington, April 2, 1935",
@@ -766,7 +766,7 @@
       "-122.333552"
     ],
     "createdDate": "1935-04-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3983/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3983/default.jpg"
   },
   {
     "title": "Bertha Barkhoff and Zoe Smith, badminton finalists, April 1, 1935",
@@ -786,7 +786,7 @@
       "-122.358349"
     ],
     "createdDate": "1935-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3978/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3978/default.jpg"
   },
   {
     "title": "Collapsed East Gate at World Fair grounds, February 26, 1962",
@@ -806,7 +806,7 @@
       "-122.350433"
     ],
     "createdDate": "1962-02-27T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3979/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3979/default.jpg"
   },
   {
     "title": "3rd Ave. and Jefferson St. after the fire, July 1889",
@@ -838,7 +838,7 @@
       "-122.330816"
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3977/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3977/default.jpg"
   },
   {
     "title": "Paul Satko's children being taken into custody by Juvenile Court, April 25, 1940",
@@ -861,7 +861,7 @@
       "-122.387645"
     ],
     "createdDate": "1940-04-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3976/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3976/default.jpg"
   },
   {
     "title": "Cherry St. in the snow, January 10, 1880",
@@ -891,7 +891,7 @@
       " -122.334303"
     ],
     "createdDate": "1880-01-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3980/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3980/default.jpg"
   },
   {
     "title": "Shirley Frazier, March 13, 1935",
@@ -911,7 +911,7 @@
       "-122.30352"
     ],
     "createdDate": "1935-03-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3973/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3973/default.jpg"
   },
   {
     "title": "3rd Ave. and Jefferson St. after the fire, July 1889",
@@ -939,7 +939,7 @@
       "-122.330816"
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3982/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3982/default.jpg"
   },
   {
     "title": "Occidental Hotel at 1st Ave. and James St., 1870",
@@ -965,7 +965,7 @@
       "-122.333686"
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3975/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3975/default.jpg"
   },
   {
     "title": "A Seattle home and garden, ca. 1925",
@@ -982,7 +982,7 @@
       ""
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3981/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3981/default.jpg"
   },
   {
     "title": "Hilde McAuslan, Washington State champion golfer, August 19, 1934",
@@ -1004,7 +1004,7 @@
       "-122.291391"
     ],
     "createdDate": "1934-08-19T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3974/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3974/default.jpg"
   },
   {
     "title": "AFL Labor Temple entrance, ca. 1950",
@@ -1022,7 +1022,7 @@
       "-122.351771"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3972/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3972/default.jpg"
   },
   {
     "title": "Paul Satko's \"Ark\" in Tacoma, November 8, 1939",
@@ -1044,7 +1044,7 @@
       ""
     ],
     "createdDate": "1939-11-08T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3899/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3899/default.jpg"
   },
   {
     "title": "Chuck Mucha, Woody Ullin, and Dan Lazaravich of the UW football team, September 18, 1934",
@@ -1065,6 +1065,6 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3895/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3895/default.jpg"
   }
 ]

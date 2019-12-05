@@ -13,9 +13,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.650062", "-122.348423"],
+    "coordinates": [
+      "47.650062",
+      "-122.348423"
+    ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1653/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1653/default.jpg"
   },
   {
     "title": "Princess Angeline at 1st Ave. and Seneca St., 1887",
@@ -32,9 +35,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. and Seneca St.",
-    "coordinates": ["47.60612", "-122.337564"],
+    "coordinates": [
+      "47.60612",
+      "-122.337564"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1647/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1647/default.jpg"
   },
   {
     "title": "Clarence B. Bagley House, 1887",
@@ -52,9 +58,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave N. and Aloha St.",
-    "coordinates": ["47.627176", "-122.352759"],
+    "coordinates": [
+      "47.627176",
+      "-122.352759"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1644/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1644/default.jpg"
   },
   {
     "title": "View west from 3rd Ave. and Spring St., 1907",
@@ -77,9 +86,12 @@
     ],
     "photographer": "",
     "intersection": "3rd Ave. and Spring St.",
-    "coordinates": ["47.606336", "-122.334674"],
+    "coordinates": [
+      "47.606336",
+      "-122.334674"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1656/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1656/default.jpg"
   },
   {
     "title": "Madison Park, ca. 1907",
@@ -98,9 +110,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.636101", "-122.276772"],
+    "coordinates": [
+      "47.636101",
+      "-122.276772"
+    ],
     "createdDate": "1907-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1659/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1659/default.jpg"
   },
   {
     "title": "Denny Hill Regrade, 1907",
@@ -119,9 +134,12 @@
     ],
     "photographer": "",
     "intersection": "3rd Ave. and Pine St.",
-    "coordinates": ["47.610823", "-122.338668"],
+    "coordinates": [
+      "47.610823",
+      "-122.338668"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1663/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1663/default.jpg"
   },
   {
     "title": "Original Users of Telephones, March 7, 1924",
@@ -159,9 +177,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607422", "-122.335198"],
+    "coordinates": [
+      "47.607422",
+      "-122.335198"
+    ],
     "createdDate": "1924-03-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1666/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1666/default.jpg"
   },
   {
     "title": "View from Elliott Bay, 1907",
@@ -182,9 +203,12 @@
     ],
     "photographer": "Harney, W.D.",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1661/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1661/default.jpg"
   },
   {
     "title": "Waterfront between Madison St. and King St., ca. 1885",
@@ -212,9 +236,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1885-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1665/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1665/default.jpg"
   },
   {
     "title": "Ballard Branch, 1930",
@@ -232,9 +259,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668967", "-122.383394"],
+    "coordinates": [
+      "47.668967",
+      "-122.383394"
+    ],
     "createdDate": "1930-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1667/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1667/default.jpg"
   },
   {
     "title": "Olympic Hotel, construction, June 14, 1924",
@@ -255,9 +285,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": ["47.608106", "-122.333984"],
+    "coordinates": [
+      "47.608106",
+      "-122.333984"
+    ],
     "createdDate": "1924-06-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1660/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1660/default.jpg"
   },
   {
     "title": "Battle of Seattle map, January 1, 1856",
@@ -274,9 +307,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1856-01-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1664/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1664/default.jpg"
   },
   {
     "title": "View north on 2nd Ave. from James St., 1907",
@@ -297,9 +332,12 @@
     ],
     "photographer": "Harney, W.D.",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1662/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1662/default.jpg"
   },
   {
     "title": "Cascade School, ca. 1893",
@@ -315,9 +353,12 @@
     ],
     "photographer": "",
     "intersection": "Harrison St. and Pontius Ave. N.",
-    "coordinates": ["47.62197", "-122.331715"],
+    "coordinates": [
+      "47.62197",
+      "-122.331715"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1657/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1657/default.jpg"
   },
   {
     "title": "Leschi Park, 1907",
@@ -333,9 +374,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.600775", "-122.288069"],
+    "coordinates": [
+      "47.600775",
+      "-122.288069"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1658/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1658/default.jpg"
   },
   {
     "title": "James F. McNaught House, 1905",
@@ -356,9 +400,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1673/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1673/default.jpg"
   },
   {
     "title": "5th Ave. NE and NE 88th St., 1894",
@@ -375,9 +422,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "5th Ave. NE and NE 88th St.",
-    "coordinates": ["47.692222", "-122.323027"],
+    "coordinates": [
+      "47.692222",
+      "-122.323027"
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1676/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1676/default.jpg"
   },
   {
     "title": "Fremont from Queen Anne Hill, 1901",
@@ -394,9 +444,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.644530", "-122.349716"],
+    "coordinates": [
+      "47.644530",
+      "-122.349716"
+    ],
     "createdDate": "1901-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1677/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1677/default.jpg"
   },
   {
     "title": "Lincoln Hotel, 1905",
@@ -417,9 +470,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Madison St.",
-    "coordinates": ["47.606004", "-122.332691"],
+    "coordinates": [
+      "47.606004",
+      "-122.332691"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1670/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1670/default.jpg"
   },
   {
     "title": "Woodland Park Cobblestone Bridge, 1901",
@@ -435,9 +491,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1901-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1679/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1679/default.jpg"
   },
   {
     "title": "James F. McNaught House, 1905",
@@ -460,9 +519,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1671/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1671/default.jpg"
   },
   {
     "title": "Bach House, 1898",
@@ -478,9 +540,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655335", "-122.30352"],
+    "coordinates": [
+      "47.655335",
+      "-122.30352"
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1675/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1675/default.jpg"
   },
   {
     "title": "James F. McNaught House, 1905",
@@ -505,9 +570,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1672/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1672/default.jpg"
   },
   {
     "title": "Lincoln High School under construction, ca. 1905",
@@ -524,9 +592,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.659936", "-122.339842"],
+    "coordinates": [
+      "47.659936",
+      "-122.339842"
+    ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1678/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1678/default.jpg"
   },
   {
     "title": "James F. McNaught House, 1905",
@@ -550,9 +621,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Spring St.",
-    "coordinates": ["47.606796", "-122.333548"],
+    "coordinates": [
+      "47.606796",
+      "-122.333548"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1674/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1674/default.jpg"
   },
   {
     "title": "Queen Anne Branch, Seattle Public Library, 1929",
@@ -569,9 +643,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.633814", "-122.362665"],
+    "coordinates": [
+      "47.633814",
+      "-122.362665"
+    ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1668/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1668/default.jpg"
   },
   {
     "title": "Yesler Branch, Seattle Public Library, 1929",
@@ -586,9 +663,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.601918", "-122.30165"],
+    "coordinates": [
+      "47.601918",
+      "-122.30165"
+    ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1669/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1669/default.jpg"
   },
   {
     "title": "Haymaking at Woodland Park, 1899",
@@ -605,9 +685,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1690/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1690/default.jpg"
   },
   {
     "title": "John S. Reasoner house, 1893",
@@ -623,9 +706,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1683/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1683/default.jpg"
   },
   {
     "title": "Independent Order of Good Templars Hall, ca. 1897",
@@ -644,9 +730,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.680705", "-122.323842"],
+    "coordinates": [
+      "47.680705",
+      "-122.323842"
+    ],
     "createdDate": "1897-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1686/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1686/default.jpg"
   },
   {
     "title": "Frederick A. MacDonald house, ca. 1895",
@@ -661,9 +750,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.670902", "-122.339454"],
+    "coordinates": [
+      "47.670902",
+      "-122.339454"
+    ],
     "createdDate": "1895-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1691/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1691/default.jpg"
   },
   {
     "title": "View north from 2nd Ave. and University St., 1901",
@@ -682,9 +774,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "2nd Ave. and University St.",
-    "coordinates": ["47.607297", "-122.337088"],
+    "coordinates": [
+      "47.607297",
+      "-122.337088"
+    ],
     "createdDate": "1901-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1684/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1684/default.jpg"
   },
   {
     "title": "Parade on 3rd Ave., ca. 1899",
@@ -699,9 +794,11 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1688/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1688/default.jpg"
   },
   {
     "title": "Spanish American War homecoming, November 4, 1899",
@@ -721,9 +818,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1899-11-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1685/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1685/default.jpg"
   },
   {
     "title": "Ravenna Park's Big Tree in the Snow, 1898",
@@ -737,9 +837,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1682/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1682/default.jpg"
   },
   {
     "title": "Torpedo Boat Rowan, ca. 1900",
@@ -756,9 +859,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.629083", "-122.381631"],
+    "coordinates": [
+      "47.629083",
+      "-122.381631"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1689/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1689/default.jpg"
   },
   {
     "title": "Indian John Cabin at Green Lake, 1898",
@@ -776,9 +882,11 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1687/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1687/default.jpg"
   },
   {
     "title": "Double bridge at Ravenna Park, 1898",
@@ -795,9 +903,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1681/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1681/default.jpg"
   },
   {
     "title": "Pioneer Place decorations, November 1899",
@@ -815,9 +926,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602034", "-122.333886"],
+    "coordinates": [
+      "47.602034",
+      "-122.333886"
+    ],
     "createdDate": "1899-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1680/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1680/default.jpg"
   },
   {
     "title": "Denny Hill Regrade, ca. 1910",
@@ -832,9 +946,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1693/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1693/default.jpg"
   },
   {
     "title": "Laying the Cornerstone of Denny Hall, July 4, 1894",
@@ -849,9 +965,12 @@
     ],
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "",
-    "coordinates": ["47.658393", "-122.308833"],
+    "coordinates": [
+      "47.658393",
+      "-122.308833"
+    ],
     "createdDate": "1894-07-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1695/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1695/default.jpg"
   },
   {
     "title": "Ravenna Park South Pool, 1893",
@@ -866,9 +985,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1702/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1702/default.jpg"
   },
   {
     "title": "Parade at 2nd Ave. and Marion St., 1899",
@@ -888,9 +1010,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "2nd Ave. and Marion St.",
-    "coordinates": ["47.604473", "-122.33461"],
+    "coordinates": [
+      "47.604473",
+      "-122.33461"
+    ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1698/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1698/default.jpg"
   },
   {
     "title": "Woodland Park, ca. 1899",
@@ -907,9 +1032,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1899-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1700/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1700/default.jpg"
   },
   {
     "title": "Spanish American War homecoming at 2nd Ave. and James St., November 4, 1899",
@@ -929,9 +1057,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1899-11-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1699/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1699/default.jpg"
   },
   {
     "title": "Umbrella Man, 1899",
@@ -956,20 +1087,29 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "2nd Ave. and Spring St.",
-    "coordinates": ["47.605871", "-122.335784"],
+    "coordinates": [
+      "47.605871",
+      "-122.335784"
+    ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1697/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1697/default.jpg"
   },
   {
     "title": "Outlet of Union Bay, 1893",
     "identifier": "spl_shp_14157",
     "description": "Transcribed from photograph: \"Lake Washington. Outlet of Union Bay. 1893.\"",
-    "subjects": ["Washington, Lake (Wash.)", "Snow", "Union Bay (Wash.)"],
+    "subjects": [
+      "Washington, Lake (Wash.)",
+      "Snow",
+      "Union Bay (Wash.)"
+    ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1701/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1701/default.jpg"
   },
   {
     "title": "John S. Reasoner House, 1893",
@@ -984,9 +1124,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1696/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1696/default.jpg"
   },
   {
     "title": "Washington (Denny) Hotel, ca. 1900",
@@ -1001,9 +1144,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.611477", "-122.340308"],
+    "coordinates": [
+      "47.611477",
+      "-122.340308"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1703/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1703/default.jpg"
   },
   {
     "title": "Digging the Lake Washington Ship Canal, ca. 1916",
@@ -1017,8 +1163,10 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1916-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1694/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1694/default.jpg"
   }
 ]

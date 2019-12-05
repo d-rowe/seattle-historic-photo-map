@@ -17,9 +17,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1886-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1522/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1522/default.jpg"
   },
   {
     "title": "Reconstruction following fire from 1st Ave and Yesler Way, June 1890",
@@ -39,9 +42,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1890-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1517/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1517/default.jpg"
   },
   {
     "title": "First street car at S. Occidental Ave. and Yesler Way, September 20, 1884",
@@ -69,9 +75,12 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "S. Occidental Ave. and Yesler Way",
-    "coordinates": ["47.601715", "-122.33279"],
+    "coordinates": [
+      "47.601715",
+      "-122.33279"
+    ],
     "createdDate": "1884-09-20T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1521/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1521/default.jpg"
   },
   {
     "title": "Fire ruins near Columbia St. and Cherry St., June 1889",
@@ -87,9 +96,12 @@
     ],
     "photographer": "Boyd & Brass",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", " -122.334303"],
+    "coordinates": [
+      "47.602557",
+      " -122.334303"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1515/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1515/default.jpg"
   },
   {
     "title": "View of reconstruction following fire from 1st Ave. and James St., July 1890",
@@ -107,9 +119,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1890-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1516/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1516/default.jpg"
   },
   {
     "title": "King County Courthouse interior, ca. 1885",
@@ -129,9 +144,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
-    "coordinates": ["47.602132", "-122.330816"],
+    "coordinates": [
+      "47.602132",
+      "-122.330816"
+    ],
     "createdDate": "1885-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1523/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1523/default.jpg"
   },
   {
     "title": "Yesler-Leary Block, 1887",
@@ -158,9 +176,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1520/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1520/default.jpg"
   },
   {
     "title": "Parade for Henry Villard's visit, September 14, 1883",
@@ -182,9 +203,12 @@
     ],
     "photographer": "",
     "intersection": "3rd Ave. and Union St.",
-    "coordinates": ["47.60825", "-122.336548"],
+    "coordinates": [
+      "47.60825",
+      "-122.336548"
+    ],
     "createdDate": "1883-09-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1513/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1513/default.jpg"
   },
   {
     "title": "Seattle waterfront north from S. Washington St., 1887",
@@ -213,9 +237,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1512/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1512/default.jpg"
   },
   {
     "title": "Oregon Improvement Company, ca. 1885",
@@ -233,9 +260,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1885-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1526/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1526/default.jpg"
   },
   {
     "title": "Western Mill, ca. 1888",
@@ -250,9 +280,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "Terry Ave. N. and Valley St.",
-    "coordinates": ["47.625744", "-122.337129"],
+    "coordinates": [
+      "47.625744",
+      "-122.337129"
+    ],
     "createdDate": "1888-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1529/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1529/default.jpg"
   },
   {
     "title": "View SE from 4th Ave. and Seneca St., 1886",
@@ -273,9 +306,12 @@
     ],
     "photographer": "Curtis & MillerWebster & Stevens",
     "intersection": "4th Ave. and Seneca St.",
-    "coordinates": ["47.607498", " -122.334076"],
+    "coordinates": [
+      "47.607498",
+      " -122.334076"
+    ],
     "createdDate": "1886-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1531/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1531/default.jpg"
   },
   {
     "title": "View east from 1st Ave. and Cherry St., 1914",
@@ -299,9 +335,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", "-122.334303"],
+    "coordinates": [
+      "47.602557",
+      "-122.334303"
+    ],
     "createdDate": "1914-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1525/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1525/default.jpg"
   },
   {
     "title": "Old bicycle path, 1895",
@@ -320,9 +359,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1895-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1528/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1528/default.jpg"
   },
   {
     "title": "Boren House at 2nd. Ave. and Cherry St., 1870",
@@ -340,9 +381,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "2nd. Ave. and Cherry St.",
-    "coordinates": ["47.603048", "-122.333323"],
+    "coordinates": [
+      "47.603048",
+      "-122.333323"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1533/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1533/default.jpg"
   },
   {
     "title": "Catherine Maynard at tomb of David Maynard in Lakeview Cemetary, 1903",
@@ -357,9 +401,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.633896", "-122.312434"],
+    "coordinates": [
+      "47.633896",
+      "-122.312434"
+    ],
     "createdDate": "1903-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1532/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1532/default.jpg"
   },
   {
     "title": "Post Building, 1887",
@@ -386,9 +433,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "Post Ave. and Yesler Way",
-    "coordinates": ["47.601737", "-122.334876"],
+    "coordinates": [
+      "47.601737",
+      "-122.334876"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1530/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1530/default.jpg"
   },
   {
     "title": "Steamer \"George E. Starr\" under construction at William Hammon's shipyard, 1879",
@@ -405,9 +455,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way S. and Columbia St.",
-    "coordinates": ["47.602475", "-122.336897"],
+    "coordinates": [
+      "47.602475",
+      "-122.336897"
+    ],
     "createdDate": "1879-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1534/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1534/default.jpg"
   },
   {
     "title": "Yesler's wharf, 1887",
@@ -433,9 +486,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
-    "coordinates": ["47.601735"],
+    "coordinates": [
+      "47.601735"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1535/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1535/default.jpg"
   },
   {
     "title": "Waterfront between Madison and Columbia St., 1887",
@@ -464,9 +519,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Madison St.",
-    "coordinates": ["47.603764", "-122.338484"],
+    "coordinates": [
+      "47.603764",
+      "-122.338484"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1527/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1527/default.jpg"
   },
   {
     "title": "Columbia and Puget Sound Coal Bunker Trestle, 1883",
@@ -492,9 +550,12 @@
     ],
     "photographer": "Watkins, Carleton E., 1829-1916Webster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1883-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1524/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1524/default.jpg"
   },
   {
     "title": "Potlatch Children's Parade; Lincoln Playfield Float at 2nd Ave. and Union St., July 20, 1912",
@@ -525,9 +586,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
-    "coordinates": ["47.60829", "-122.337997"],
+    "coordinates": [
+      "47.60829",
+      "-122.337997"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1588/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1588/default.jpg"
   },
   {
     "title": "King Street wharves, ca. 1878",
@@ -546,9 +610,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1878-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1580/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1580/default.jpg"
   },
   {
     "title": "Potlatch Festival Reception of the Tyee, July 17, 1912",
@@ -567,9 +634,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1582/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1582/default.jpg"
   },
   {
     "title": "Burns House at 2nd Ave. and Pike St., 1884",
@@ -586,9 +656,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1884-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1581/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1581/default.jpg"
   },
   {
     "title": "Seattle waterfront form Yesler Way to University St., ca. 1880",
@@ -606,9 +679,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
-    "coordinates": ["47.601735", "-122.336591"],
+    "coordinates": [
+      "47.601735",
+      "-122.336591"
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1576/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1576/default.jpg"
   },
   {
     "title": "Steamers \"Nellie\" and \"W.F. Munroe,\" ca. 1890",
@@ -623,9 +699,11 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1575/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1575/default.jpg"
   },
   {
     "title": "4th Ave. south from Marion St., 1875",
@@ -643,9 +721,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Marion St.",
-    "coordinates": ["47.60538", "-122.332264"],
+    "coordinates": [
+      "47.60538",
+      "-122.332264"
+    ],
     "createdDate": "1875-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1577/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1577/default.jpg"
   },
   {
     "title": "View north from 1st Ave. and Madison St., 1885",
@@ -674,9 +755,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Madison St.",
-    "coordinates": ["47.60467", "-122.336223"],
+    "coordinates": [
+      "47.60467",
+      "-122.336223"
+    ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1579/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1579/default.jpg"
   },
   {
     "title": "1st Ave. north from Spring St, 1885",
@@ -695,9 +779,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. and Spring St.",
-    "coordinates": ["47.605395", "-122.336917"],
+    "coordinates": [
+      "47.605395",
+      "-122.336917"
+    ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1578/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1578/default.jpg"
   },
   {
     "title": "Alaska Pageant Potlach float, July 17, 1912",
@@ -719,9 +806,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1583/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1583/default.jpg"
   },
   {
     "title": "View from 7th Ave. and Seneca St., 1885",
@@ -743,9 +833,12 @@
     ],
     "photographer": "",
     "intersection": "7th Ave. and Seneca St.",
-    "coordinates": ["47.608926", "-122.330885"],
+    "coordinates": [
+      "47.608926",
+      "-122.330885"
+    ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1574/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1574/default.jpg"
   },
   {
     "title": "Potlatch Festival Reception of the Tyee, July 17, 1912",
@@ -762,9 +855,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1595/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1595/default.jpg"
   },
   {
     "title": "Potlatch Parade Fraternal Orders' float at 2nd Ave. and Madison St., July 17, 1912",
@@ -785,9 +881,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1586/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1586/default.jpg"
   },
   {
     "title": "Potlatch Children's Parade, July 17, 1912",
@@ -814,9 +913,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
-    "coordinates": ["47.60829", "-122.337997"],
+    "coordinates": [
+      "47.60829",
+      "-122.337997"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1587/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1587/default.jpg"
   },
   {
     "title": "Golden Potlatch Auto Parade, July 20, 1912",
@@ -834,9 +936,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "3rd Ave. and University St.",
-    "coordinates": ["47.607761", " -122.335979"],
+    "coordinates": [
+      "47.607761",
+      " -122.335979"
+    ],
     "createdDate": "1912-07-20T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1594/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1594/default.jpg"
   },
   {
     "title": "Golden Potlatch Auto Parade, Bert L. Swezea Car, July 20, 1912",
@@ -857,9 +962,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "3rd Ave. and University St.",
-    "coordinates": ["47.607761", " -122.335979"],
+    "coordinates": [
+      "47.607761",
+      " -122.335979"
+    ],
     "createdDate": "1912-07-20T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1592/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1592/default.jpg"
   },
   {
     "title": "Potlatch Parade Ikht Tribe of Tilikums of Elttaes float near 2nd Ave. and Marion St., July 17, 1912",
@@ -883,9 +991,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd St. and Madison Ave.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1589/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1589/default.jpg"
   },
   {
     "title": "Rogers Playfield Float, July 20, 1912",
@@ -909,9 +1020,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Stewart St.",
-    "coordinates": ["47.610703", "-122.340332"],
+    "coordinates": [
+      "47.610703",
+      "-122.340332"
+    ],
     "createdDate": "1912-07-20T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1593/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1593/default.jpg"
   },
   {
     "title": "Potlatch Parade Hyas Tyee Float, July 17, 1912",
@@ -926,9 +1040,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1591/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1591/default.jpg"
   },
   {
     "title": "Potlatch Parade Totems of the Three Tribes float near 2nd Ave. and Madison St., July 17, 1912",
@@ -958,9 +1075,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1585/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1585/default.jpg"
   },
   {
     "title": "Potlatch Festival Reception of the Tyee, July 17, 1912",
@@ -979,9 +1099,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1590/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1590/default.jpg"
   },
   {
     "title": "Potlatch Children's Parade near 2nd Ave. and Union St., July 17, 1912",
@@ -1009,9 +1132,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
-    "coordinates": ["47.60829", "-122.337997"],
+    "coordinates": [
+      "47.60829",
+      "-122.337997"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1584/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1584/default.jpg"
   },
   {
     "title": "Potlatch Parade Alaska Pageant; Fur Industries Float at 2nd Ave. and Madison St., July 17, 1912",
@@ -1036,9 +1162,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1598/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1598/default.jpg"
   },
   {
     "title": "Potlatch parade Russian Occupation float at 2nd Ave. and Madison St., July 17, 1912",
@@ -1061,9 +1190,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1599/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1599/default.jpg"
   },
   {
     "title": "Queen Anne Playfield Float in Potlatch Parade, July 17, 1912",
@@ -1091,9 +1223,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
-    "coordinates": ["47.60829", "-122.337997"],
+    "coordinates": [
+      "47.60829",
+      "-122.337997"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1606/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1606/default.jpg"
   },
   {
     "title": "Potlatch Parade German-American Alliance Float, July 17, 1912",
@@ -1119,9 +1254,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Seneca St.",
-    "coordinates": ["47.606584", "-122.336436"],
+    "coordinates": [
+      "47.606584",
+      "-122.336436"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1602/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1602/default.jpg"
   },
   {
     "title": "Potlatch Parade Arctic Club Members' Cars, July 17, 1912",
@@ -1156,9 +1294,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and University St.",
-    "coordinates": ["47.607297", "-122.337088"],
+    "coordinates": [
+      "47.607297",
+      "-122.337088"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1600/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1600/default.jpg"
   },
   {
     "title": "Potlatch Parade Official Car of Tyee Allen at 2nd Ave. and Spring St., July 17, 1912",
@@ -1185,9 +1326,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Spring St.",
-    "coordinates": ["47.605871", "-122.335784"],
+    "coordinates": [
+      "47.605871",
+      "-122.335784"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1604/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1604/default.jpg"
   },
   {
     "title": "Potlatch Festival Reception of the Tyee, July 17, 1912",
@@ -1202,8 +1346,11 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1601/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1601/default.jpg"
   }
 ]

@@ -18,7 +18,7 @@
       "-122.286959"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2060/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2060/default.jpg"
   },
   {
     "title": "Seattle Public Library, Fremont branch, June 1955",
@@ -40,7 +40,7 @@
       "-122.348423"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2058/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2058/default.jpg"
   },
   {
     "title": "Wilmot Branch, Seattle Public Library, 1955",
@@ -62,7 +62,7 @@
       "-122.333516"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2054/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2054/default.jpg"
   },
   {
     "title": "Greenwood Branch, Seattle Public Library, 1955",
@@ -84,7 +84,7 @@
       "-122.354853"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2053/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2053/default.jpg"
   },
   {
     "title": "Ballard Branch, Seattle Public Library, 1963",
@@ -105,7 +105,7 @@
       "-122.387936"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2056/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2056/default.jpg"
   },
   {
     "title": "Sculpture depicting Judson Toll Jennings, ca. 1949",
@@ -125,7 +125,7 @@
       "-122.332984"
     ],
     "createdDate": "1949-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2062/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2062/default.jpg"
   },
   {
     "title": "Southwest Branch, Seattle Public Library, 1961",
@@ -145,7 +145,7 @@
       "-122.376274"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2055/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2055/default.jpg"
   },
   {
     "title": "Seattle Public Library, Oakview branch, 1955",
@@ -165,7 +165,7 @@
       "-122.35155"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2061/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2061/default.jpg"
   },
   {
     "title": "Susan J. Henry Memorial Branch, Seattle Public Library, 1955",
@@ -186,7 +186,7 @@
       "-122.322318"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2052/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2052/default.jpg"
   },
   {
     "title": "George Tsutakawa with his Fountain of Wisdom, 1960",
@@ -211,7 +211,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2064/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2064/default.jpg"
   },
   {
     "title": "Portland (wooden steamship), ca. 1900",
@@ -234,7 +234,7 @@
       "-122.370833"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2067/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2067/default.jpg"
   },
   {
     "title": "Moran Bros. Co. plant.",
@@ -261,7 +261,7 @@
       "-122.33813"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2074/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2074/default.jpg"
   },
   {
     "title": "H. F. Alexander (steamship) docked in Elliott Bay, 1917",
@@ -284,7 +284,7 @@
       "-122.370833"
     ],
     "createdDate": "1917-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2071/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2071/default.jpg"
   },
   {
     "title": "Allstate Insurance Co., ca. 1965",
@@ -306,7 +306,7 @@
       "-122.332422"
     ],
     "createdDate": "1965-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2075/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2075/default.jpg"
   },
   {
     "title": "Pier 5, 1913",
@@ -330,7 +330,7 @@
       "-122.339758"
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2073/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2073/default.jpg"
   },
   {
     "title": "George E. Starr (steamer) in Elliott Bay, ca. 1900",
@@ -349,7 +349,7 @@
       "-122.370833"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2066/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2066/default.jpg"
   },
   {
     "title": "\"Miike Maru\" in Elliott Bay, August 31, 1918",
@@ -367,7 +367,7 @@
       "-122.370833"
     ],
     "createdDate": "1918-08-31T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2069/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2069/default.jpg"
   },
   {
     "title": "Pier 4 at base of Spring St., 1912",
@@ -390,7 +390,7 @@
       "-122.339103"
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2072/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2072/default.jpg"
   },
   {
     "title": "\"J.L. Luckenbach \" in Elliott Bay, ca. 1910",
@@ -408,7 +408,7 @@
       "-122.370833"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2068/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2068/default.jpg"
   },
   {
     "title": "George Tsutakawa with his Fountain of Wisdom, 1960",
@@ -433,7 +433,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2065/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2065/default.jpg"
   },
   {
     "title": "\"Minnesota\" in Elliott Bay, ca. 1910",
@@ -451,7 +451,7 @@
       "-122.370833"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2070/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2070/default.jpg"
   },
   {
     "title": "Seattle Center, 1963",
@@ -472,7 +472,7 @@
       ""
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2076/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2076/default.jpg"
   },
   {
     "title": "View east from Elliott Bay, 1900",
@@ -491,7 +491,7 @@
       "-122.370833"
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2087/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2087/default.jpg"
   },
   {
     "title": "Horace Chapin Henry house, ca. 1935",
@@ -511,7 +511,7 @@
       "-122.322318"
     ],
     "createdDate": "1935-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2086/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2086/default.jpg"
   },
   {
     "title": "View NW from Phinney Ridge, ca. 1960",
@@ -531,7 +531,7 @@
       "-122.351744"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2082/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2082/default.jpg"
   },
   {
     "title": "View SW to Seattle waterfront, ca. 1956",
@@ -559,7 +559,7 @@
       "-122.34519"
     ],
     "createdDate": "1956-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2079/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2079/default.jpg"
   },
   {
     "title": "Medical-Dental Building, January 1951",
@@ -579,7 +579,7 @@
       "-122.335981"
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2081/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2081/default.jpg"
   },
   {
     "title": "Bon Marche, ca. 1950",
@@ -601,7 +601,7 @@
       "-122.336287"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2077/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2077/default.jpg"
   },
   {
     "title": "Cobb Building, ca. 1940",
@@ -622,7 +622,7 @@
       "-122.335365"
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2083/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2083/default.jpg"
   },
   {
     "title": "View from Elliott Bay northeast, ca. 1956",
@@ -646,7 +646,7 @@
       "-122.33813"
     ],
     "createdDate": "1956-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2080/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2080/default.jpg"
   },
   {
     "title": "Burke Building, June 7, 1952",
@@ -681,7 +681,7 @@
       "-122.335458"
     ],
     "createdDate": "1952-06-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2085/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2085/default.jpg"
   },
   {
     "title": "Nettleton apartment buildings, ca. 1950",
@@ -701,7 +701,7 @@
       "-122.328418"
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2078/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2078/default.jpg"
   },
   {
     "title": "Maynard Building, June 6, 1962",
@@ -727,7 +727,7 @@
       "-122.334579"
     ],
     "createdDate": "1962-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2084/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2084/default.jpg"
   },
   {
     "title": "View east from West Seattle, 1946",
@@ -746,7 +746,7 @@
       ""
     ],
     "createdDate": "1946-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2088/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2088/default.jpg"
   },
   {
     "title": "View NW from Smith Tower, 1929",
@@ -772,7 +772,7 @@
       "-122.331717"
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2089/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2089/default.jpg"
   },
   {
     "title": "Harborview Hospital, 1929",
@@ -790,7 +790,7 @@
       "-122.324176"
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2091/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2091/default.jpg"
   },
   {
     "title": "Pioneer Building, October 5, 1961",
@@ -817,7 +817,7 @@
       "-122.33348"
     ],
     "createdDate": "1961-10-05T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2098/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2098/default.jpg"
   },
   {
     "title": "View south from 2nd Ave. and Spring St., ca. 1915",
@@ -847,7 +847,7 @@
       "-122.335784"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2099/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2099/default.jpg"
   },
   {
     "title": "Pacific Science Center arches, ca. 1962",
@@ -871,7 +871,7 @@
       "-122.351371"
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2097/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2097/default.jpg"
   },
   {
     "title": "Totem pole in Belvedere Place, West Seattle, 1952",
@@ -898,7 +898,7 @@
       "-122.376688"
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2094/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2094/default.jpg"
   },
   {
     "title": "Fun Forest at Seattle Center, ca. 1962",
@@ -926,7 +926,7 @@
       "-122.351744"
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2096/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2096/default.jpg"
   },
   {
     "title": "National Bank of Commerce, Ballard Branch, ca. 1946",
@@ -949,7 +949,7 @@
       "-122.383748"
     ],
     "createdDate": "1946-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2092/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2092/default.jpg"
   },
   {
     "title": "View East from Elliott Bay, 1900",
@@ -967,7 +967,7 @@
       "-122.370833"
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2090/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2090/default.jpg"
   },
   {
     "title": "Stimson House, October 9, 1961",
@@ -988,7 +988,7 @@
       "-122.354327"
     ],
     "createdDate": "1961-10-09T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2095/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2095/default.jpg"
   },
   {
     "title": "Plymouth Congregational Church, ca. 1967",
@@ -1009,7 +1009,7 @@
       "-122.332656"
     ],
     "createdDate": "1967-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2103/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2103/default.jpg"
   },
   {
     "title": "Seattle Central Library, 1960",
@@ -1032,7 +1032,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2102/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2102/default.jpg"
   },
   {
     "title": "William Edward Boeing, ca. 1930",
@@ -1049,7 +1049,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2106/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2106/default.jpg"
   },
   {
     "title": "Fountain of Wisdom, 1960",
@@ -1063,7 +1063,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2111/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2111/default.jpg"
   },
   {
     "title": "International Fountain, Seattle Center, 1962",
@@ -1084,7 +1084,7 @@
       "-122.352042"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2109/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2109/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1960",
@@ -1106,6 +1106,6 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2108/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2108/default.jpg"
   }
 ]

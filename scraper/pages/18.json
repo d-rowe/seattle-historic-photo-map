@@ -24,7 +24,7 @@
       "-122.319978"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2015/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2015/default.jpg"
   },
   {
     "title": "Thomas Burke memorial, Volunteer Park, ca. 1950",
@@ -45,7 +45,7 @@
       "-122.315191"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2010/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2010/default.jpg"
   },
   {
     "title": "Princess Angeline, 1903",
@@ -62,7 +62,7 @@
       ""
     ],
     "createdDate": "1903-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2012/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2012/default.jpg"
   },
   {
     "title": "Elks Harding memorial, Woodland Park, ca. 1950",
@@ -85,7 +85,7 @@
       "-122.34407"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2007/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2007/default.jpg"
   },
   {
     "title": "Elks Harding memorial, plaque, Woodland Park, ca. 1950",
@@ -110,7 +110,7 @@
       "-122.34407"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2006/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2006/default.jpg"
   },
   {
     "title": "Spanish-American war memorial, Woodland Park, ca. 1950",
@@ -132,7 +132,7 @@
       "-122.345284"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2005/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2005/default.jpg"
   },
   {
     "title": "John Harte McGraw statue, Times Square, ca. 1950",
@@ -157,7 +157,7 @@
       "-122.337555"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2008/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2008/default.jpg"
   },
   {
     "title": "From Elliott Bay (airplane view) looking east to Lake Union, 1952",
@@ -183,7 +183,7 @@
       "-122.370833"
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2014/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2014/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1950",
@@ -207,7 +207,7 @@
       "-122.332984"
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2011/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2011/default.jpg"
   },
   {
     "title": "William Henry Seward statue, Volunteer Park, ca. 1950",
@@ -231,7 +231,7 @@
       "-122.315726"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2009/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2009/default.jpg"
   },
   {
     "title": "Northgate Shopping Center, 1952",
@@ -252,7 +252,7 @@
       "-122.326389"
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2013/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2013/default.jpg"
   },
   {
     "title": "Tokiwa Hotel at Jackson St. and Maynard Ave., 1960",
@@ -278,7 +278,7 @@
       "-122.325064"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2023/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2023/default.jpg"
   },
   {
     "title": "International District, 700 block King St., 1958",
@@ -302,7 +302,7 @@
       "-122.323761"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2021/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2021/default.jpg"
   },
   {
     "title": "Welcome Annex Hotel at 6th Avenue S. and S. Jackson St., 1961",
@@ -326,7 +326,7 @@
       "-122.325685"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2024/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2024/default.jpg"
   },
   {
     "title": "View from Canton Alley between 7th Ave. S. and 8th Ave. S., 1959",
@@ -347,7 +347,7 @@
       "-122.323088"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2022/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2022/default.jpg"
   },
   {
     "title": "Madison Park, ca. 1897",
@@ -375,7 +375,7 @@
       "-122.278489"
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2018/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2018/default.jpg"
   },
   {
     "title": "International District, 14th Ave. S. and S. Washington St., 1958",
@@ -398,7 +398,7 @@
       "-122.314142"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2027/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2027/default.jpg"
   },
   {
     "title": "St. James Cathedral, 1907",
@@ -422,7 +422,7 @@
       "-122.325891"
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2017/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2017/default.jpg"
   },
   {
     "title": "Don Ting Cafe at 7th Ave. S., 1953",
@@ -443,7 +443,7 @@
       "-122.323777"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2026/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2026/default.jpg"
   },
   {
     "title": "Madison Park, ca. 1897",
@@ -473,7 +473,7 @@
       "-122.278489"
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2019/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2019/default.jpg"
   },
   {
     "title": "Alley between S. Jackson St. and S. King St., 1958",
@@ -496,7 +496,7 @@
       "-122.327007"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2020/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2020/default.jpg"
   },
   {
     "title": "View SE at 6th Ave. S. and S. Jackson St., 1961",
@@ -527,7 +527,7 @@
       "-122.326364"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2025/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2025/default.jpg"
   },
   {
     "title": "Alaskan Way viaduct, 1952",
@@ -556,7 +556,7 @@
       "-122.337354"
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2016/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2016/default.jpg"
   },
   {
     "title": "View south on S. Jackson St. from 5th Ave. S., 1959",
@@ -583,7 +583,7 @@
       "-122.327643"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2028/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2028/default.jpg"
   },
   {
     "title": "View east from 6th Ave. S. and S. King St., 1958",
@@ -603,7 +603,7 @@
       "-122.326363"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2037/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2037/default.jpg"
   },
   {
     "title": "View east from 5th Ave. S. and S. Jackson St., 1958",
@@ -626,7 +626,7 @@
       "-122.327643"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2038/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2038/default.jpg"
   },
   {
     "title": "Little Tokyo at 6th Ave. S. and S. Main St., 1957",
@@ -648,7 +648,7 @@
       "-122.326362"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2029/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2029/default.jpg"
   },
   {
     "title": "Telephone booth outside Bush Hotel, 1963",
@@ -669,7 +669,7 @@
       "-122.325432"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2031/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2031/default.jpg"
   },
   {
     "title": "View east from 7th Ave. S. and S. King St., 1958",
@@ -694,7 +694,7 @@
       "-122.323761"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2039/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2039/default.jpg"
   },
   {
     "title": "View NE from 7th Ave. S. and S. King St., 1963",
@@ -714,7 +714,7 @@
       "-122.323761"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2033/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2033/default.jpg"
   },
   {
     "title": "International District, Chinese New Year at Canton Alley S. and S. King St., 1963",
@@ -741,7 +741,7 @@
       "-122.323088"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2035/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2035/default.jpg"
   },
   {
     "title": "Wooden sidewalk on 6th Avenue  S. near S. Jackson St., 1963",
@@ -762,7 +762,7 @@
       "-122.326364"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2032/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2032/default.jpg"
   },
   {
     "title": "View west from 6th Ave. S. and S. Main St., 1957",
@@ -785,7 +785,7 @@
       "-122.326362"
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2036/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2036/default.jpg"
   },
   {
     "title": "Chinese New Year at Canton Alley S. and S. King St., 1963",
@@ -810,7 +810,7 @@
       "-122.323088"
     ],
     "createdDate": "1963-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2034/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2034/default.jpg"
   },
   {
     "title": "View NE from 12th Avenue S. and S. Jackson St., 1959",
@@ -834,7 +834,7 @@
       "-122.317108"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2030/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2030/default.jpg"
   },
   {
     "title": "Seattle Central Library, 1941",
@@ -857,7 +857,7 @@
       "-122.332984"
     ],
     "createdDate": "1941-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2044/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2044/default.jpg"
   },
   {
     "title": "Seattle Central Library, 1961",
@@ -880,7 +880,7 @@
       "-122.332984"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2042/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2042/default.jpg"
   },
   {
     "title": "View east from 5th Avenue S. and S. Main St., 1959",
@@ -906,7 +906,7 @@
       "-122.327665"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2041/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2041/default.jpg"
   },
   {
     "title": "Rainier Beach branch, Seattle Public Library, ca. 1922",
@@ -930,7 +930,7 @@
       "-122.261335"
     ],
     "createdDate": "1922-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2043/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2043/default.jpg"
   },
   {
     "title": "View south on 5th Ave. S. from Yesler Way overpass, 1958",
@@ -956,7 +956,7 @@
       "-122.327654"
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2040/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2040/default.jpg"
   },
   {
     "title": "North East Branch, Seattle Public Library, 1955",
@@ -976,7 +976,7 @@
       "-122.290696"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2051/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2051/default.jpg"
   },
   {
     "title": "Central Library, Seattle Public Library, ca. 1910",
@@ -1001,7 +1001,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2048/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2048/default.jpg"
   },
   {
     "title": "Yesler Branch, Seattle Public Library, 1955",
@@ -1021,7 +1021,7 @@
       "-122.30165"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2050/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2050/default.jpg"
   },
   {
     "title": "Seattle Center, ca. 1965",
@@ -1047,7 +1047,7 @@
       "-122.350433"
     ],
     "createdDate": "1965-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2049/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2049/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1906",
@@ -1069,7 +1069,7 @@
       "-122.332984"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2046/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2046/default.jpg"
   },
   {
     "title": "Children's Room, Seattle Central Library,  January 19, 1907",
@@ -1092,7 +1092,7 @@
       "-122.332984"
     ],
     "createdDate": "1907-01-19T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2045/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2045/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1910",
@@ -1116,7 +1116,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2047/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2047/default.jpg"
   },
   {
     "title": "Seattle Public Library, Queen Anne branch, 1955",
@@ -1138,7 +1138,7 @@
       "-122.362665"
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2059/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2059/default.jpg"
   },
   {
     "title": "Seattle Public Library, Magnolia branch, 1965",
@@ -1159,7 +1159,7 @@
       "-122.401436"
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2057/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2057/default.jpg"
   },
   {
     "title": "Lake City branch, Seattle Public Library, 1966",
@@ -1179,6 +1179,6 @@
       "-122.298113"
     ],
     "createdDate": "1966-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2063/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2063/default.jpg"
   }
 ]

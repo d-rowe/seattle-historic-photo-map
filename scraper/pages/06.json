@@ -19,9 +19,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.633814", "-122.362665"],
+    "coordinates": [
+      "47.633814",
+      "-122.362665"
+    ],
     "createdDate": "1913-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1358/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1358/default.jpg"
   },
   {
     "title": "Ballard Dairy Company wagon, ca. 1911",
@@ -37,9 +40,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.674066", "-122.384497"],
+    "coordinates": [
+      "47.674066",
+      "-122.384497"
+    ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1361/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1361/default.jpg"
   },
   {
     "title": "Louisa Denny, ca. 1910",
@@ -52,9 +58,11 @@
     ],
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1356/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1356/default.jpg"
   },
   {
     "title": "Children in front of Ballard house, ca. 1900",
@@ -68,9 +76,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1368/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1368/default.jpg"
   },
   {
     "title": "\"Uyak\" at the Cooke and Lake Shipyard, 1910",
@@ -85,9 +95,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1376/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1376/default.jpg"
   },
   {
     "title": "Cooke and Lake Shipyard, 1910",
@@ -101,9 +114,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1371/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1371/default.jpg"
   },
   {
     "title": "Cooke and Lake Shipyard, 1908",
@@ -119,9 +135,12 @@
     ],
     "photographer": "C.E. Ebert Photo-Viewing Company",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1379/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1379/default.jpg"
   },
   {
     "title": "\"Oregon\" at the Cooke and Lake Shipyard, 1900",
@@ -136,9 +155,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1374/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1374/default.jpg"
   },
   {
     "title": "Ballard sawmill, 1889",
@@ -150,9 +172,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1373/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1373/default.jpg"
   },
   {
     "title": "Brygger Home in Ballard, ca. 1890",
@@ -167,9 +192,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.667783", "-122.395857"],
+    "coordinates": [
+      "47.667783",
+      "-122.395857"
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1372/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1372/default.jpg"
   },
   {
     "title": "\"Ahrnklin\" at the Cooke and Lake Shipyard, 1910",
@@ -188,9 +216,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1378/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1378/default.jpg"
   },
   {
     "title": "Boats under construction at the Cooke and Lake Shipyard, 1910",
@@ -204,9 +235,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1375/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1375/default.jpg"
   },
   {
     "title": "Hans and Nels Nelson at corner of Dock Pl. and Ballard Ave.,  1892",
@@ -226,9 +260,12 @@
     ],
     "photographer": "",
     "intersection": "Ballard Ave. NW and NW Dock Pl.",
-    "coordinates": ["47.664443", "-122.380918"],
+    "coordinates": [
+      "47.664443",
+      "-122.380918"
+    ],
     "createdDate": "1892-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1369/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1369/default.jpg"
   },
   {
     "title": "Cooke and Lake Shipyard, 1910",
@@ -243,9 +280,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1377/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1377/default.jpg"
   },
   {
     "title": "\"America\" at the  Cooke and Lake Shipyard, ca. 1920",
@@ -265,9 +305,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1920-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1370/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1370/default.jpg"
   },
   {
     "title": "Cooke and Lake Shipyard, 1910",
@@ -281,9 +324,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1380/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1380/default.jpg"
   },
   {
     "title": "Fire ruins near 1st Ave. and Madison St., June 1889",
@@ -297,9 +343,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Madison St.",
-    "coordinates": ["47.60467", "-122.336223"],
+    "coordinates": [
+      "47.60467",
+      "-122.336223"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1388/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1388/default.jpg"
   },
   {
     "title": "Fire ruins of the Peoples Savings Bank near 1st Ave. and James St., June 1889",
@@ -320,9 +369,12 @@
     ],
     "photographer": "Bailey, Edwin J.",
     "intersection": "James St. and Yesler Way",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1387/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1387/default.jpg"
   },
   {
     "title": "Ships in Elliott Bay at dock, ca. 1910",
@@ -342,9 +394,12 @@
     ],
     "photographer": "Cromwell, Alfred",
     "intersection": "Alaskan Way and University St.",
-    "coordinates": ["47.605877", "-122.340393"],
+    "coordinates": [
+      "47.605877",
+      "-122.340393"
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1389/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1389/default.jpg"
   },
   {
     "title": "Washington Tug and Barge Company and Cooke and Lake Shipyard, 1920",
@@ -359,9 +414,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1920-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1382/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1382/default.jpg"
   },
   {
     "title": "Grading work near 9th Ave. NW and NW 57th St., 1900",
@@ -378,9 +436,12 @@
     ],
     "photographer": "",
     "intersection": "9th Ave. NW and NW 57th St.",
-    "coordinates": ["47.670167", "-122.36859"],
+    "coordinates": [
+      "47.670167",
+      "-122.36859"
+    ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1386/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1386/default.jpg"
   },
   {
     "title": "Cooke and Lake Shipyard, ca. 1900",
@@ -394,9 +455,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1384/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1384/default.jpg"
   },
   {
     "title": "Broadway School in Ballard, 1891",
@@ -414,9 +478,12 @@
     ],
     "photographer": "",
     "intersection": "24th Ave. NW and NW Market St.",
-    "coordinates": ["47.668679", "-122.38758"],
+    "coordinates": [
+      "47.668679",
+      "-122.38758"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1385/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1385/default.jpg"
   },
   {
     "title": "Pacific Terminal Pier B, ca. 1910",
@@ -433,9 +500,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and Columbia St.",
-    "coordinates": ["47.602475", "-122.336897"],
+    "coordinates": [
+      "47.602475",
+      "-122.336897"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1391/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1391/default.jpg"
   },
   {
     "title": "Hulls under construction at Cooke and Lake Shipyard, 1905",
@@ -449,9 +519,12 @@
     ],
     "photographer": "C.E. Ebert Photo-Viewing Company",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1381/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1381/default.jpg"
   },
   {
     "title": "Columbia Branch, Seattle Public Library,  1910",
@@ -466,9 +539,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.559901", "-122.286959"],
+    "coordinates": [
+      "47.559901",
+      "-122.286959"
+    ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1390/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1390/default.jpg"
   },
   {
     "title": "Sternwheeler under construction at Cooke and Lake Shipyard, ca. 1900",
@@ -482,9 +558,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.666323", "-122.395404"],
+    "coordinates": [
+      "47.666323",
+      "-122.395404"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1383/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1383/default.jpg"
   },
   {
     "title": "Ship at Oregon Improvement Company docks, 1908",
@@ -503,9 +582,12 @@
     ],
     "photographer": "Boyd & Braas",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1392/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1392/default.jpg"
   },
   {
     "title": "3rd Ave. and James St., 1889",
@@ -522,9 +604,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1394/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1394/default.jpg"
   },
   {
     "title": "Fire ruins on 1st Ave., north of Occidental Square, June 1889",
@@ -539,9 +624,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1401/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1401/default.jpg"
   },
   {
     "title": "Dexter Horton Building ruins following the Great Fire, June 1889",
@@ -557,9 +645,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. S. and S. Main St.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1398/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1398/default.jpg"
   },
   {
     "title": "First logs on Columbia and Puget Sound Railroad, 1880",
@@ -575,9 +666,12 @@
     ],
     "photographer": "Boyd & BraasWebster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1397/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1397/default.jpg"
   },
   {
     "title": "Battle of Seattle, January 28, 1856",
@@ -591,9 +685,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1856-01-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1396/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1396/default.jpg"
   },
   {
     "title": "Ruins at 2nd Ave. and Columbia St. following the Great Fire, June 1889",
@@ -612,9 +708,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
-    "coordinates": ["47.603738", "-122.333842"],
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1399/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1399/default.jpg"
   },
   {
     "title": "Fire ruins on west side of 1st Ave. between Columbia St. and Cherry St., June 1889",
@@ -629,9 +728,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Columbia St.",
-    "coordinates": ["47.6033", "-122.334973"],
+    "coordinates": [
+      "47.6033",
+      "-122.334973"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1400/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1400/default.jpg"
   },
   {
     "title": "Native American camp on Ballast Island, 1889",
@@ -650,9 +752,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1402/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1402/default.jpg"
   },
   {
     "title": "Tents at 3rd Ave. and James St. following the fire, 1889",
@@ -669,9 +774,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1393/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1393/default.jpg"
   },
   {
     "title": "Ruins of the Occidental Hotel, June 1889",
@@ -686,9 +794,12 @@
     ],
     "photographer": "",
     "intersection": "James St. and Yesler Ave.",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1403/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1403/default.jpg"
   },
   {
     "title": "Princess Angeline, ca. 1890",
@@ -701,9 +812,11 @@
     ],
     "photographer": "Boyd, William F.",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1395/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1395/default.jpg"
   },
   {
     "title": "Fire ruins near 1st Ave. and Yesler Way, June 1889",
@@ -721,9 +834,12 @@
     ],
     "photographer": "Soule, John P.McManus",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1412/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1412/default.jpg"
   },
   {
     "title": "Reconstruction near 3rd Ave. and Yesler Way., June 1889",
@@ -740,9 +856,12 @@
     ],
     "photographer": "McManus",
     "intersection": "3rd Ave. and Yesler Way",
-    "coordinates": ["47.601721", "-122.330447"],
+    "coordinates": [
+      "47.601721",
+      "-122.330447"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1413/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1413/default.jpg"
   },
   {
     "title": "Fire ruins near Post Ave. and Yesler Way, June 1889",
@@ -755,9 +874,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "Post Ave. and Yesler Way",
-    "coordinates": ["47.601737", "-122.334876"],
+    "coordinates": [
+      "47.601737",
+      "-122.334876"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1411/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1411/default.jpg"
   },
   {
     "title": "Yesler House, 1860",
@@ -777,9 +899,12 @@
     ],
     "photographer": "Clark, E.A.Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1860-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1415/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1415/default.jpg"
   },
   {
     "title": "Fire ruins on 1st Ave., north of Occidental Square, June 1889",
@@ -795,9 +920,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1405/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1405/default.jpg"
   },
   {
     "title": "Frye's Opera House Ruins, June 1889",
@@ -814,9 +942,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Marion St.",
-    "coordinates": ["47.603978", "-122.3356"],
+    "coordinates": [
+      "47.603978",
+      "-122.3356"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1406/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1406/default.jpg"
   },
   {
     "title": "Reconstruction near 2nd Ave. and James St., June 1889",
@@ -833,9 +964,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1410/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1410/default.jpg"
   },
   {
     "title": "Reconstruction near 2nd Ave. and Yesler Way, June 1889",
@@ -853,9 +987,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Yesler Way",
-    "coordinates": ["47.601716", "-122.331999"],
+    "coordinates": [
+      "47.601716",
+      "-122.331999"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1408/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1408/default.jpg"
   },
   {
     "title": "Fire ruins near 2nd Ave. and Columbia St., June 1889",
@@ -871,9 +1008,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
-    "coordinates": ["47.603738", "-122.333842"],
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1409/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1409/default.jpg"
   },
   {
     "title": "Seattle waterfront from Elliot Bay, 1878",
@@ -908,9 +1048,12 @@
     ],
     "photographer": "Peterson & Bros.",
     "intersection": "Alaskan Way S. and Columbia St.",
-    "coordinates": ["47.602475", "-122.336897"],
+    "coordinates": [
+      "47.602475",
+      "-122.336897"
+    ],
     "createdDate": "1878-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1414/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1414/default.jpg"
   },
   {
     "title": "Reconstruction near 2nd Ave. and Madison St., June 1889",
@@ -930,8 +1073,11 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1407/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1407/default.jpg"
   }
 ]

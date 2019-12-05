@@ -17,7 +17,7 @@
       "-122.329936"
     ],
     "createdDate": "1906-04-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3845/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3845/default.jpg"
   },
   {
     "title": "View of Potlatch Parade from 1st Ave and Yesler Way, 1912Front",
@@ -51,7 +51,7 @@
       "-122.334119"
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3683/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3683/default.jpg"
   },
   {
     "title": "Spillway at Ballard Locks, ca. 1920front",
@@ -70,7 +70,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3301/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3301/default.jpg"
   },
   {
     "title": "U.S. Govt. Locks, Seattle, Washington, ca. 1920front",
@@ -91,7 +91,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3268/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3268/default.jpg"
   },
   {
     "title": "Seattle, Washington as seen from Magnolia Bluff, ca. 1930front",
@@ -113,7 +113,7 @@
       "-122.390143"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3337/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3337/default.jpg"
   },
   {
     "title": "Spillway Government Locks at Ballard, Seattle, Wash., July 24, 1917front",
@@ -134,7 +134,7 @@
       "-122.398068"
     ],
     "createdDate": "1917-07-24T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3328/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3328/default.jpg"
   },
   {
     "title": "View east through Ballard Locks, ca. 1918front",
@@ -154,7 +154,7 @@
       "-122.398068"
     ],
     "createdDate": "1918-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3247/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3247/default.jpg"
   },
   {
     "title": "Unidentified boxing match, ca. 1940shp_40904a",
@@ -171,7 +171,7 @@
       ""
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4108/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4108/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Pike St., February 1916Front",
@@ -202,8 +202,8 @@
       "-122.33890647.609284",
       "-122.338906"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3725/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3725/default.jpg"
   },
   {
     "title": "U.S.S. Washington at Seattle, 1908Front",
@@ -223,7 +223,7 @@
       "-122.370833"
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2956/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2956/default.jpg"
   },
   {
     "title": "University of Washington buildings, April 25, 1923Front",
@@ -245,7 +245,7 @@
       "-122.30352"
     ],
     "createdDate": "1923-04-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3722/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3722/default.jpg"
   },
   {
     "title": "View east to spillway from the south side of Ballard Locks, ca. 1919front",
@@ -265,7 +265,7 @@
       "-122.398068"
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3271/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3271/default.jpg"
   },
   {
     "title": "View NE from 3rd Ave. and Marion St., ca. 1941Front",
@@ -295,7 +295,7 @@
       "-122.333369"
     ],
     "createdDate": "1941-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3698/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3698/default.jpg"
   },
   {
     "title": "Tillicum towing Kitsap out of Ballard, 1916front",
@@ -316,7 +316,7 @@
       "-122.414322"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3313/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3313/default.jpg"
   },
   {
     "title": "Spillway - U.S. Government Locks, Seattle, Wash., ca. 1930front",
@@ -336,7 +336,7 @@
       "-122.398068"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3349/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3349/default.jpg"
   },
   {
     "title": "Seattle Central Library from 4th Ave. and Madison St., ca. 1910Front",
@@ -357,7 +357,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3701/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3701/default.jpg"
   },
   {
     "title": "Trees in snow, February 1916Front",
@@ -374,7 +374,7 @@
       ""
     ],
     "createdDate": "1916-02-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3854/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3854/default.jpg"
   },
   {
     "title": "World famous Canal Locks - Seattle, ca. 1920front",
@@ -397,7 +397,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3352/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3352/default.jpg"
   },
   {
     "title": "View west from 9th Ave. and James St. in snow, 1916Front",
@@ -419,7 +419,7 @@
       "-122.324742"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3737/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3737/default.jpg"
   },
   {
     "title": "William Bloch House, ca. 1908Front",
@@ -442,8 +442,8 @@
       "-122.31383947.628434",
       "-122.313839"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2775/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2775/default.jpg"
   },
   {
     "title": "View north from 2nd Ave. and Marion St., August 15, 1946Front",
@@ -471,7 +471,7 @@
       "-122.334479"
     ],
     "createdDate": "1946-08-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3851/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3851/default.jpg"
   },
   {
     "title": "Snow on 4th Ave. north of University St., February 1916Front",
@@ -502,7 +502,7 @@
       "-122.334896"
     ],
     "createdDate": "1916-02-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3857/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3857/default.jpg"
   },
   {
     "title": "Snow in Woodland Park, January 1916Front",
@@ -521,7 +521,7 @@
       "-122.34407"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3734/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3734/default.jpg"
   },
   {
     "title": "U.S. Government Locks - Seattle, Wash., ca. 1945front",
@@ -545,7 +545,7 @@
       "-122.398068"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3277/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3277/default.jpg"
   },
   {
     "title": "University of Washington and Yacht Club, ca. 1930University of Washington and Yacht Club, ca. 1930",
@@ -574,8 +574,8 @@
       "-122.30858647.645307",
       "-122.308586"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4264/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4264/default.jpg"
   },
   {
     "title": "View south to Mount Rainier from Fremont, 1908Front",
@@ -597,7 +597,7 @@
       "-122.347388"
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3881/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3881/default.jpg"
   },
   {
     "title": "Temporary Central Library location at 7th Ave. and Olive Way, ca. 1957spl_shp_40585",
@@ -617,7 +617,7 @@
       "-122.335193"
     ],
     "createdDate": "1957-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4268/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4268/default.jpg"
   },
   {
     "title": "University of Washington trail, ca. 1910Front",
@@ -635,7 +635,7 @@
       "-122.30352"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3884/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3884/default.jpg"
   },
   {
     "title": "University Temple United Methodist Church, ca. 1927Front",
@@ -656,7 +656,7 @@
       "-122.312356"
     ],
     "createdDate": "1927-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3680/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3680/default.jpg"
   },
   {
     "title": "Tillicum towing Kitsap out of Ballard, 1916front",
@@ -677,7 +677,7 @@
       "-122.398068"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3289/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3289/default.jpg"
   },
   {
     "title": "Wash. Canal Locks, Ballard W.N., ca. 1920front",
@@ -700,7 +700,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3286/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3286/default.jpg"
   },
   {
     "title": "U.S.S. Ramsey, ca. 1967Front",
@@ -717,7 +717,7 @@
       ""
     ],
     "createdDate": "1967-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2868/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2868/default.jpg"
   },
   {
     "title": "Snow at Cowen Park, February 1916Front",
@@ -736,7 +736,7 @@
       "-122.312706"
     ],
     "createdDate": "1916-02-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3743/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3743/default.jpg"
   },
   {
     "title": "Spillway Government Locks at Ballard,  ca. 1917front",
@@ -756,7 +756,7 @@
       "-122.398068"
     ],
     "createdDate": "1917-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3364/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3364/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Pine St., January 1916Front",
@@ -791,8 +791,8 @@
       "-122.33980947.610276",
       "-122.339809"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3746/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3746/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Madison St., January 1916Front",
@@ -818,7 +818,7 @@
       "-122.335131"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3875/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3875/default.jpg"
   },
   {
     "title": "University Branch, Seattle Public Library, ca. 1922Front",
@@ -837,7 +837,7 @@
       "-122.317883"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3887/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3887/default.jpg"
   },
   {
     "title": "Seattle from Kinnear Park, ca. 1910spl_shp_40582",
@@ -856,7 +856,7 @@
       "-122.366882"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4266/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4266/default.jpg"
   },
   {
     "title": "Seattle's illumination in honor of the Atlantic Fleet, May 1908Front",
@@ -887,8 +887,8 @@
       "-122.335647.603978",
       "-122.3356"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2938/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2938/default.jpg"
   },
   {
     "title": "West Seattle Branch, Seattle Public Library, ca. 1910Front",
@@ -906,7 +906,7 @@
       "-122.384696"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3713/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3713/default.jpg"
   },
   {
     "title": "Seattle Central Library from 4th Ave. and Madison St., ca. 1910Front",
@@ -929,7 +929,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3704/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3704/default.jpg"
   },
   {
     "title": "St. Mark's Cathedral, ca. 1931Front",
@@ -949,7 +949,7 @@
       "-122.321312"
     ],
     "createdDate": "1931-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3749/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3749/default.jpg"
   },
   {
     "title": "Seattle Central Library entrance, ca. 1910Front",
@@ -968,7 +968,7 @@
       "-122.332984"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3773/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3773/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Pike St., February 1916Front",
@@ -999,8 +999,8 @@
       "-122.33890647.609284",
       "-122.338906"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3782/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3782/default.jpg"
   },
   {
     "title": "View of Seattle from Elliott Bay, November 1904Front",
@@ -1026,7 +1026,7 @@
       "-122.370833"
     ],
     "createdDate": "1904-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3785/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3785/default.jpg"
   },
   {
     "title": "Wagon Wheel souvenir photograph, September 26, 1952Page 1",
@@ -1046,7 +1046,7 @@
       "-122.33739"
     ],
     "createdDate": "1952-09-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4183/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4183/default.jpg"
   },
   {
     "title": "View north from near 2nd. Ave and Union St., ca. 1910Front",
@@ -1076,7 +1076,7 @@
       "-122.337997"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3791/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3791/default.jpg"
   },
   {
     "title": "Violet passenger steamer, ca. 1910Front",
@@ -1092,7 +1092,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4180/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4180/default.jpg"
   },
   {
     "title": "Washington Hotel during the Denny Regrade, May 13, 1905Front",
@@ -1116,7 +1116,7 @@
       "-122.339809"
     ],
     "createdDate": "1905-05-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3794/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3794/default.jpg"
   },
   {
     "title": "View east from 1st Ave. and Cherry St., 1880Recto",
@@ -1147,6 +1147,6 @@
       "-122.334303"
     ],
     "createdDate": "1880-01-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2272/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2272/default.jpg"
   }
 ]

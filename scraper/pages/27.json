@@ -16,7 +16,7 @@
       "-122.338604"
     ],
     "createdDate": "1871-12-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2484/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2484/default.jpg"
   },
   {
     "title": "Central School class with principal E.S. Ingraham, 1883",
@@ -37,7 +37,7 @@
       "-122.330695"
     ],
     "createdDate": "1883-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2496/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2496/default.jpg"
   },
   {
     "title": "House of Thomas Mercer, ca. 1900",
@@ -60,7 +60,7 @@
       "-122.346273"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2499/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2499/default.jpg"
   },
   {
     "title": "Sixth St. School, ca. 1890",
@@ -85,7 +85,7 @@
       "-122.327169"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2497/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2497/default.jpg"
   },
   {
     "title": "View NE from Capitol Hill, ca. 1880",
@@ -102,7 +102,7 @@
       ""
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2506/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2506/default.jpg"
   },
   {
     "title": "Occidental Hotel from Occidental Ave. S. and S. Main St., 1872",
@@ -130,7 +130,7 @@
       "-122.332888"
     ],
     "createdDate": "1872-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2504/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2504/default.jpg"
   },
   {
     "title": "1st Ave. south from Columbia St., ca. 1894",
@@ -161,7 +161,7 @@
       "-122.334973"
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2500/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2500/default.jpg"
   },
   {
     "title": "Founders of Seattle, ca. 1914",
@@ -192,7 +192,7 @@
       "-122.413302"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2502/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2502/default.jpg"
   },
   {
     "title": "East side of 1st Ave. S. between S. Washington St. and S. Main St., 1870",
@@ -221,7 +221,7 @@
       "-122.334249"
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2507/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2507/default.jpg"
   },
   {
     "title": "First Methodist Protestant Church, ca. 1900",
@@ -241,7 +241,7 @@
       "-122.333651"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2501/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2501/default.jpg"
   },
   {
     "title": "1st Ave. S. north from S. Washington St., 1865",
@@ -269,7 +269,7 @@
       "-122.334249"
     ],
     "createdDate": "1865-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2503/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2503/default.jpg"
   },
   {
     "title": "View north from 3rd Ave. and Pine St. to Lake Union, ca. 1887",
@@ -290,7 +290,7 @@
       "-122.338668"
     ],
     "createdDate": "1887-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2505/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2505/default.jpg"
   },
   {
     "title": "Central School, ca. 1880",
@@ -323,7 +323,7 @@
       "-122.333832"
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2498/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2498/default.jpg"
   },
   {
     "title": "Central building of the Seattle Public Library, ca. 1928",
@@ -345,7 +345,7 @@
       "-122.332984"
     ],
     "createdDate": "1928-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2508/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2508/default.jpg"
   },
   {
     "title": "Engine House No. 2, 1890",
@@ -369,7 +369,7 @@
       "-122.338668"
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2515/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2515/default.jpg"
   },
   {
     "title": "View from 4th Ave. and Seneca St. looking southeast, ca. 1885",
@@ -396,7 +396,7 @@
       " -122.334076"
     ],
     "createdDate": "1885-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2512/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2512/default.jpg"
   },
   {
     "title": "Princess Angeline's House, ca. 1890",
@@ -420,7 +420,7 @@
       "-122.341185"
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2519/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2519/default.jpg"
   },
   {
     "title": "Engine Company No. 1 drivers and horses, ca. 1883",
@@ -443,7 +443,7 @@
       "-122.334256"
     ],
     "createdDate": "1883-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2518/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2518/default.jpg"
   },
   {
     "title": "Phillips, Horton and Co. Bank, 1876",
@@ -468,7 +468,7 @@
       "-122.334249"
     ],
     "createdDate": "1876-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2509/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2509/default.jpg"
   },
   {
     "title": "Territorial University boarding house, 1862",
@@ -488,7 +488,7 @@
       "-122.334896"
     ],
     "createdDate": "1862-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2511/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2511/default.jpg"
   },
   {
     "title": "Class of Riverside School, 1889",
@@ -507,7 +507,7 @@
       "-122.348825"
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2513/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2513/default.jpg"
   },
   {
     "title": "Yesler Way ruins after fire, June 6, 1889",
@@ -531,7 +531,7 @@
       "-122.334119"
     ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2510/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2510/default.jpg"
   },
   {
     "title": "Riverside School., ca. 1920",
@@ -552,7 +552,7 @@
       "-122.348825"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2517/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2517/default.jpg"
   },
   {
     "title": "Engine House No. 3, ca. 1910",
@@ -575,7 +575,7 @@
       "-122.321689"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2516/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2516/default.jpg"
   },
   {
     "title": "Engine House No. 2, 1906",
@@ -596,7 +596,7 @@
       "-122.338668"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2514/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2514/default.jpg"
   },
   {
     "title": "\"Duwamish\" fireboat, ca. 1920",
@@ -615,7 +615,7 @@
       "-122.370833"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2520/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2520/default.jpg"
   },
   {
     "title": "Central School, ca. 1910",
@@ -640,7 +640,7 @@
       "-122.333832"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2526/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2526/default.jpg"
   },
   {
     "title": "Brighton School., ca. 1895",
@@ -661,7 +661,7 @@
       "-122.275366"
     ],
     "createdDate": "1895-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2524/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2524/default.jpg"
   },
   {
     "title": "Madison Park Theatre, ca. 1900",
@@ -686,7 +686,7 @@
       "-122.278489"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2530/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2530/default.jpg"
   },
   {
     "title": "Minor School, June 6, 1906",
@@ -708,7 +708,7 @@
       "-122.310162"
     ],
     "createdDate": "1906-06-16T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2531/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2531/default.jpg"
   },
   {
     "title": "Madison Park amusement center, ca. 1907",
@@ -729,7 +729,7 @@
       " -122.27717"
     ],
     "createdDate": "1907-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2529/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2529/default.jpg"
   },
   {
     "title": "Van Asselt School, ca. 1930",
@@ -751,7 +751,7 @@
       "-122.293086"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2528/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2528/default.jpg"
   },
   {
     "title": "Denny School, September 1884",
@@ -772,7 +772,7 @@
       "-122.344421"
     ],
     "createdDate": "1884-09-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2527/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2527/default.jpg"
   },
   {
     "title": "S. Jackson St. east from 5th Ave. S., ca. 1900",
@@ -793,7 +793,7 @@
       "-122.327643"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2523/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2523/default.jpg"
   },
   {
     "title": "Engine Company No. 1, July 23, 1883",
@@ -816,7 +816,7 @@
       "-122.33461"
     ],
     "createdDate": "1883-07-23T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2521/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2521/default.jpg"
   },
   {
     "title": "Clarence E. Duggan, 1910",
@@ -834,7 +834,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2525/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2525/default.jpg"
   },
   {
     "title": "Jackson St. wharf looking east, ca. 1892",
@@ -866,7 +866,7 @@
       "-122.335939"
     ],
     "createdDate": "1892-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2522/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2522/default.jpg"
   },
   {
     "title": "3rd Ave. looking north from below Cherry St., ca. 1903",
@@ -891,7 +891,7 @@
       "-122.332054"
     ],
     "createdDate": "1903-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2533/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2533/default.jpg"
   },
   {
     "title": "View from Yesler Hill looking east,  ca. 1880",
@@ -913,7 +913,7 @@
       "-122.288069"
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2543/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2543/default.jpg"
   },
   {
     "title": "John J. McGilvra house, 1870",
@@ -933,7 +933,7 @@
       "-122.277637"
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2534/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2534/default.jpg"
   },
   {
     "title": "Potlatch Festival Tyee reception, July 17, 1912",
@@ -951,7 +951,7 @@
       "-122.342636"
     ],
     "createdDate": "1912-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2542/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2542/default.jpg"
   },
   {
     "title": "John J. McGilvra house, 1870",
@@ -971,7 +971,7 @@
       "-122.277637"
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2535/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2535/default.jpg"
   },
   {
     "title": "Seattle Daily Times fire February 13, 1913",
@@ -1002,7 +1002,7 @@
       "-122.337997"
     ],
     "createdDate": "1913-02-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2541/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2541/default.jpg"
   },
   {
     "title": "Lake Union looking south, ca. 1880",
@@ -1023,7 +1023,7 @@
       " -122.33971"
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2536/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2536/default.jpg"
   },
   {
     "title": "Union Pacific Dock fire , January 2, 1930",
@@ -1049,7 +1049,7 @@
       "-122.335931"
     ],
     "createdDate": "1930-01-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2540/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2540/default.jpg"
   },
   {
     "title": "Seattle Reds baseball team, ca. 1884",
@@ -1075,7 +1075,7 @@
       ""
     ],
     "createdDate": "1884-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2537/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2537/default.jpg"
   },
   {
     "title": "Seattle fire department portraits, 1898",
@@ -1094,7 +1094,7 @@
       ""
     ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2539/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2539/default.jpg"
   },
   {
     "title": "Schwabacher Brothers & Co. fire, June 27, 1892",
@@ -1114,7 +1114,7 @@
       "-122.331575"
     ],
     "createdDate": "1892-06-27T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2538/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2538/default.jpg"
   },
   {
     "title": "View SE from Yesler Way and Jefferson St., ca. 1894",
@@ -1139,7 +1139,7 @@
       "-122.331315"
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2532/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2532/default.jpg"
   },
   {
     "title": "Lake Union looking northwest, ca. 1885",
@@ -1162,6 +1162,6 @@
       "-122.337129"
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2545/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2545/default.jpg"
   }
 ]

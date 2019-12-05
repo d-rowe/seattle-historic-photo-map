@@ -14,9 +14,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1753/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1753/default.jpg"
   },
   {
     "title": "Ruins of First National Bank, June 6, 1889",
@@ -34,9 +36,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1756/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1756/default.jpg"
   },
   {
     "title": "City of Tents, June 6, 1889",
@@ -57,9 +62,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
-    "coordinates": ["47.603738", "-122.333842"],
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1758/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1758/default.jpg"
   },
   {
     "title": "Admiral Sebree and Admiral Rodman (right), September 12, 1919",
@@ -74,9 +82,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1754/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1754/default.jpg"
   },
   {
     "title": "Admiral Hugh Rodman, September 12, 1919",
@@ -91,9 +102,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1755/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1755/default.jpg"
   },
   {
     "title": "Dignitaries aboard the Oregon, September 12, 1919",
@@ -116,9 +130,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1752/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1752/default.jpg"
   },
   {
     "title": "First cable car, 1941",
@@ -134,9 +151,11 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1941-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1760/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1760/default.jpg"
   },
   {
     "title": "Alaska Building, Seattle Public Library, Rainier Club and Seattle Athletic Club, 1907",
@@ -161,9 +180,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1761/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1761/default.jpg"
   },
   {
     "title": "Coxey's Army preparing to march, 1894",
@@ -182,9 +203,12 @@
     ],
     "photographer": "",
     "intersection": "S. Main St. and S. Post Alley",
-    "coordinates": ["47.600056", "-122.334845"],
+    "coordinates": [
+      "47.600056",
+      "-122.334845"
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1762/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1762/default.jpg"
   },
   {
     "title": "Totem Pole at Pioneer Square, 1907",
@@ -200,9 +224,12 @@
     ],
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "",
-    "coordinates": ["47.602034", "-122.333886"],
+    "coordinates": [
+      "47.602034",
+      "-122.333886"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1763/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1763/default.jpg"
   },
   {
     "title": "University of Washington buildings, 1907",
@@ -222,9 +249,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655335", "-122.30352"],
+    "coordinates": [
+      "47.655335",
+      "-122.30352"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1767/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1767/default.jpg"
   },
   {
     "title": "Four Churches, 1907",
@@ -248,9 +278,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1765/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1765/default.jpg"
   },
   {
     "title": "Woodland Park Ostrich Pen, 1891",
@@ -265,9 +297,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1774/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1774/default.jpg"
   },
   {
     "title": "Lowman Building, 1907",
@@ -286,9 +321,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602644", "-122.333709"],
+    "coordinates": [
+      "47.602644",
+      "-122.333709"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1766/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1766/default.jpg"
   },
   {
     "title": "View south from Queen Anne Hill, 1896",
@@ -302,9 +340,11 @@
     ],
     "photographer": "Andrews, Clarence Leroy, 1862-1948",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1896-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1772/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1772/default.jpg"
   },
   {
     "title": "Rainier Grand, Standard, Savoy, Butler and Lincoln Hotels, 1907",
@@ -329,9 +369,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1768/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1768/default.jpg"
   },
   {
     "title": "Woodland Park entrance, 1891",
@@ -348,9 +390,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1775/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1775/default.jpg"
   },
   {
     "title": "Pike Street Looking East, Federal Building and Waldorf Hotel, 1907",
@@ -371,9 +416,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1771/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1771/default.jpg"
   },
   {
     "title": "2nd Ave. north from James St., 1901",
@@ -395,9 +442,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1901-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1770/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1770/default.jpg"
   },
   {
     "title": "American Savings Bank and Empire Building, 1907",
@@ -414,9 +464,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1769/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1769/default.jpg"
   },
   {
     "title": "Chief of the Suquamps and his daughter, ca. 1905",
@@ -433,9 +486,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1764/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1764/default.jpg"
   },
   {
     "title": "Alaska Sailing Day at Pier 4, 1898",
@@ -455,9 +510,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way and Seneca St.",
-    "coordinates": ["47.60522", "-122.339758"],
+    "coordinates": [
+      "47.60522",
+      "-122.339758"
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1773/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1773/default.jpg"
   },
   {
     "title": "Woodland Park entrance lodge, 1891",
@@ -477,9 +535,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1779/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1779/default.jpg"
   },
   {
     "title": "Woodland Park Gazebo, 1891",
@@ -495,9 +556,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1777/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1777/default.jpg"
   },
   {
     "title": "Woodland Park Rules and Regulations, 1891",
@@ -513,9 +577,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1783/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1783/default.jpg"
   },
   {
     "title": "Woodland Park Street Car, 1891",
@@ -535,9 +602,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1785/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1785/default.jpg"
   },
   {
     "title": "Woodland Park boathouse, 1891",
@@ -555,9 +625,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1781/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1781/default.jpg"
   },
   {
     "title": "Chief Seattle, 1866",
@@ -570,9 +643,11 @@
     ],
     "photographer": "Sammis, E.M.",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1866-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1787/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1787/default.jpg"
   },
   {
     "title": "Woodland Park Greenhouse, 1891",
@@ -587,9 +662,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1780/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1780/default.jpg"
   },
   {
     "title": "Woodland Park Lawn and Fountain, 1891",
@@ -604,9 +682,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1782/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1782/default.jpg"
   },
   {
     "title": "Woodland Park Farm House, 1891",
@@ -622,9 +703,12 @@
     ],
     "photographer": "Boyd & Braas",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1778/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1778/default.jpg"
   },
   {
     "title": "Woodland Park Street Car, 1891",
@@ -642,9 +726,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1784/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1784/default.jpg"
   },
   {
     "title": "John W. Denny House, 1894",
@@ -658,9 +745,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "Corliss Ave. N. and N. 92nd St.",
-    "coordinates": ["47.695927", "-122.331117"],
+    "coordinates": [
+      "47.695927",
+      "-122.331117"
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1786/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1786/default.jpg"
   },
   {
     "title": "Woodland Park Road, 1891",
@@ -677,9 +767,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "",
-    "coordinates": ["47.665828", "-122.345284"],
+    "coordinates": [
+      "47.665828",
+      "-122.345284"
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1776/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1776/default.jpg"
   },
   {
     "title": "Seattle Art Museum, 1933",
@@ -694,9 +787,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.630281", "-122.314234"],
+    "coordinates": [
+      "47.630281",
+      "-122.314234"
+    ],
     "createdDate": "1933-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1788/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1788/default.jpg"
   },
   {
     "title": "William and Nancy Bell, ca. 1880",
@@ -709,9 +805,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1795/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1795/default.jpg"
   },
   {
     "title": "William Surber, ca. 1910",
@@ -725,9 +823,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1793/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1793/default.jpg"
   },
   {
     "title": "Asa Mercer, ca. 1880",
@@ -740,9 +840,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1794/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1794/default.jpg"
   },
   {
     "title": "Seattle Art Museum, 1933",
@@ -757,9 +859,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.630281", "-122.314234"],
+    "coordinates": [
+      "47.630281",
+      "-122.314234"
+    ],
     "createdDate": "1933-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1789/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1789/default.jpg"
   },
   {
     "title": "Thomas Burke, ca. 1905",
@@ -771,9 +876,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1799/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1799/default.jpg"
   },
   {
     "title": "David and Catherine Blaine, ca. 1855",
@@ -787,9 +894,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1855-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1796/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1796/default.jpg"
   },
   {
     "title": "Founders of Seattle, November 13, 1905",
@@ -811,9 +920,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.578397", "-122.413302"],
+    "coordinates": [
+      "47.578397",
+      "-122.413302"
+    ],
     "createdDate": "1905-11-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1790/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1790/default.jpg"
   },
   {
     "title": "Carson D. Boren, ca. 1890",
@@ -825,9 +937,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1798/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1798/default.jpg"
   },
   {
     "title": "Children of Seattle Founders, 1914",
@@ -851,9 +965,12 @@
     ],
     "photographer": "Pettit, Benjamin W.",
     "intersection": "",
-    "coordinates": ["47.578397", "-122.413302"],
+    "coordinates": [
+      "47.578397",
+      "-122.413302"
+    ],
     "createdDate": "1914-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1791/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1791/default.jpg"
   },
   {
     "title": "David Edwards Blaine, ca. 1875",
@@ -866,9 +983,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1875-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1797/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1797/default.jpg"
   },
   {
     "title": "Founders of Seattle, 1914",
@@ -892,9 +1011,12 @@
     ],
     "photographer": "Pettit, Benjamin W.",
     "intersection": "",
-    "coordinates": ["47.578397", "-122.413302"],
+    "coordinates": [
+      "47.578397",
+      "-122.413302"
+    ],
     "createdDate": "1914-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1792/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1792/default.jpg"
   },
   {
     "title": "John Leary, ca. 1884",
@@ -907,9 +1029,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1884-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1810/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1810/default.jpg"
   },
   {
     "title": "Arthur Armstrong Denny, ca. 1890",
@@ -921,9 +1045,11 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1801/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1801/default.jpg"
   },
   {
     "title": "Hiram C. Gill, ca. 1911",
@@ -936,9 +1062,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1807/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1807/default.jpg"
   },
   {
     "title": "Mary Ann Boren Denny, ca. 1886",
@@ -950,8 +1078,10 @@
     ],
     "photographer": "McClaire, Morton S.Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1886-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1805/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1805/default.jpg"
   }
 ]

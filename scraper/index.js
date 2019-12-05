@@ -32,11 +32,12 @@ const ENDING_PAGE = 62;
       html = await imagePage.evaluate(() => document.body.innerHTML);
       $ = cheerio.load(html);
 
-      let imageURL =
+      let image =
         baseURL +
         $(".ItemImage-itemImage")
           .find("img")
-          .attr("src");
+          .attr("src")
+          .replace("?highlightTerms=", "");
 
       let title = $(".field-title")
         .find(".field-value")
@@ -90,7 +91,7 @@ const ENDING_PAGE = 62;
         intersection,
         coordinates,
         createdDate,
-        imageURL
+        image
       });
     }
 

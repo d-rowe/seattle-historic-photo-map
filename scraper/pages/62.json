@@ -17,7 +17,7 @@
       "-122.398068"
     ],
     "createdDate": "1919-01-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3319/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3319/default.jpg"
   },
   {
     "title": "Civic Auditorium and Mount Rainier, ca. 1930Front",
@@ -41,7 +41,7 @@
       "-122.350357"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3695/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3695/default.jpg"
   },
   {
     "title": "Lake Washington Boulevard and Mt. Rainier, Seattle, Wn., ca. 1935front",
@@ -68,8 +68,8 @@
     "coordinates": [
       ""
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3310/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3310/default.jpg"
   },
   {
     "title": "Boom of logs in Ballard Locks, ca. 1929Front",
@@ -100,8 +100,8 @@
       "-122.39806847.666705",
       "-122.398068"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4602/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4602/default.jpg"
   },
   {
     "title": "Aerial view of Seattle waterfront, ca. 1946Front",
@@ -124,7 +124,7 @@
       "-122.370833"
     ],
     "createdDate": "1946-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3833/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3833/default.jpg"
   },
   {
     "title": "Fisherman's Wharf, ca. 1950Front",
@@ -151,8 +151,8 @@
       "-122.38039147.655593",
       "-122.380391"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4599/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4599/default.jpg"
   },
   {
     "title": "Residence of Miss Marguerite Jano, 1953Recto",
@@ -171,7 +171,7 @@
       "-122.334382"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2678/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2678/default.jpg"
   },
   {
     "title": "Aerial view of Seattle waterfront, ca. 1946Front",
@@ -197,7 +197,7 @@
       "-122.370833"
     ],
     "createdDate": "1946-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3836/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3836/default.jpg"
   },
   {
     "title": "Employees working at Jonas Brothers taxidermy company, February 12, 1961Front",
@@ -234,8 +234,8 @@
       "-122.32365147.615005",
       "-122.323651"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4596/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4596/default.jpg"
   },
   {
     "title": "Marine Hospital, ca. 1935Front",
@@ -256,8 +256,8 @@
       "-122.31595647.592808",
       "-122.315956"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4605/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4605/default.jpg"
   },
   {
     "title": "Looking south from near 3rd Ave. and Pine St., 1890Recto",
@@ -282,7 +282,7 @@
       "-122.338668"
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2290/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2290/default.jpg"
   },
   {
     "title": "Occidental Hotel ruins following fire, June 6, 1889Recto",
@@ -303,7 +303,7 @@
       "-122.334076"
     ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2674/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2674/default.jpg"
   },
   {
     "title": "Government Locks, Seattle, Wash., ca. 1960front",
@@ -332,7 +332,7 @@
       "-122.39806847.666705",
       "-122.398068"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3307/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3307/default.jpg"
   }
 ]

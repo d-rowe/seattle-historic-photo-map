@@ -13,7 +13,7 @@
       ""
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4444/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4444/default.jpg"
   },
   {
     "title": "Aerial view of Des Moines looking south, March 19, 1974",
@@ -36,7 +36,7 @@
       "-122.326048"
     ],
     "createdDate": "1974-03-19T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4450/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4450/default.jpg"
   },
   {
     "title": "Gardens at 4th Ave. entrance of Seattle Central Library, ca. 1960",
@@ -56,7 +56,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4396/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4396/default.jpg"
   },
   {
     "title": "Aerial view of 1-90 looking west, April 7, 1973",
@@ -84,7 +84,7 @@
       "-122.164482"
     ],
     "createdDate": "1973-04-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4397/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4397/default.jpg"
   },
   {
     "title": "View north from Harbor Island, ca. 1975",
@@ -106,7 +106,7 @@
       "-122.346560"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4399/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4399/default.jpg"
   },
   {
     "title": "Igorrotes at the Alaska-Yukon-Pacific Exposition, 1909",
@@ -126,7 +126,7 @@
       "-122.308369"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4398/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4398/default.jpg"
   },
   {
     "title": "Bonney Watson Funeral Home, ca. 1915",
@@ -145,7 +145,7 @@
       "-122.320699"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4392/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4392/default.jpg"
   },
   {
     "title": "Shriner parade at 1st Ave. and Seneca, July 14, 1915Front",
@@ -182,8 +182,8 @@
       "-122.33756447.60612",
       "-122.337564"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4342/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4342/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -202,7 +202,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4483/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4483/default.jpg"
   },
   {
     "title": "Seattle's waterfront with business district in the background, ca. 1945",
@@ -223,7 +223,7 @@
       "-122.344015"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg"
   },
   {
     "title": "United States Science Pavilion construction, ca. 1961",
@@ -242,7 +242,7 @@
       "-122.353988"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg"
   },
   {
     "title": "Wildflowers and Mount Rainier, Wash., ca. 1945",
@@ -261,7 +261,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -280,7 +280,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -299,7 +299,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg"
   },
   {
     "title": "Group touring construction on Century 21 fairgrounds, ca. 1961",
@@ -318,7 +318,7 @@
       "-122.353988"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg"
   },
   {
     "title": "Group touring construction on Century 21 fairgrounds near the Coliseum, ca. 1961",
@@ -342,7 +342,7 @@
       "-122.35152"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg"
   },
   {
     "title": "Constructing first macadam road near Duwamish, 1906",
@@ -362,7 +362,7 @@
       ""
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4448/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4448/default.jpg"
   },
   {
     "title": "West Seattle reservoir construction, October 29, 1931",
@@ -384,7 +384,7 @@
       "-122.345457"
     ],
     "createdDate": "1931-10-29T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4445/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4445/default.jpg"
   },
   {
     "title": "South Lake Union sawmills, ca. 1889",
@@ -403,7 +403,7 @@
       "-122.337129"
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4441/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4441/default.jpg"
   },
   {
     "title": "Port of Seattle construction worker looking in hole, ca. 1975",
@@ -423,7 +423,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4446/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4446/default.jpg"
   },
   {
     "title": "Workers in trench at Port of Seattle construction project, ca. 1975",
@@ -445,7 +445,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4447/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4447/default.jpg"
   },
   {
     "title": "Workers laying a pipe in trench at Port of Seattle construction project, ca. 1975",
@@ -467,7 +467,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4440/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4440/default.jpg"
   },
   {
     "title": "Ray Jensen's \"Pursuit\" sculpture at Seattle Central Library, ca. 1967",
@@ -494,7 +494,7 @@
       "-122.332984"
     ],
     "createdDate": "1967-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4443/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4443/default.jpg"
   },
   {
     "title": "Century 21 fairgrounds under construction, ca. 1961",
@@ -515,7 +515,7 @@
       "-122.350433"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg"
   },
   {
     "title": "Alderwood Manor, June 28, 1947",
@@ -533,7 +533,7 @@
       "-122.248258"
     ],
     "createdDate": "1947-06-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -553,7 +553,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4410/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4410/default.jpg"
   },
   {
     "title": "R.C. Pondexter, December 13, 1920",
@@ -572,7 +572,7 @@
       ""
     ],
     "createdDate": "1920-12-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4409/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4409/default.jpg"
   },
   {
     "title": "Pipes at Port of Seattle construction project, ca. 1975",
@@ -588,7 +588,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4412/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4412/default.jpg"
   },
   {
     "title": "Pipes between silos at Port of Seattle construction project, ca. 1975",
@@ -605,7 +605,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4426/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4426/default.jpg"
   },
   {
     "title": "Gilbert and Pat, ca. 1940",
@@ -622,7 +622,7 @@
       ""
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4427/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4427/default.jpg"
   },
   {
     "title": "West Seattle Library branch children's room, 1910",
@@ -642,7 +642,7 @@
       "-122.384696"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4419/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4419/default.jpg"
   },
   {
     "title": "Seattle Public Library bookmobile, ca. 1960",
@@ -660,7 +660,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4413/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4413/default.jpg"
   },
   {
     "title": "Pipes near silos at Port of Seattle construction project, ca. 1975",
@@ -677,7 +677,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4414/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4414/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction workers, 1929",
@@ -700,7 +700,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4405/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4405/default.jpg"
   },
   {
     "title": "Chetzemoka ferry, ca. 1950",
@@ -716,7 +716,7 @@
       ""
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4404/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4404/default.jpg"
   },
   {
     "title": "Igorrotes at the Alaska-Yukon-Pacific Exposition, 1909",
@@ -736,7 +736,7 @@
       "-122.308369"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4373/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4373/default.jpg"
   },
   {
     "title": "Unknown sawmill, ca. 1910",
@@ -753,7 +753,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4374/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4374/default.jpg"
   },
   {
     "title": "Princess Angeline, 1893",
@@ -772,7 +772,7 @@
       ""
     ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4372/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4372/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1960",
@@ -791,7 +791,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg"
   },
   {
     "title": "Pipes near silos at Port of Seattle construction project, ca. 1975",
@@ -808,7 +808,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg"
   },
   {
     "title": "Princess Angeline, ca. 1890",
@@ -827,7 +827,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4457/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4457/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction, August 15, 1929",
@@ -849,7 +849,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-08-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg"
   },
   {
     "title": "Pier in Industrial District, ca. 1975",
@@ -869,7 +869,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -888,7 +888,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg"
   },
   {
     "title": "Port of Seattle construction project, ca. 1975",
@@ -913,7 +913,7 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4470/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4470/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction, February 7, 1929",
@@ -937,7 +937,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-02-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4390/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4390/default.jpg"
   },
   {
     "title": "Gardens at 4th Ave. entrance of Seattle Central Library, ca. 1960",
@@ -957,7 +957,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4381/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4381/default.jpg"
   },
   {
     "title": "\"Old Seattle\" exhibit, ca. 1965",
@@ -975,7 +975,7 @@
       ""
     ],
     "createdDate": "1965-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4387/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4387/default.jpg"
   },
   {
     "title": "Seattle Public Library bookmobile, ca. 1970",
@@ -993,7 +993,7 @@
       "-122.332984"
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4380/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4380/default.jpg"
   },
   {
     "title": "Worker on excavator at Port of Seattle construction project, ca. 1975",
@@ -1015,6 +1015,6 @@
       "-122.342229"
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4385/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4385/default.jpg"
   }
 ]

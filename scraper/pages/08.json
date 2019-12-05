@@ -15,9 +15,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1474/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1474/default.jpg"
   },
   {
     "title": "Guy Phinney house, 1889",
@@ -32,9 +35,12 @@
     ],
     "photographer": "",
     "intersection": "Broadway and James St.",
-    "coordinates": ["47.607222", "-122.320775"],
+    "coordinates": [
+      "47.607222",
+      "-122.320775"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1471/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1471/default.jpg"
   },
   {
     "title": "View east from Madison St. and Western Ave., 1895",
@@ -54,9 +60,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Madison St. and Western Ave.",
-    "coordinates": ["47.60422", "-122.33734"],
+    "coordinates": [
+      "47.60422",
+      "-122.33734"
+    ],
     "createdDate": "1895-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1468/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1468/default.jpg"
   },
   {
     "title": "Holy Names Academy at 7th Ave. S. and S. Jackson St., ca. 1898",
@@ -75,9 +84,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "7th Ave. S. and S. Jackson St.",
-    "coordinates": ["47.599158", "\t\n-122.323765"],
+    "coordinates": [
+      "47.599158",
+      "\t\n-122.323765"
+    ],
     "createdDate": "1898-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1466/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1466/default.jpg"
   },
   {
     "title": "First logs on Columbia and Puget Sound Railroad, 1880",
@@ -94,9 +106,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1465/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1465/default.jpg"
   },
   {
     "title": "Yesler's wharf, 1880",
@@ -116,9 +131,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
-    "coordinates": ["47.601735", "-122.336591"],
+    "coordinates": [
+      "47.601735",
+      "-122.336591"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1470/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1470/default.jpg"
   },
   {
     "title": "View from 2nd Ave. and Pike St., 1878.",
@@ -143,9 +161,12 @@
     ],
     "photographer": "Peterson & Bros.",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1878-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1473/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1473/default.jpg"
   },
   {
     "title": "Princess Angeline, 1893",
@@ -161,9 +182,11 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1472/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1472/default.jpg"
   },
   {
     "title": "Stetson and Post Mill at waterfront between S. King St. and S. Weller St., 1882",
@@ -183,9 +206,12 @@
     ],
     "photographer": "Watkins, Carleton E., 1829-1916",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1469/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1469/default.jpg"
   },
   {
     "title": "Temporary buildings at 2nd Ave. and James St. following fire, ca. June 1889",
@@ -202,9 +228,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
-    "coordinates": ["47.602386", "-122.33271"],
+    "coordinates": [
+      "47.602386",
+      "-122.33271"
+    ],
     "createdDate": "1889-06-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1475/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1475/default.jpg"
   },
   {
     "title": "View from near 3rd Ave. and Pine St., 1890",
@@ -225,9 +254,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Pine St.",
-    "coordinates": ["47.610823", "-122.338668"],
+    "coordinates": [
+      "47.610823",
+      "-122.338668"
+    ],
     "createdDate": "1890-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1467/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1467/default.jpg"
   },
   {
     "title": "Temporary tents  at 2nd Ave. and Marion St. following fire, June 1889",
@@ -254,9 +286,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Marion St.",
-    "coordinates": ["47.604473", "-122.33461"],
+    "coordinates": [
+      "47.604473",
+      "-122.33461"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1476/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1476/default.jpg"
   },
   {
     "title": "View south on 1st Ave. S. from Yesler Way, 1885",
@@ -287,9 +322,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.602207", "-122.334076"],
+    "coordinates": [
+      "47.602207",
+      "-122.334076"
+    ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1479/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1479/default.jpg"
   },
   {
     "title": "View from 2nd Ave. and Virginia St., 1882",
@@ -313,9 +351,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "2nd Ave. and Virginia St.",
-    "coordinates": ["47.611738", "-122.341729"],
+    "coordinates": [
+      "47.611738",
+      "-122.341729"
+    ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1487/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1487/default.jpg"
   },
   {
     "title": "Kellogg's Drugstore and Pinkham's Variety Store at 1st Ave. and Yesler Way, 1885",
@@ -334,9 +375,12 @@
     ],
     "photographer": "Sammis, E.M.",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1865-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1482/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1482/default.jpg"
   },
   {
     "title": "View north from 1st Ave. S. and S. Washington St., 1865",
@@ -358,9 +402,12 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1865-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1485/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1485/default.jpg"
   },
   {
     "title": "2nd Ave. looking north from Yesler Way, 1913",
@@ -384,9 +431,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Yesler Way",
-    "coordinates": ["47.601716", "-122.331999"],
+    "coordinates": [
+      "47.601716",
+      "-122.331999"
+    ],
     "createdDate": "1913-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1484/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1484/default.jpg"
   },
   {
     "title": "Pier No. 5, 1913",
@@ -402,9 +452,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way and Seneca St.",
-    "coordinates": ["47.60522", "-122.339758"],
+    "coordinates": [
+      "47.60522",
+      "-122.339758"
+    ],
     "createdDate": "1913-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1483/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1483/default.jpg"
   },
   {
     "title": "Reconstruction at 2nd Ave. and Spring St. following fire, June 1889",
@@ -429,9 +482,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Spring St.",
-    "coordinates": ["47.605871", "-122.335784"],
+    "coordinates": [
+      "47.605871",
+      "-122.335784"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1477/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1477/default.jpg"
   },
   {
     "title": "Ruins of Main St. wharves following fire, ca. June 1889",
@@ -446,9 +502,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1478/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1478/default.jpg"
   },
   {
     "title": "View south from Denny Hill, 1891",
@@ -465,9 +524,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1891-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1486/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1486/default.jpg"
   },
   {
     "title": "View from 4th Ave. and Seneca St., 1870",
@@ -492,9 +553,12 @@
     ],
     "photographer": "",
     "intersection": "4th Ave. and Seneca St.",
-    "coordinates": ["47.607498", " -122.334076"],
+    "coordinates": [
+      "47.607498",
+      " -122.334076"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1481/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1481/default.jpg"
   },
   {
     "title": "View north from 1st Ave. S. and S. Main St., ca. 1864",
@@ -512,9 +576,12 @@
     ],
     "photographer": "Robinson, GeorgeWebster & Stevens",
     "intersection": "1st Ave. S. and S. Main St.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1864-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1480/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1480/default.jpg"
   },
   {
     "title": "Temporary buildings at 3rd Ave. and James St. following fire, ca. June 1889",
@@ -534,9 +601,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1889-06-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1488/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1488/default.jpg"
   },
   {
     "title": "Oregon Improvement Company wharf, ca. 1890",
@@ -553,9 +623,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1495/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1495/default.jpg"
   },
   {
     "title": "Yesler's Cook House, 1860",
@@ -576,9 +649,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1860-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1490/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1490/default.jpg"
   },
   {
     "title": "View from Beacon Hill, ca. 1881",
@@ -596,9 +672,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "12th Ave. S. and S. Dearborn St.",
-    "coordinates": ["47.595838", "-122.317252"],
+    "coordinates": [
+      "47.595838",
+      "-122.317252"
+    ],
     "createdDate": "1881-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1497/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1497/default.jpg"
   },
   {
     "title": "Intelligencer Office near 1st Ave. and Cherry St., ca. 1876",
@@ -613,9 +692,12 @@
     ],
     "photographer": "",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.6025568", "-122.334303"],
+    "coordinates": [
+      "47.6025568",
+      "-122.334303"
+    ],
     "createdDate": "1876-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1492/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1492/default.jpg"
   },
   {
     "title": "Central School, ca. 1887",
@@ -633,9 +715,12 @@
     ],
     "photographer": "",
     "intersection": "4th Ave. and Marion St.",
-    "coordinates": ["47.60538", "-122.332264"],
+    "coordinates": [
+      "47.60538",
+      "-122.332264"
+    ],
     "createdDate": "1887-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1493/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1493/default.jpg"
   },
   {
     "title": "View south from 5th Ave. and Pine St., 1887",
@@ -653,9 +738,12 @@
     ],
     "photographer": "",
     "intersection": "5th Ave. and Pine St.",
-    "coordinates": ["47.611663", "-122.336492"],
+    "coordinates": [
+      "47.611663",
+      "-122.336492"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1496/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1496/default.jpg"
   },
   {
     "title": "Occidental Hotel  ruins following fire, June 1889",
@@ -672,9 +760,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "James St. and Yesler Way",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1499/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1499/default.jpg"
   },
   {
     "title": "View SW from 32nd Ave., 1898",
@@ -688,9 +779,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1489/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1489/default.jpg"
   },
   {
     "title": "Arlington Hotel at 1st Ave. S. and S. Main St., ca. 1883",
@@ -708,9 +801,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and S. Main St.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1883-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1498/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1498/default.jpg"
   },
   {
     "title": "View NE from 1st Ave. S. and S. Main St., 1880",
@@ -735,9 +831,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and S. Main St.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1491/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1491/default.jpg"
   },
   {
     "title": "Native American camp on Ballast Island, ca. 1880",
@@ -752,9 +851,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1494/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1494/default.jpg"
   },
   {
     "title": "View north from 1st Ave. and Cherry, 1870",
@@ -779,9 +881,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", "-122.334303"],
+    "coordinates": [
+      "47.602557",
+      "-122.334303"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1500/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1500/default.jpg"
   },
   {
     "title": "View of Seattle south from Denny Hill, 1882",
@@ -806,9 +911,12 @@
     ],
     "photographer": "Peiser, Theodore E.Webster & Stevens",
     "intersection": "2nd Ave. and Pine St.",
-    "coordinates": ["47.610276", "-122.339809"],
+    "coordinates": [
+      "47.610276",
+      "-122.339809"
+    ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1508/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1508/default.jpg"
   },
   {
     "title": "Occidental Hotel at 1st Ave. and James St., 1872",
@@ -830,9 +938,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "James St. and Yesler Way",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1872-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1507/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1507/default.jpg"
   },
   {
     "title": "View from 2nd Ave. and Pike St., 1870",
@@ -849,9 +960,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1509/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1509/default.jpg"
   },
   {
     "title": "View north from Pine St., 1885",
@@ -865,9 +979,11 @@
     ],
     "photographer": "Peiser, Theodore, E.Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1506/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1506/default.jpg"
   },
   {
     "title": "Yesler Way, west from 1st Ave., 1875",
@@ -893,9 +1009,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.602207", "-122.334076"],
+    "coordinates": [
+      "47.602207",
+      "-122.334076"
+    ],
     "createdDate": "1875-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1511/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1511/default.jpg"
   },
   {
     "title": "Plummer's Store, 1860",
@@ -916,9 +1035,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and Main St. S.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1860-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1504/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1504/default.jpg"
   },
   {
     "title": "Occidental Hotel, 1870",
@@ -938,9 +1060,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "James St. and Yesler Way",
-    "coordinates": ["47.601722", "-122.333686"],
+    "coordinates": [
+      "47.601722",
+      "-122.333686"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1503/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1503/default.jpg"
   },
   {
     "title": "John J. McGilvra House, 1870",
@@ -955,9 +1080,12 @@
     ],
     "photographer": "Peiser, Theodore E.",
     "intersection": "",
-    "coordinates": ["47.632641", "-122.277637"],
+    "coordinates": [
+      "47.632641",
+      "-122.277637"
+    ],
     "createdDate": "1878-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1502/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1502/default.jpg"
   },
   {
     "title": "View south from 2nd Ave. and Pike Street, 1878",
@@ -984,9 +1112,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1878-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1505/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1505/default.jpg"
   },
   {
     "title": "1st Ave. S. north from S. Main St.,  1880",
@@ -1009,9 +1140,12 @@
     ],
     "photographer": "Peterson & Bros.Webster & Stevens",
     "intersection": "1st Ave. S. and Main St. S.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1501/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1501/default.jpg"
   },
   {
     "title": "Territorial University, 1864",
@@ -1029,9 +1163,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and University St.",
-    "coordinates": ["47.608214", "-122.334896"],
+    "coordinates": [
+      "47.608214",
+      "-122.334896"
+    ],
     "createdDate": "1864-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1510/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1510/default.jpg"
   },
   {
     "title": "View north from 1st Ave. and Cherry St., ca. 1880",
@@ -1067,9 +1204,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", "-122.334303"],
+    "coordinates": [
+      "47.602557",
+      "-122.334303"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1519/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1519/default.jpg"
   },
   {
     "title": "Temporary tents erected after fire near 2nd Ave. and Columbia St., July 1889",
@@ -1096,9 +1236,12 @@
     ],
     "photographer": "Soule, John P.Curtis & Miller",
     "intersection": "2nd Ave. and Columbia St.",
-    "coordinates": ["47.603738", "-122.333842"],
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1518/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1518/default.jpg"
   },
   {
     "title": "Coal Bunkers of Oregon Improvement Co., ca. 1880",
@@ -1124,8 +1267,11 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. King St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1514/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1514/default.jpg"
   }
 ]

@@ -23,9 +23,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Seneca St.",
-    "coordinates": ["47.606584", "-122.336436"],
+    "coordinates": [
+      "47.606584",
+      "-122.336436"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1605/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1605/default.jpg"
   },
   {
     "title": "Members of the Eagles in Potlatch Parade near 2nd Ave. and Madison St., July 18, 1912",
@@ -56,9 +59,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1607/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1607/default.jpg"
   },
   {
     "title": "Potlatch Parade Totem Pole Float near 2nd Ave. and Madison St., July 17, 1912",
@@ -83,9 +89,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1597/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1597/default.jpg"
   },
   {
     "title": "Potlatch Festival Reception of the Tyee Lineup, July 17, 1912",
@@ -106,9 +115,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
-    "coordinates": ["47.614599", "-122.342636"],
+    "coordinates": [
+      "47.614599",
+      "-122.342636"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1603/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1603/default.jpg"
   },
   {
     "title": "Potlatch Parade Totem Poles of the Tilikums of Elttaes at 2nd Ave. and Madison St., July 17, 1912",
@@ -138,9 +150,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1596/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1596/default.jpg"
   },
   {
     "title": "Potlatch Parade Klone Tribe of Tilikums of Elttaes Float at 2nd Ave. and Madison St., July 17, 1912",
@@ -165,9 +180,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1610/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1610/default.jpg"
   },
   {
     "title": "Potlatch Parade Moxt Tribe of Tilikums of Elttaes Float near 2nd Ave. and Madison St., July 17, 1912",
@@ -188,9 +206,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1611/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1611/default.jpg"
   },
   {
     "title": "Frye Hotel, Smith Tower, King County Courthouse, 1923",
@@ -218,9 +239,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
-    "coordinates": ["47.601984", "-122.33043"],
+    "coordinates": [
+      "47.601984",
+      "-122.33043"
+    ],
     "createdDate": "1923-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1618/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1618/default.jpg"
   },
   {
     "title": "King County Courthouse, December 4, 1915",
@@ -240,9 +264,12 @@
     ],
     "photographer": "Nowell, Frank H., 1864-1950",
     "intersection": "",
-    "coordinates": ["47.602645", "-122.330526"],
+    "coordinates": [
+      "47.602645",
+      "-122.330526"
+    ],
     "createdDate": "1915-12-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1614/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1614/default.jpg"
   },
   {
     "title": "Olympic Hotel, 1924",
@@ -258,9 +285,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.608106", "-122.333984"],
+    "coordinates": [
+      "47.608106",
+      "-122.333984"
+    ],
     "createdDate": "1924-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1616/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1616/default.jpg"
   },
   {
     "title": "Drawing of Seattle waterfront at the time of the Battle of Seattle, 1856",
@@ -275,9 +305,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1856-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1619/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1619/default.jpg"
   },
   {
     "title": "Bailey Gatzert home at 3rd Ave. and James St., 1880",
@@ -296,9 +329,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1613/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1613/default.jpg"
   },
   {
     "title": "Potlatch Parade Alaska Treaty Float, July 17, 1912",
@@ -327,9 +363,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1609/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1609/default.jpg"
   },
   {
     "title": "George, Duwamish tribe member, June 25, 1920",
@@ -343,9 +382,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1920-06-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1612/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1612/default.jpg"
   },
   {
     "title": "View north from 2nd and Cherry St., 1926",
@@ -371,9 +412,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Cherry St.",
-    "coordinates": ["47.603048", "-122.333323"],
+    "coordinates": [
+      "47.603048",
+      "-122.333323"
+    ],
     "createdDate": "1926-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1617/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1617/default.jpg"
   },
   {
     "title": "Leschi Park, 1906",
@@ -386,9 +430,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": ["47.600775", "-122.288069"],
+    "coordinates": [
+      "47.600775",
+      "-122.288069"
+    ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1615/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1615/default.jpg"
   },
   {
     "title": "Potlatch Parade Tyee's War Party float near 2nd Ave. and Madison St., July 17, 1912",
@@ -413,9 +460,12 @@
     ],
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1912-07-17T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1608/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1608/default.jpg"
   },
   {
     "title": "Olympic Hotel interior, 1924",
@@ -430,9 +480,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.608106", "-122.333984"],
+    "coordinates": [
+      "47.608106",
+      "-122.333984"
+    ],
     "createdDate": "1924-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1622/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1622/default.jpg"
   },
   {
     "title": "Manufactures Building at the Alaska Yukon Pacific Exposition, 1909",
@@ -447,9 +500,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.654096", "-122.306968"],
+    "coordinates": [
+      "47.654096",
+      "-122.306968"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1629/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1629/default.jpg"
   },
   {
     "title": "King County Building, 1909",
@@ -464,9 +520,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.653850", "-122.305841"],
+    "coordinates": [
+      "47.653850",
+      "-122.305841"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1630/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1630/default.jpg"
   },
   {
     "title": "Canadian Building, 1909",
@@ -481,9 +540,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.652246", "-122.305745"],
+    "coordinates": [
+      "47.652246",
+      "-122.305745"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1625/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1625/default.jpg"
   },
   {
     "title": "Forestry Building at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -497,9 +559,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655079", "-122.305959"],
+    "coordinates": [
+      "47.655079",
+      "-122.305959"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1627/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1627/default.jpg"
   },
   {
     "title": "Government Building at the Alaska Yukon Pacific Exposition, 1909",
@@ -516,9 +581,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655404", "-122.308856"],
+    "coordinates": [
+      "47.655404",
+      "-122.308856"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1626/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1626/default.jpg"
   },
   {
     "title": "Second Avenue, 1923",
@@ -549,9 +617,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Yesler Way",
-    "coordinates": ["47.601716", "-122.331999"],
+    "coordinates": [
+      "47.601716",
+      "-122.331999"
+    ],
     "createdDate": "1923-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1621/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1621/default.jpg"
   },
   {
     "title": "California Building, 1909",
@@ -567,9 +638,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.657096", "-122.305228"],
+    "coordinates": [
+      "47.657096",
+      "-122.305228"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1624/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1624/default.jpg"
   },
   {
     "title": "Geyser Basin, 1909",
@@ -586,9 +660,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.653753", "-122.307738"],
+    "coordinates": [
+      "47.653753",
+      "-122.307738"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1628/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1628/default.jpg"
   },
   {
     "title": "Music Pavilion at the Alaska-Yukon-Pacific Exposition, 1909",
@@ -602,9 +679,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.652527", "-122.306228"],
+    "coordinates": [
+      "47.652527",
+      "-122.306228"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1631/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1631/default.jpg"
   },
   {
     "title": "Agricultural Building at the Alaska Yukon Pacific Exposition, 1909",
@@ -619,9 +699,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.653645", "-122.308550"],
+    "coordinates": [
+      "47.653645",
+      "-122.308550"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1623/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1623/default.jpg"
   },
   {
     "title": "View north from 2nd and Cherry St., 1926",
@@ -648,9 +731,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Cherry St.",
-    "coordinates": ["47.603048", "-122.333323"],
+    "coordinates": [
+      "47.603048",
+      "-122.333323"
+    ],
     "createdDate": "1926-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1620/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1620/default.jpg"
   },
   {
     "title": "Washington State Building, 1909",
@@ -664,9 +750,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.654815", "-122.306754"],
+    "coordinates": [
+      "47.654815",
+      "-122.306754"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1643/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1643/default.jpg"
   },
   {
     "title": "Pay Streak at Alaska Yukon Pacific Exposition, 1909",
@@ -682,9 +771,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.651140", "-122.310538"],
+    "coordinates": [
+      "47.651140",
+      "-122.310538"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1641/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1641/default.jpg"
   },
   {
     "title": "First Methodist Episcopal Church, ca. 1890",
@@ -702,9 +794,12 @@
     ],
     "photographer": "",
     "intersection": "3rd Ave. and Marion St.",
-    "coordinates": ["47.605022", "-122.333651"],
+    "coordinates": [
+      "47.605022",
+      "-122.333651"
+    ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1639/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1639/default.jpg"
   },
   {
     "title": "Rainier Vista, 1909",
@@ -717,9 +812,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.652178", "-122.306655"],
+    "coordinates": [
+      "47.652178",
+      "-122.306655"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1642/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1642/default.jpg"
   },
   {
     "title": "Seattle Central Library children's room, ca. 1907",
@@ -733,9 +831,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.6066", "-122.332984"],
+    "coordinates": [
+      "47.6066",
+      "-122.332984"
+    ],
     "createdDate": "1907-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1635/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1635/default.jpg"
   },
   {
     "title": "Oriental Building, 1909",
@@ -752,9 +853,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.654696", "-122.308126"],
+    "coordinates": [
+      "47.654696",
+      "-122.308126"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1640/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1640/default.jpg"
   },
   {
     "title": "Felker House, ca. 1880",
@@ -771,9 +875,12 @@
     ],
     "photographer": "Peiser, Theodore E.Curtis & Miller",
     "intersection": "1st Ave. S. and S. Jackson St.",
-    "coordinates": ["47.599178", "-122.334256"],
+    "coordinates": [
+      "47.599178",
+      "-122.334256"
+    ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1633/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1633/default.jpg"
   },
   {
     "title": "Suzzallo Library Floor Plan, First Story, 1929",
@@ -790,9 +897,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1638/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1638/default.jpg"
   },
   {
     "title": "Plymouth Congregational Church, 1892",
@@ -814,9 +924,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "3rd Ave. and University St.",
-    "coordinates": ["47.607761", " -122.335979"],
+    "coordinates": [
+      "47.607761",
+      " -122.335979"
+    ],
     "createdDate": "1892-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1634/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1634/default.jpg"
   },
   {
     "title": "Suzzallo Library Floor Plan, Second Story, 1929",
@@ -833,9 +946,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.655827", "-122.308086"],
+    "coordinates": [
+      "47.655827",
+      "-122.308086"
+    ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1637/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1637/default.jpg"
   },
   {
     "title": "Oregon Building, 1909",
@@ -851,9 +967,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.654486", "-122.306625"],
+    "coordinates": [
+      "47.654486",
+      "-122.306625"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1632/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1632/default.jpg"
   },
   {
     "title": "Children at Greenwood-Phinney branch, 1928",
@@ -869,9 +988,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.680105", "-122.355061"],
+    "coordinates": [
+      "47.680105",
+      "-122.355061"
+    ],
     "createdDate": "1928-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1636/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1636/default.jpg"
   },
   {
     "title": "View from West Seattle, 1907",
@@ -886,9 +1008,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1654/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1654/default.jpg"
   },
   {
     "title": "View north from Pike St. and Western Ave., 1887",
@@ -904,9 +1028,12 @@
     ],
     "photographer": "",
     "intersection": "Pike St. and Western Ave.",
-    "coordinates": ["47.608403", "-122.341156"],
+    "coordinates": [
+      "47.608403",
+      "-122.341156"
+    ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1645/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1645/default.jpg"
   },
   {
     "title": "Native American camp on Ballast Island at foot of S. Washington St., ca. 1880",
@@ -923,9 +1050,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
-    "coordinates": ["47.600872", "-122.335621"],
+    "coordinates": [
+      "47.600872",
+      "-122.335621"
+    ],
     "createdDate": "1880-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1646/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1646/default.jpg"
   },
   {
     "title": "Waterfront south from Yesler Way, 1907",
@@ -944,9 +1074,12 @@
     ],
     "photographer": "",
     "intersection": "Waterfront and Yesler Way",
-    "coordinates": ["47.601662", "-122.336669"],
+    "coordinates": [
+      "47.601662",
+      "-122.336669"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1652/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1652/default.jpg"
   },
   {
     "title": "Public Library Station at Seattle General Hospital, ca. 1922",
@@ -963,9 +1096,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.606245", "-122.331993"],
+    "coordinates": [
+      "47.606245",
+      "-122.331993"
+    ],
     "createdDate": "1922-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1650/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1650/default.jpg"
   },
   {
     "title": "\"Walla Walla\" steamer, 1898",
@@ -981,9 +1117,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1648/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1648/default.jpg"
   },
   {
     "title": "Ravenna Park's Big Tree, ca. 1907",
@@ -996,9 +1134,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1655/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1655/default.jpg"
   },
   {
     "title": "Public Library Station at Virginia Mason Hospital, ca. 1926",
@@ -1014,9 +1155,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.609475", "-122.327908"],
+    "coordinates": [
+      "47.609475",
+      "-122.327908"
+    ],
     "createdDate": "1925-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1651/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1651/default.jpg"
   },
   {
     "title": "Seattle waterfront looking north from Yesler Way, 1907",
@@ -1037,8 +1181,11 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way and Yesler Way",
-    "coordinates": ["47.601735", "-122.336591"],
+    "coordinates": [
+      "47.601735",
+      "-122.336591"
+    ],
     "createdDate": "1907-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1649/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1649/default.jpg"
   }
 ]

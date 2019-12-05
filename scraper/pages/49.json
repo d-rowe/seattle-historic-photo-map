@@ -16,7 +16,7 @@
       "-122.339293"
     ],
     "createdDate": "1970-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4035/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4035/default.jpg"
   },
   {
     "title": "Standard Theatre, ca. 1888",
@@ -39,7 +39,7 @@
       "-122.332888"
     ],
     "createdDate": "1888-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4043/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4043/default.jpg"
   },
   {
     "title": "University of Washington Hoover-Curtis Club, 1928",
@@ -60,7 +60,7 @@
       "-122.30352"
     ],
     "createdDate": "1928-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4039/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4039/default.jpg"
   },
   {
     "title": "Central School and students, 1884",
@@ -79,7 +79,7 @@
       "-122.330695"
     ],
     "createdDate": "1884-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4038/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4038/default.jpg"
   },
   {
     "title": "Young man in Schmitz Park, ca. 1920",
@@ -100,7 +100,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4040/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4040/default.jpg"
   },
   {
     "title": "William H. Seward statue at Volunteer Park, ca. 1910",
@@ -123,7 +123,7 @@
       "-122.315726"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4033/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4033/default.jpg"
   },
   {
     "title": "Seattle Christmas streetcar, December 26, 1937",
@@ -141,7 +141,7 @@
       ""
     ],
     "createdDate": "1937-12-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4037/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4037/default.jpg"
   },
   {
     "title": "George Papas at Snack Lunch Cafe, March 7, 1949",
@@ -160,7 +160,7 @@
       "-122.336775"
     ],
     "createdDate": "1949-03-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4036/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4036/default.jpg"
   },
   {
     "title": "Main Gate at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -178,7 +178,7 @@
       "-122.311866"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4041/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4041/default.jpg"
   },
   {
     "title": "Colman Pool, ca. 1955",
@@ -197,7 +197,7 @@
       "-122.400893"
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4032/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4032/default.jpg"
   },
   {
     "title": "Forestry Building at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -218,7 +218,7 @@
       "-122.305959"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4068/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4068/default.jpg"
   },
   {
     "title": "Mary Jane Blaser and Margaret Wilson, University of Washington baseball players, May 10, 1935",
@@ -239,7 +239,7 @@
       "-122.30352"
     ],
     "createdDate": "1935-05-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4078/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4078/default.jpg"
   },
   {
     "title": "Young man in woods near Three Tree Point, ca. 1920",
@@ -257,7 +257,7 @@
       "-122.382348"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4072/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4072/default.jpg"
   },
   {
     "title": "Louise Bussell sitting in living room at 1630 36th Ave., ca. 1910",
@@ -277,7 +277,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4076/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4076/default.jpg"
   },
   {
     "title": "Schmitz Park wildflowers, ca. 1920",
@@ -296,7 +296,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4069/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4069/default.jpg"
   },
   {
     "title": "Charles B. and Louise Bussell on their porch at 1630 36th Ave., ca. 1910",
@@ -316,7 +316,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4073/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4073/default.jpg"
   },
   {
     "title": "Woods and water near Three Tree Point, ca. 1920",
@@ -333,7 +333,7 @@
       "-122.382348"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4075/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4075/default.jpg"
   },
   {
     "title": "Woman in Schmitz Park, ca. 1920",
@@ -353,7 +353,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4074/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4074/default.jpg"
   },
   {
     "title": "Schmitz Park footbridge, ca. 1920",
@@ -372,7 +372,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4079/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4079/default.jpg"
   },
   {
     "title": "Leary Building at 2nd Ave. and Madison St., ca. 1910",
@@ -398,7 +398,7 @@
       "-122.335131"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4071/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4071/default.jpg"
   },
   {
     "title": "Summer concert at Volunteer Park, 1950",
@@ -418,7 +418,7 @@
       "-122.317262"
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4070/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4070/default.jpg"
   },
   {
     "title": "Seattle Christmas streetcar and Santa Clauses, December 1935",
@@ -436,7 +436,7 @@
       ""
     ],
     "createdDate": "1935-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4077/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4077/default.jpg"
   },
   {
     "title": "Parlor in Bussell home at 1630 36th Ave., ca. 1910",
@@ -456,7 +456,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4046/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4046/default.jpg"
   },
   {
     "title": "Fischer Brothers at Seneca St. and Western Ave., ca. 1910",
@@ -483,7 +483,7 @@
       "-122.339031"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4054/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4054/default.jpg"
   },
   {
     "title": "Schmitz Park trail, ca. 1920",
@@ -502,7 +502,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4047/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4047/default.jpg"
   },
   {
     "title": "Young man in woods near Three Tree Point, ca. 1920",
@@ -520,7 +520,7 @@
       "-122.382348"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4051/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4051/default.jpg"
   },
   {
     "title": "Man in Schmitz Park, ca. 1920",
@@ -540,7 +540,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4055/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4055/default.jpg"
   },
   {
     "title": "Igorrote Village at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -560,7 +560,7 @@
       "-122.308369"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4052/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4052/default.jpg"
   },
   {
     "title": "Evans Eugene Collias at Snack Lunch Cafe, March 7, 1949",
@@ -583,7 +583,7 @@
       "-122.336775"
     ],
     "createdDate": "1949-03-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4050/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4050/default.jpg"
   },
   {
     "title": "Louise Bussell posing in yard at 1630 36th Ave., ca. 1910",
@@ -602,7 +602,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4049/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4049/default.jpg"
   },
   {
     "title": "Lowman & Hanford Stationary and Printing Company at 1514 3rd Ave., ca. 1930",
@@ -626,7 +626,7 @@
       "-122.33793"
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4048/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4048/default.jpg"
   },
   {
     "title": "Masonic Building at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -645,7 +645,7 @@
       "-122.311985"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4053/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4053/default.jpg"
   },
   {
     "title": "Shared use concept for Sand Point, ca. 1955",
@@ -664,7 +664,7 @@
       "-122.263301"
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4045/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4045/default.jpg"
   },
   {
     "title": "Buildings and railroad trestle at South Lake Union, ca. 1880",
@@ -686,7 +686,7 @@
       "-122.334376"
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4044/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4044/default.jpg"
   },
   {
     "title": "Wildflowers near Three Tree Point, ca. 1920",
@@ -703,7 +703,7 @@
       "-122.382348"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4064/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4064/default.jpg"
   },
   {
     "title": "Seattle Mayor Wes Uhlman, ca. 1975",
@@ -720,7 +720,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4058/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4058/default.jpg"
   },
   {
     "title": "Henry Wood, Seattle welter weight, March 2, 1935",
@@ -739,7 +739,7 @@
       ""
     ],
     "createdDate": "1935-03-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4061/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4061/default.jpg"
   },
   {
     "title": "Upside Down House at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -759,7 +759,7 @@
       "-122.309281"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4066/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4066/default.jpg"
   },
   {
     "title": "Schmitz Park footbridge, ca. 1920",
@@ -779,7 +779,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4060/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4060/default.jpg"
   },
   {
     "title": "Skinner and Eddy Shipbuilding Company band, ca. 1916",
@@ -797,7 +797,7 @@
       "-122.335444"
     ],
     "createdDate": "1916-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4065/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4065/default.jpg"
   },
   {
     "title": "Fujiko Yamamoto, Miss Japan, 1951",
@@ -813,7 +813,7 @@
       ""
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4059/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4059/default.jpg"
   },
   {
     "title": "Living room and fireplace in Bussell home at 1630 36th Ave., ca. 1910",
@@ -834,7 +834,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4063/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4063/default.jpg"
   },
   {
     "title": "\"Independent\" fishing boat at Weiding & Independent Fisheries Company wharf, ca. 1911",
@@ -861,7 +861,7 @@
       "-122.336707"
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4067/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4067/default.jpg"
   },
   {
     "title": "Dining room in Bussell home at 1630 36th Ave., ca. 1910",
@@ -881,7 +881,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4057/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4057/default.jpg"
   },
   {
     "title": "View SE from 1st Ave. and Cherry St., 1913",
@@ -914,7 +914,7 @@
       "-122.334303"
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4062/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4062/default.jpg"
   },
   {
     "title": "View north from Central School, 1883",
@@ -934,7 +934,7 @@
       "-122.330695"
     ],
     "createdDate": "1883-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4056/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4056/default.jpg"
   },
   {
     "title": "Bussell home at 1630 36th Ave., ca. 1910",
@@ -953,7 +953,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3996/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3996/default.jpg"
   },
   {
     "title": "Camlin Hotel, ca. 1930",
@@ -971,7 +971,7 @@
       ""
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4104/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4104/default.jpg"
   },
   {
     "title": "Police near NE 47th St. and University Way NE for Vietnam War protest, ca. 1967",
@@ -991,7 +991,7 @@
       "-122.313101"
     ],
     "createdDate": "1967-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4124/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4124/default.jpg"
   },
   {
     "title": "Duplexes at 5th Ave. and Madison St., ca. 1900",
@@ -1013,6 +1013,6 @@
       "-122.331803"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4123/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4123/default.jpg"
   }
 ]

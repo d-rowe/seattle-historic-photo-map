@@ -19,9 +19,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and S. Main St.",
-    "coordinates": ["47.600046", "-122.334125"],
+    "coordinates": [
+      "47.600046",
+      "-122.334125"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1536/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1536/default.jpg"
   },
   {
     "title": "Museum of History and Industry, 1951",
@@ -35,9 +38,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.645563", "-122.301791"],
+    "coordinates": [
+      "47.645563",
+      "-122.301791"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1154/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1154/default.jpg"
   },
   {
     "title": "Reconstruction at 1st Ave. and Cherry St. following fire, July 1, 1889",
@@ -62,9 +68,12 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", "-122.334303"],
+    "coordinates": [
+      "47.602557",
+      "-122.334303"
+    ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1538/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1538/default.jpg"
   },
   {
     "title": "Frye Art Museum, February 1952",
@@ -80,9 +89,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.607186", "-122.324123"],
+    "coordinates": [
+      "47.607186",
+      "-122.324123"
+    ],
     "createdDate": "1952-02-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1153/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1153/default.jpg"
   },
   {
     "title": "Fire ruins from 1st Ave. S. and S. Jackson St., June 1889",
@@ -99,9 +111,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "1st Ave. S. and S. Jackson St.",
-    "coordinates": ["47.599178", "-122.334256"],
+    "coordinates": [
+      "47.599178",
+      "-122.334256"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1540/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1540/default.jpg"
   },
   {
     "title": "View of fire ruins from 2nd Ave. and Columbia St., June 1889",
@@ -118,11 +133,14 @@
       "Waterfronts--Washington (State)--Seattle",
       "Boston Block (Seattle, Wash.)"
     ],
-    "photographer": "",
+    "photographer": "Soule, John P.",
     "intersection": "2nd Ave. and Columbia St.",
-    "coordinates": ["47.603738", "-122.333842"],
+    "coordinates": [
+      "47.603738",
+      "-122.333842"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1537/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1537/default.jpg"
   },
   {
     "title": "Chamber of Commerce building, 1950",
@@ -137,9 +155,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.603923", "-122.332953"],
+    "coordinates": [
+      "47.603923",
+      "-122.332953"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1156/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1156/default.jpg"
   },
   {
     "title": "King County Central Blood Bank.",
@@ -155,9 +176,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Madison St. and Terry St.",
-    "coordinates": ["47.608875", "-122.326247"],
+    "coordinates": [
+      "47.608875",
+      "-122.326247"
+    ],
     "createdDate": "1947-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1157/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1157/default.jpg"
   },
   {
     "title": "Reconstruction at 3rd Ave. and Jefferson St. following fire, July 1889",
@@ -176,9 +200,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave and Jefferson St.",
-    "coordinates": ["47.602132", "-122.330816"],
+    "coordinates": [
+      "47.602132",
+      "-122.330816"
+    ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1541/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1541/default.jpg"
   },
   {
     "title": "Olde Curiosity Shop, 1949",
@@ -197,9 +224,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.602708", "-122.338318"],
+    "coordinates": [
+      "47.602708",
+      "-122.338318"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1155/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1155/default.jpg"
   },
   {
     "title": "Fire ruins near 1st Ave. S. and S. Washington St., June 1889",
@@ -214,9 +244,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. S. and S. Washington St.",
-    "coordinates": ["47.600882", "-122.334249"],
+    "coordinates": [
+      "47.600882",
+      "-122.334249"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1539/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1539/default.jpg"
   },
   {
     "title": "Streetcar in the snow, February 2, 1916",
@@ -232,9 +265,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Madison St.",
-    "coordinates": ["47.605158", "-122.335131"],
+    "coordinates": [
+      "47.605158",
+      "-122.335131"
+    ],
     "createdDate": "1916-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1164/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1164/default.jpg"
   },
   {
     "title": "King Street Station, ca. 1950",
@@ -257,9 +293,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.599013", "-122.329933"],
+    "coordinates": [
+      "47.599013",
+      "-122.329933"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1158/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1158/default.jpg"
   },
   {
     "title": "Temporary tents at 4th Ave. and Yesler Way following fire, June 1889",
@@ -279,9 +318,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "4th Ave. and Yesler Way",
-    "coordinates": ["47.601728", "-122.328990"],
+    "coordinates": [
+      "47.601728",
+      "-122.328990"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1542/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1542/default.jpg"
   },
   {
     "title": "U.S. Post Office, 1949",
@@ -303,9 +345,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "3rd Ave. and Union St.",
-    "coordinates": ["47.60825", "-122.336548"],
+    "coordinates": [
+      "47.60825",
+      "-122.336548"
+    ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1159/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1159/default.jpg"
   },
   {
     "title": "View of fire's start from 2nd Ave. and Pike St., June 6, 1889",
@@ -328,9 +373,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Pike St.",
-    "coordinates": ["47.608689", "-122.338518"],
+    "coordinates": [
+      "47.608689",
+      "-122.338518"
+    ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1543/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1543/default.jpg"
   },
   {
     "title": "Fire Station (Engine House 15), 1951",
@@ -346,9 +394,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Minor Ave. and Virginia St.",
-    "coordinates": ["47.618385", "-122.333141"],
+    "coordinates": [
+      "47.618385",
+      "-122.333141"
+    ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1160/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1160/default.jpg"
   },
   {
     "title": "View of reconstruction following fire from 7th Ave. and Terrace St., July 1889",
@@ -376,9 +427,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "7th Ave. and Terrace St.",
-    "coordinates": ["47.603165", " -122.326068"],
+    "coordinates": [
+      "47.603165",
+      " -122.326068"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1544/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1544/default.jpg"
   },
   {
     "title": "Snow on Second Ave., February 2, 1916",
@@ -397,9 +451,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Union St.",
-    "coordinates": ["47.60829", "-122.337997"],
+    "coordinates": [
+      "47.60829",
+      "-122.337997"
+    ],
     "createdDate": "1916-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1161/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1161/default.jpg"
   },
   {
     "title": "Group gathered outside Tacoma Relief Bureau at 3rd Ave. and University St., June 1889",
@@ -423,9 +480,12 @@
     ],
     "photographer": "Boyd & BraasCurtis & Miller",
     "intersection": "3rd Ave. and University St.",
-    "coordinates": ["47.607761", " -122.335979"],
+    "coordinates": [
+      "47.607761",
+      " -122.335979"
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1545/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1545/default.jpg"
   },
   {
     "title": "Fire Department Headquarters, 1952",
@@ -440,9 +500,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. and Columbia St.",
-    "coordinates": ["47.606064", "-122.328246"],
+    "coordinates": [
+      "47.606064",
+      "-122.328246"
+    ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1162/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1162/default.jpg"
   },
   {
     "title": "View NW from 1st Ave. and Cherry St., 1888",
@@ -483,9 +546,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "1st Ave. and Cherry St.",
-    "coordinates": ["47.602557", "-122.334303"],
+    "coordinates": [
+      "47.602557",
+      "-122.334303"
+    ],
     "createdDate": "1888-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1546/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1546/default.jpg"
   },
   {
     "title": "Public Safety Building and War Memorial, 1950",
@@ -503,9 +569,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "4th Ave. and Cherry St.",
-    "coordinates": ["47.6044", "-122.331269"],
+    "coordinates": [
+      "47.6044",
+      "-122.331269"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1163/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1163/default.jpg"
   },
   {
     "title": "View north on 1st Ave. from Yesler Way, 1878",
@@ -547,9 +616,12 @@
     ],
     "photographer": "Curtis & Miller",
     "intersection": "1st Ave. and Yesler Way",
-    "coordinates": ["47.601719", "-122.334119"],
+    "coordinates": [
+      "47.601719",
+      "-122.334119"
+    ],
     "createdDate": "1878-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1547/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1547/default.jpg"
   },
   {
     "title": "Cordray Theater, ca. 1892",
@@ -573,9 +645,12 @@
     ],
     "photographer": "Boyd & Braas",
     "intersection": "3rd Ave. and Madison St.",
-    "coordinates": ["47.605541", "-122.333832"],
+    "coordinates": [
+      "47.605541",
+      "-122.333832"
+    ],
     "createdDate": "1892-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1553/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1553/default.jpg"
   },
   {
     "title": "View NE from 3rd Ave. and Cherry St., 1912",
@@ -602,9 +677,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Cherry St.",
-    "coordinates": ["47.603494", "-122.332054"],
+    "coordinates": [
+      "47.603494",
+      "-122.332054"
+    ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1552/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1552/default.jpg"
   },
   {
     "title": "Houses on 411-417 9th Ave. N., 1951",
@@ -619,9 +697,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.604428", "-122.323716"],
+    "coordinates": [
+      "47.604428",
+      "-122.323716"
+    ],
     "createdDate": "1951-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1168/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1168/default.jpg"
   },
   {
     "title": "Garfield Memorial Service at Occidental Hotel, September 26, 1881",
@@ -640,9 +721,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "1st. Ave. and Yesler Way",
-    "coordinates": ["47.602207", "-122.334076"],
+    "coordinates": [
+      "47.602207",
+      "-122.334076"
+    ],
     "createdDate": "1881-09-26T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1549/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1549/default.jpg"
   },
   {
     "title": "Alaskan Apartments, 1952",
@@ -660,9 +744,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "2nd Ave. and Virginia St.",
-    "coordinates": ["47.611738", "-122.341729"],
+    "coordinates": [
+      "47.611738",
+      "-122.341729"
+    ],
     "createdDate": "1952-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1166/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1166/default.jpg"
   },
   {
     "title": "Skaters on Green Lake, February 2, 1916",
@@ -678,9 +765,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.675883", "-122.340289"],
+    "coordinates": [
+      "47.675883",
+      "-122.340289"
+    ],
     "createdDate": "1916-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1167/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1167/default.jpg"
   },
   {
     "title": "Native Americans on waterfront in Belltown, ca. 1882",
@@ -698,9 +788,12 @@
     ],
     "photographer": "",
     "intersection": "Alaskan Way and Vine St.",
-    "coordinates": ["47.613328", "-122.352168"],
+    "coordinates": [
+      "47.613328",
+      "-122.352168"
+    ],
     "createdDate": "1882-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1551/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1551/default.jpg"
   },
   {
     "title": "View south from Denny Hill, 1889",
@@ -719,9 +812,11 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1550/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1550/default.jpg"
   },
   {
     "title": "Mount Baker Park Community Presbyterian Church, 1950",
@@ -737,9 +832,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.575027", "-122.285471"],
+    "coordinates": [
+      "47.575027",
+      "-122.285471"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1169/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1169/default.jpg"
   },
   {
     "title": "Hotel Kalmar, ca. 1949",
@@ -754,9 +852,12 @@
     ],
     "photographer": "",
     "intersection": "6th Ave. and James St.",
-    "coordinates": ["47.60416", "-122.328081"],
+    "coordinates": [
+      "47.60416",
+      "-122.328081"
+    ],
     "createdDate": "1949-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1165/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1165/default.jpg"
   },
   {
     "title": "King County Courthouse, 1886",
@@ -784,9 +885,12 @@
     ],
     "photographer": "Haines, J.C.Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
-    "coordinates": ["47.602132", "-122.330816"],
+    "coordinates": [
+      "47.602132",
+      "-122.330816"
+    ],
     "createdDate": "1886-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1548/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1548/default.jpg"
   },
   {
     "title": "Denny Park Lutheran Church, 1950",
@@ -805,9 +909,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.61997", "-122.341483"],
+    "coordinates": [
+      "47.61997",
+      "-122.341483"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1170/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1170/default.jpg"
   },
   {
     "title": "Temporary tents erected after fire near 2nd Ave. S. and S. Washington St., June 1889",
@@ -834,9 +941,12 @@
     ],
     "photographer": "Soule, John P.Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. S. and S. Washington St.",
-    "coordinates": ["47.600878", "-122.331575"],
+    "coordinates": [
+      "47.600878",
+      "-122.331575"
+    ],
     "createdDate": "1889-06-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1554/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1554/default.jpg"
   },
   {
     "title": "St. Spiridon Orthodox Cathedral, ca. 1950",
@@ -851,9 +961,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.622131", "-122.330135"],
+    "coordinates": [
+      "47.622131",
+      "-122.330135"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1171/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1171/default.jpg"
   },
   {
     "title": "Jackson Street Regrade, 1908",
@@ -874,9 +987,12 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "",
-    "coordinates": ["47.595501", "-122.326987"],
+    "coordinates": [
+      "47.595501",
+      "-122.326987"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1555/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1555/default.jpg"
   },
   {
     "title": "St. James Cathedral, 1950",
@@ -893,9 +1009,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.607646", "-122.325891"],
+    "coordinates": [
+      "47.607646",
+      "-122.325891"
+    ],
     "createdDate": "1950-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1172/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1172/default.jpg"
   },
   {
     "title": "Sluicing on Beacon Hill, June 16, 1906",
@@ -914,9 +1033,12 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "11th Ave. S. and S. Charles St.",
-    "coordinates": ["47.594481", "-122.318416"],
+    "coordinates": [
+      "47.594481",
+      "-122.318416"
+    ],
     "createdDate": "1906-06-16T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1556/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1556/default.jpg"
   },
   {
     "title": "Plymouth Church, ca. 1950",
@@ -934,9 +1056,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.608674", "-122.332656"],
+    "coordinates": [
+      "47.608674",
+      "-122.332656"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1173/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1173/default.jpg"
   },
   {
     "title": "Jackson Street Regrade pipes, January 3, 1907",
@@ -952,9 +1077,11 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1907-01-03T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1557/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1557/default.jpg"
   },
   {
     "title": "Woodland Park in the snow, February 2, 1916",
@@ -970,9 +1097,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668415", "-122.34407"],
+    "coordinates": [
+      "47.668415",
+      "-122.34407"
+    ],
     "createdDate": "1916-02-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1174/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1174/default.jpg"
   },
   {
     "title": "Jackson Street Regrade at 8th Ave. S. and S. Weller St., 1908",
@@ -990,9 +1120,12 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "8th Ave. S. and S. Weller St.",
-    "coordinates": ["47.597512", "-122.322458"],
+    "coordinates": [
+      "47.597512",
+      "-122.322458"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1558/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1558/default.jpg"
   },
   {
     "title": "St. Mark's Cathedral, ca. 1950",
@@ -1008,9 +1141,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
-    "coordinates": ["47.631932", "-122.321312"],
+    "coordinates": [
+      "47.631932",
+      "-122.321312"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1175/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1175/default.jpg"
   },
   {
     "title": "Jackson Street Regrade at 8th Ave. S. and S. Weller St., 1908",
@@ -1028,9 +1164,12 @@
     ],
     "photographer": "",
     "intersection": "8th Ave. S. and S. Weller St.",
-    "coordinates": ["47.597512", "-122.322458"],
+    "coordinates": [
+      "47.597512",
+      "-122.322458"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1559/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1559/default.jpg"
   },
   {
     "title": "First Christian Church, 1950",
@@ -1045,9 +1184,12 @@
     ],
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Broadway E. and E. Olive St.",
-    "coordinates": ["47.619904", "-122.320869"],
+    "coordinates": [
+      "47.619904",
+      "-122.320869"
+    ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1176/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1176/default.jpg"
   },
   {
     "title": "Jackson Street Regrade at 10th Ave. S. and S. King St., 1908",
@@ -1069,9 +1211,12 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "10th Ave. S. and S. King St.",
-    "coordinates": ["47.598347", "-122.319641"],
+    "coordinates": [
+      "47.598347",
+      "-122.319641"
+    ],
     "createdDate": "1908-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1560/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1560/default.jpg"
   },
   {
     "title": "Jackson Street Regrade at 8th Ave. S. and S. Weller St., March 1, 1908",
@@ -1089,8 +1234,11 @@
     ],
     "photographer": "Lewis & Wiley",
     "intersection": "8th Ave. S. and S. Weller St.",
-    "coordinates": ["47.597512", "-122.322458"],
+    "coordinates": [
+      "47.597512",
+      "-122.322458"
+    ],
     "createdDate": "1908-03-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1564/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1564/default.jpg"
   }
 ]

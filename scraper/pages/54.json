@@ -17,7 +17,7 @@
       ""
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4295/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4295/default.jpg"
   },
   {
     "title": "Seattle Central Library Catalog Department, ca. 1909",
@@ -42,7 +42,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4326/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4326/default.jpg"
   },
   {
     "title": "Seattle Central Library Children's Room, ca. 1909",
@@ -73,7 +73,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4331/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4331/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts Department, ca. 1909",
@@ -101,7 +101,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4327/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4327/default.jpg"
   },
   {
     "title": "West Seattle Library Branch, ca. 1910",
@@ -123,7 +123,7 @@
       "-122.384696"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4304/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4304/default.jpg"
   },
   {
     "title": "Ballard Library Branch, 1910",
@@ -147,7 +147,7 @@
       "-122.383394"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4334/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4334/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts Department, ca. 1909",
@@ -175,7 +175,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4316/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4316/default.jpg"
   },
   {
     "title": "Fremont Library Branch interior, ca. 1913",
@@ -203,7 +203,7 @@
       "-122.350179"
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4313/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4313/default.jpg"
   },
   {
     "title": "Queen Anne Library Branch, ca. 1914",
@@ -230,7 +230,7 @@
       "-122.362665"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4308/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4308/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1909",
@@ -255,7 +255,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4325/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4325/default.jpg"
   },
   {
     "title": "Seattle Central Library Reference Department, ca. 1909",
@@ -278,7 +278,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4324/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4324/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1914",
@@ -302,7 +302,7 @@
       "-122.332984"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4328/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4328/default.jpg"
   },
   {
     "title": "Model airplane contest, August 1914",
@@ -322,7 +322,7 @@
       "-122.294889"
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4321/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4321/default.jpg"
   },
   {
     "title": "Library Deposit Station at Collins Playfield, ca. 1912",
@@ -346,7 +346,7 @@
       "-122.311574"
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4297/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4297/default.jpg"
   },
   {
     "title": "Group of children and librarian at Collins Playfield Deposit Station, ca. 1912",
@@ -372,7 +372,7 @@
       "-122.311574"
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4301/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4301/default.jpg"
   },
   {
     "title": "Seattle Central Library Children's Department, ca. 1909",
@@ -403,7 +403,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4299/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4299/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts Department, ca. 1909",
@@ -431,7 +431,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4298/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4298/default.jpg"
   },
   {
     "title": "Queen Anne Library Branch, ca. 1914",
@@ -456,7 +456,7 @@
       "-122.362665"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4302/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4302/default.jpg"
   },
   {
     "title": "Seattle Central Library Bindery, February 1921",
@@ -481,7 +481,7 @@
       "-122.332984"
     ],
     "createdDate": "1921-09-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4332/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4332/default.jpg"
   },
   {
     "title": "Green Lake Library Branch, ca. 1910",
@@ -504,7 +504,7 @@
       "-122.326659"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4280/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4280/default.jpg"
   },
   {
     "title": "Seattle Central Library Registration Desk, ca. 1909",
@@ -528,7 +528,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4282/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4282/default.jpg"
   },
   {
     "title": "Model airplane contest, August 1914",
@@ -549,7 +549,7 @@
       "-122.294889"
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4283/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4283/default.jpg"
   },
   {
     "title": "South Park Fieldhouse Station, ca. 1912",
@@ -570,7 +570,7 @@
       "-122.324043"
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4277/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4277/default.jpg"
   },
   {
     "title": "Seattle Public Library from 4th Ave. and Madison St., ca. 1940",
@@ -598,7 +598,7 @@
       "-122.332984"
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4279/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4279/default.jpg"
   },
   {
     "title": "Georgetown Library Branch, 1912",
@@ -628,7 +628,7 @@
       "-122.315894"
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4274/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4274/default.jpg"
   },
   {
     "title": "Seattle Public Library booth at Child Welfare Exhibit, May 25-31, 1914",
@@ -656,7 +656,7 @@
       "-122.343799"
     ],
     "createdDate": "1914-05-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4276/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4276/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1909",
@@ -681,7 +681,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4330/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4330/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1920",
@@ -705,7 +705,7 @@
       "-122.332984"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4323/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4323/default.jpg"
   },
   {
     "title": "West Seattle Library Branch Children's Room, ca. 1910",
@@ -735,7 +735,7 @@
       "-122.384696"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4329/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4329/default.jpg"
   },
   {
     "title": "Yesler Library Branch, ca. 1914",
@@ -759,7 +759,7 @@
       "-122.301731"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4290/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4290/default.jpg"
   },
   {
     "title": "\"Our Fighting Men Need Good Books\" library display, March 16, 1943",
@@ -779,7 +779,7 @@
       "-122.336709"
     ],
     "createdDate": "1943-03-16T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4273/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4273/default.jpg"
   },
   {
     "title": "View south on 3rd Ave. from Pine St., ca. 1942Front",
@@ -814,7 +814,7 @@
       "-122.338703"
     ],
     "createdDate": "1942-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3770/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3770/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -833,7 +833,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg"
   },
   {
     "title": "Pier in Industrial District, ca. 1975",
@@ -853,7 +853,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction, August 15, 1929",
@@ -875,7 +875,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-08-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg"
   },
   {
     "title": "View south from Washington Hotel, 1904Front",
@@ -914,8 +914,8 @@
       "-122.34021847.612026",
       "-122.340218"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4336/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4336/default.jpg"
   },
   {
     "title": "Bonney Watson Funeral Home receiving room, ca. 1915",
@@ -934,7 +934,7 @@
       "-122.320699"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4434/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4434/default.jpg"
   },
   {
     "title": "Shuffleton Steam Plant construction workers, April 1, 1929",
@@ -957,7 +957,7 @@
       "-122.205148"
     ],
     "createdDate": "1929-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4438/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4438/default.jpg"
   },
   {
     "title": "Bonney Watson Funeral Home, ca. 1915",
@@ -976,7 +976,7 @@
       "-122.320699"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4430/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4430/default.jpg"
   },
   {
     "title": "Pipes near silos at Port of Seattle construction project, ca. 1975",
@@ -993,7 +993,7 @@
       ""
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg"
   },
   {
     "title": "Seattle Central Library, ca. 1960",
@@ -1012,7 +1012,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg"
   },
   {
     "title": "Alderwood Manor, June 28, 1947",
@@ -1030,7 +1030,7 @@
       "-122.248258"
     ],
     "createdDate": "1947-06-28T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg"
   },
   {
     "title": "Century 21 fairgrounds under construction, ca. 1961",
@@ -1051,7 +1051,7 @@
       "-122.350433"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg"
   },
   {
     "title": "Group touring construction on Century 21 fairgrounds near the Coliseum, ca. 1961",
@@ -1075,7 +1075,7 @@
       "-122.35152"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg"
   },
   {
     "title": "Group touring construction on Century 21 fairgrounds, ca. 1961",
@@ -1094,7 +1094,7 @@
       "-122.353988"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -1113,7 +1113,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg"
   },
   {
     "title": "Space Needle under construction, ca. November 1961",
@@ -1132,7 +1132,7 @@
       "-122.349355"
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg"
   },
   {
     "title": "Wildflowers and Mount Rainier, Wash., ca. 1945",
@@ -1151,7 +1151,7 @@
       "-121.726909"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg"
   },
   {
     "title": "United States Science Pavilion construction, ca. 1961",
@@ -1170,7 +1170,7 @@
       "-122.353988"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg"
   },
   {
     "title": "Seattle's waterfront with business district in the background, ca. 1945",
@@ -1191,6 +1191,6 @@
       "-122.344015"
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg"
   }
 ]

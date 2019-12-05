@@ -14,7 +14,7 @@
       ""
     ],
     "createdDate": "1926-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3955/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3955/default.jpg"
   },
   {
     "title": "Olympic Hotel under construction, June 14, 1924",
@@ -32,7 +32,7 @@
       "-122.333984"
     ],
     "createdDate": "1924-06-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3948/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3948/default.jpg"
   },
   {
     "title": "AFL Labor Temple entrance, ca. 1950",
@@ -50,7 +50,7 @@
       "-122.351771"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3972/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3972/default.jpg"
   },
   {
     "title": "Hilde McAuslan, Washington State champion golfer, August 19, 1934",
@@ -72,7 +72,7 @@
       "-122.291391"
     ],
     "createdDate": "1934-08-19T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3974/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3974/default.jpg"
   },
   {
     "title": "Art Ahonon and Tom Yelich of the University of Washington football team, September 24, 1934",
@@ -92,7 +92,7 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-24T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3912/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3912/default.jpg"
   },
   {
     "title": "View north on 2nd Ave. from Yesler Way, ca. 1923",
@@ -121,7 +121,7 @@
       "-122.331727"
     ],
     "createdDate": "1923-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3921/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3921/default.jpg"
   },
   {
     "title": "University of Washington Shipping Board School, 1918",
@@ -141,7 +141,7 @@
       "-122.30352"
     ],
     "createdDate": "1918-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3915/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3915/default.jpg"
   },
   {
     "title": "Yesler home near 1st Ave. and Yesler Way, 1860",
@@ -169,7 +169,7 @@
       "-122.334076"
     ],
     "createdDate": "1860-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3914/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3914/default.jpg"
   },
   {
     "title": "Seattle Seahawks hockey team, March 25, 1935",
@@ -200,7 +200,7 @@
       "-122.348425"
     ],
     "createdDate": "1935-03-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3920/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3920/default.jpg"
   },
   {
     "title": "Boxing match between Barney Ross and Henry Wood, April 10, 1935",
@@ -223,7 +223,7 @@
       "-122.351918"
     ],
     "createdDate": "1935-04-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3916/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3916/default.jpg"
   },
   {
     "title": "Civic Auditorium and Mount Rainier, ca. 1950",
@@ -245,7 +245,7 @@
       "-122.347557"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3922/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3922/default.jpg"
   },
   {
     "title": "Fire at Brace Lumber Company, May 10, 1935",
@@ -267,7 +267,7 @@
       "-122.338574"
     ],
     "createdDate": "1935-05-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3913/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3913/default.jpg"
   },
   {
     "title": "Harry Givan plays for a place in the National Open, May 14, 1935",
@@ -288,7 +288,7 @@
       "-122.365684"
     ],
     "createdDate": "1935-05-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3919/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3919/default.jpg"
   },
   {
     "title": "View SE from 4th Ave. and Seneca St., 1887",
@@ -312,7 +312,7 @@
       " -122.334076"
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3917/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3917/default.jpg"
   },
   {
     "title": "Waterfront between Madison and Columbia St., 1887",
@@ -346,7 +346,7 @@
       "-122.338484"
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3923/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3923/default.jpg"
   },
   {
     "title": "Queen Coffee and Waffle House interior, ca. 1910",
@@ -368,7 +368,7 @@
       "-122.335066"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3918/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3918/default.jpg"
   },
   {
     "title": "Barney Ross, national welter weight, meeting with Howard Dent Jr. from University of Washington, April 2, 1935",
@@ -392,7 +392,7 @@
       "-122.333552"
     ],
     "createdDate": "1935-04-02T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3983/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3983/default.jpg"
   },
   {
     "title": "Bertha Barkhoff and Zoe Smith, badminton finalists, April 1, 1935",
@@ -412,7 +412,7 @@
       "-122.358349"
     ],
     "createdDate": "1935-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3978/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3978/default.jpg"
   },
   {
     "title": "Collapsed East Gate at World Fair grounds, February 26, 1962",
@@ -432,7 +432,7 @@
       "-122.350433"
     ],
     "createdDate": "1962-02-27T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3979/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3979/default.jpg"
   },
   {
     "title": "3rd Ave. and Jefferson St. after the fire, July 1889",
@@ -464,7 +464,7 @@
       "-122.330816"
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3977/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3977/default.jpg"
   },
   {
     "title": "Paul Satko's children being taken into custody by Juvenile Court, April 25, 1940",
@@ -487,7 +487,7 @@
       "-122.387645"
     ],
     "createdDate": "1940-04-25T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3976/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3976/default.jpg"
   },
   {
     "title": "Cherry St. in the snow, January 10, 1880",
@@ -517,7 +517,7 @@
       " -122.334303"
     ],
     "createdDate": "1880-01-10T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3980/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3980/default.jpg"
   },
   {
     "title": "Woody Ullin, captain of UW football team, with Coach Phelans, September 15, 1934",
@@ -538,7 +538,7 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3900/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3900/default.jpg"
   },
   {
     "title": "Washington Athletic Club swimming team and Mayor Charles Smith, April 18, 1935",
@@ -565,7 +565,7 @@
       "-122.333552"
     ],
     "createdDate": "1935-04-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3909/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3909/default.jpg"
   },
   {
     "title": "Lake Washington Blvd. looking toward Mt. Rainier, ca. 1925",
@@ -587,7 +587,7 @@
       "-122.280101"
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3903/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3903/default.jpg"
   },
   {
     "title": "University of Washington Crew team, April 21, 1935",
@@ -607,7 +607,7 @@
       "-122.304622"
     ],
     "createdDate": "1935-04-21T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3902/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3902/default.jpg"
   },
   {
     "title": "Harry Givan, Scotty Campbell, Johnnie Shields and Bobbie Jones at Seattle Golf Course, November 18, 1934",
@@ -632,7 +632,7 @@
       "-122.365684"
     ],
     "createdDate": "1934-11-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3908/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3908/default.jpg"
   },
   {
     "title": "Women in paddleboat on Lake Union, May 15, 1935",
@@ -655,7 +655,7 @@
       "-122.333268"
     ],
     "createdDate": "1935-05-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3904/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3904/default.jpg"
   },
   {
     "title": "Trinity Parish Church, 1874",
@@ -675,7 +675,7 @@
       "-122.330816"
     ],
     "createdDate": "1860-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3910/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3910/default.jpg"
   },
   {
     "title": "Walt Rohrscheib, UW football player, September 15, 1934",
@@ -694,7 +694,7 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3901/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3901/default.jpg"
   },
   {
     "title": "University of Washington vs. Idaho football game, September 29, 1934",
@@ -714,7 +714,7 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-29T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3907/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3907/default.jpg"
   },
   {
     "title": "Truck dumping gravel near 8th Ave. NW and NW 92nd St., November 16, 1948",
@@ -738,7 +738,7 @@
       "-122.366008"
     ],
     "createdDate": "1948-11-16T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3905/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3905/default.jpg"
   },
   {
     "title": "Shirley Frazier, March 13, 1935",
@@ -758,7 +758,7 @@
       "-122.30352"
     ],
     "createdDate": "1935-03-13T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3973/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3973/default.jpg"
   },
   {
     "title": "3rd Ave. and Jefferson St. after the fire, July 1889",
@@ -786,7 +786,7 @@
       "-122.330816"
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3982/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3982/default.jpg"
   },
   {
     "title": "Occidental Hotel at 1st Ave. and James St., 1870",
@@ -812,7 +812,7 @@
       "-122.333686"
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3975/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3975/default.jpg"
   },
   {
     "title": "A Seattle home and garden, ca. 1925",
@@ -829,7 +829,7 @@
       ""
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3981/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3981/default.jpg"
   },
   {
     "title": "Mort Frayn, mayoral candidate, ca. 1969",
@@ -846,7 +846,7 @@
       ""
     ],
     "createdDate": "1969-12-04T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4102/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4102/default.jpg"
   },
   {
     "title": "Schmitz Park plank walkway, ca. 1920",
@@ -865,7 +865,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4100/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4100/default.jpg"
   },
   {
     "title": "South Gate at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -884,7 +884,7 @@
       "-122.304837"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4096/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4096/default.jpg"
   },
   {
     "title": "Former Pacific Northwest Real Estate Association Presidents, 1927",
@@ -900,7 +900,7 @@
       ""
     ],
     "createdDate": "1927-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4099/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4099/default.jpg"
   },
   {
     "title": "Wooden airplane contest at Green Lake fieldhouse, December 24, 1934",
@@ -922,7 +922,7 @@
       "-122.328319"
     ],
     "createdDate": "1937-12-24T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4093/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4093/default.jpg"
   },
   {
     "title": "Lake Washington Gate at the Alaska-Yukon-Pacific-Exposition, 1909",
@@ -941,7 +941,7 @@
       "-122.298443"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3995/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3995/default.jpg"
   },
   {
     "title": "May Tsutsumoto, Japanese Trade Fair queen, June 17, 1951",
@@ -957,8 +957,8 @@
     "coordinates": [
       ""
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3993/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3993/default.jpg"
   },
   {
     "title": "Snack Lunch Cafe, March 7, 1949",
@@ -978,7 +978,7 @@
       "-122.336775"
     ],
     "createdDate": "1949-03-07T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3994/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3994/default.jpg"
   },
   {
     "title": "Chuck Mucha, University of Washington football player, September 14, 1934",
@@ -997,7 +997,7 @@
       "-122.301931"
     ],
     "createdDate": "1934-09-15T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4097/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4097/default.jpg"
   },
   {
     "title": "Louise Bussell on porch at 1630 36th Ave., ca. 1910",
@@ -1017,7 +1017,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4103/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4103/default.jpg"
   },
   {
     "title": "Lowman & Hanford Stationery & Printing Company, ca. 1901",
@@ -1043,7 +1043,7 @@
       "-122.33373"
     ],
     "createdDate": "1901-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4098/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4098/default.jpg"
   },
   {
     "title": "Living room in Bussell home at 1630 36th Ave., ca. 1910",
@@ -1063,7 +1063,7 @@
       "-122.286712"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4095/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4095/default.jpg"
   },
   {
     "title": "Schmitz Park woods, ca. 1920",
@@ -1083,7 +1083,7 @@
       "-122.401689"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4094/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4094/default.jpg"
   },
   {
     "title": "Frank Waterhouse, ca. 1925",
@@ -1099,6 +1099,6 @@
       ""
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4101/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4101/default.jpg"
   }
 ]

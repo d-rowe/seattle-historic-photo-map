@@ -26,7 +26,7 @@
       "-122.317536"
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3066/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3066/default.jpg"
   },
   {
     "title": "Roosevelt Square at corner of Roosevelt and NE 65th St., ca. 1984",
@@ -50,7 +50,7 @@
       "-122.316872"
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3067/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3067/default.jpg"
   },
   {
     "title": "West side of Roosevelt Square, ca. 1984",
@@ -76,7 +76,7 @@
       "-122.316872"
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3068/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3068/default.jpg"
   },
   {
     "title": "Magnuson Park field, ca. 1984",
@@ -93,7 +93,7 @@
       "-122.259776"
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3060/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3060/default.jpg"
   },
   {
     "title": "Seattle Center Science Center water gardens at night, 1969",
@@ -115,7 +115,7 @@
       "-122.351371"
     ],
     "createdDate": "1969-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3208/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3208/default.jpg"
   },
   {
     "title": "View south from 4th Ave. and Seneca St., 1869",
@@ -141,7 +141,7 @@
       "-122.334076"
     ],
     "createdDate": "1869-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3209/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3209/default.jpg"
   },
   {
     "title": "Eagles Drill Team, Seattle Aerie No. 1, June 18, 1922",
@@ -158,7 +158,7 @@
       ""
     ],
     "createdDate": "1922-06-18T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3210/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3210/default.jpg"
   },
   {
     "title": "Franklin High School Glee Club production celebrating the anniversary of Armistice Day, November 21, 1919",
@@ -178,7 +178,7 @@
       "-122.292813"
     ],
     "createdDate": "1919-11-21T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3211/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3211/default.jpg"
   },
   {
     "title": "View west from Ballard Locks to Great Northern bridge, ca. 1950",
@@ -198,7 +198,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3227/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3227/default.jpg"
   },
   {
     "title": "Spillway at Ballard Locks, May 31, 1948",
@@ -218,7 +218,7 @@
       "-122.398068"
     ],
     "createdDate": "1948-05-31T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3231/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3231/default.jpg"
   },
   {
     "title": "Launch of minesweeper from Ballard dry dock, February 14, 1953",
@@ -237,7 +237,7 @@
       ""
     ],
     "createdDate": "1953-02-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3229/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3229/default.jpg"
   },
   {
     "title": "Entrance to U.S. Govt. Locks, Seattle, Wash., ca. 1929",
@@ -256,7 +256,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3238/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3238/default.jpg"
   },
   {
     "title": "Mt. Rainier from above Lake George, ca. 1920",
@@ -274,7 +274,7 @@
       "-121.903551"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3242/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3242/default.jpg"
   },
   {
     "title": "Steamboat \"Fortuna\" passing through Ballard Locks, ca. 1917",
@@ -296,7 +296,7 @@
       "-122.398068"
     ],
     "createdDate": "1917-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3243/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3243/default.jpg"
   },
   {
     "title": "U.S. Government Canal Locks, Seattle, Wash., ca. 1929",
@@ -316,7 +316,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3240/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3240/default.jpg"
   },
   {
     "title": "Group at Ballard Locks, ca. 1920",
@@ -337,7 +337,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3221/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3221/default.jpg"
   },
   {
     "title": "Spectators at Ballard Locks, ca. 1920",
@@ -356,7 +356,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3214/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3214/default.jpg"
   },
   {
     "title": "Steamboat Atlanta passing through Ballard Locks, ca. 1920",
@@ -380,7 +380,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3212/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3212/default.jpg"
   },
   {
     "title": "Govt. Locks, Seattle, Wn., ca. 1950",
@@ -401,7 +401,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3213/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3213/default.jpg"
   },
   {
     "title": "View east through Ballard Locks, ca. 1920",
@@ -422,7 +422,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3215/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3215/default.jpg"
   },
   {
     "title": "\"Superior\" at Ballard Locks, ca. 1950",
@@ -443,7 +443,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3228/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3228/default.jpg"
   },
   {
     "title": "Boats passing through Ballard Locks, ca. 1948",
@@ -463,7 +463,7 @@
       "-122.398068"
     ],
     "createdDate": "1948-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3232/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3232/default.jpg"
   },
   {
     "title": "U.S. Govt. Locks, Seattle, Wash. ca. 1929",
@@ -485,7 +485,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3237/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3237/default.jpg"
   },
   {
     "title": "U.S. Govt. Locks, Seattle, Washington. ca. 1929",
@@ -505,7 +505,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3239/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3239/default.jpg"
   },
   {
     "title": "Boom of logs in U.S. Govt. Locks, Seattle, ca. 1929",
@@ -528,7 +528,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3233/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3233/default.jpg"
   },
   {
     "title": "Administration Building at Ballard Locks, April 1961",
@@ -548,7 +548,7 @@
       "-122.398068"
     ],
     "createdDate": "1961-04-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3230/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3230/default.jpg"
   },
   {
     "title": "U.S. Govt. Locks, Seattle, Wn. ca. 1929",
@@ -567,7 +567,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3235/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3235/default.jpg"
   },
   {
     "title": "U.S. Government Locks, ca. 1929",
@@ -589,7 +589,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3236/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3236/default.jpg"
   },
   {
     "title": "U.S. Govt. Locks, Seattle, ca. 1929",
@@ -611,7 +611,7 @@
       "-122.398068"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3234/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3234/default.jpg"
   },
   {
     "title": "View south from Ballard Locks to Lockhaven Marina, ca. 1950",
@@ -631,7 +631,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3225/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3225/default.jpg"
   },
   {
     "title": "Ship passing through Ballard Locks, ca. 1940",
@@ -652,7 +652,7 @@
       "-122.398068"
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3218/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3218/default.jpg"
   },
   {
     "title": "People touching a basking shark at Ballard, 1949",
@@ -668,7 +668,7 @@
       ""
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3220/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3220/default.jpg"
   },
   {
     "title": "View west to spectators gathered at Ballard Locks, ca. 1950",
@@ -688,7 +688,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3226/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3226/default.jpg"
   },
   {
     "title": "U.S. Government Canal Locks. Seattle, Wash., ca. 1920",
@@ -708,7 +708,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3224/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3224/default.jpg"
   },
   {
     "title": "Lake Washington Canal Locks, Seattle, Washington,  ca. 1920",
@@ -728,7 +728,7 @@
       "-122.398068"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3217/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3217/default.jpg"
   },
   {
     "title": "Spectators in front of Administration Building at Ballard Locks, ca. 1948",
@@ -750,7 +750,7 @@
       "-122.398068"
     ],
     "createdDate": "1948-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3219/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3219/default.jpg"
   },
   {
     "title": "Horaisan Maru traveling through Ballard Locks, 1925",
@@ -772,7 +772,7 @@
       "-122.398068"
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3222/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3222/default.jpg"
   },
   {
     "title": "Aerial view of Ballard Locks and ship canal, ca. 1950",
@@ -798,7 +798,7 @@
       "-122.398068"
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3216/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3216/default.jpg"
   },
   {
     "title": "Mr. Martin and dog, ca. 1910",
@@ -815,7 +815,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3459/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3459/default.jpg"
   },
   {
     "title": "Gerald McNamara, ca. 1910.",
@@ -833,7 +833,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3462/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3462/default.jpg"
   },
   {
     "title": "Jim Newman, ca. 1910",
@@ -851,7 +851,7 @@
       "-122.316858"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3463/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3463/default.jpg"
   },
   {
     "title": "Unidentified man in overcoat and hat, ca. 1910",
@@ -869,7 +869,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3467/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3467/default.jpg"
   },
   {
     "title": "Iva Pense, ca. 1910",
@@ -886,7 +886,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3465/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3465/default.jpg"
   },
   {
     "title": "Gerald McNamara, ca. 1910",
@@ -904,7 +904,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3460/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3460/default.jpg"
   },
   {
     "title": "\"Mother\" [possibly Wilhemina Piper], ca. 1910",
@@ -923,7 +923,7 @@
       "-122.308459"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3457/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3457/default.jpg"
   },
   {
     "title": "Nurse, ca. 1910",
@@ -940,7 +940,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3461/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3461/default.jpg"
   },
   {
     "title": "Charles Newman, ca. 1910",
@@ -957,7 +957,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3464/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3464/default.jpg"
   },
   {
     "title": "Unidentified woman, ca. 1910",
@@ -973,7 +973,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3466/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3466/default.jpg"
   },
   {
     "title": "Unidentified man, ca. 1910",
@@ -989,7 +989,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3458/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3458/default.jpg"
   },
   {
     "title": "Georgina Anstey, ca. 1910",
@@ -1008,6 +1008,6 @@
       "-122.308459"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3456/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3456/default.jpg"
   }
 ]

@@ -11,9 +11,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.623948", "-122.350088"],
+    "coordinates": [
+      "47.623948",
+      "-122.350088"
+    ],
     "createdDate": "1928-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1692/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1692/default.jpg"
   },
   {
     "title": "Battleship Nebraska, ca. 1904",
@@ -29,9 +32,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1904-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1707/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1707/default.jpg"
   },
   {
     "title": "Fremont Avenue, 1898",
@@ -47,9 +53,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "N. 47th St. and Fremont Ave.",
-    "coordinates": ["47.662882", "-122.350019"],
+    "coordinates": [
+      "47.662882",
+      "-122.350019"
+    ],
     "createdDate": "1898-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1714/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1714/default.jpg"
   },
   {
     "title": "Alaska Yukon Pacific Exposition at Night, 1909",
@@ -64,9 +73,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.652370", "-122.308966"],
+    "coordinates": [
+      "47.652370",
+      "-122.308966"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1705/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1705/default.jpg"
   },
   {
     "title": "John Noble Wallingford, ca. 1893",
@@ -79,9 +91,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1893-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1715/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1715/default.jpg"
   },
   {
     "title": "Budlong House, ca. 1898",
@@ -96,9 +110,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "N. 34th St. and Aurora Ave. N.",
-    "coordinates": ["47.649225", "-122.347402"],
+    "coordinates": [
+      "47.649225",
+      "-122.347402"
+    ],
     "createdDate": "1898-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1713/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1713/default.jpg"
   },
   {
     "title": "Construction of Denny Hall, 1895",
@@ -113,9 +130,12 @@
     ],
     "photographer": "Andrews, Clarence Leroy, 1862-1948",
     "intersection": "",
-    "coordinates": ["47.658393", "-122.308833"],
+    "coordinates": [
+      "47.658393",
+      "-122.308833"
+    ],
     "createdDate": "1895-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1711/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1711/default.jpg"
   },
   {
     "title": "Yesler Mansion, ca. 1900",
@@ -133,9 +153,12 @@
     ],
     "photographer": "Wilse, Anders Beer, 1865-1949",
     "intersection": "3rd Ave. and James St.",
-    "coordinates": ["47.602768", "-122.331409"],
+    "coordinates": [
+      "47.602768",
+      "-122.331409"
+    ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1706/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1706/default.jpg"
   },
   {
     "title": "View west from 7th Ave. and Jefferson St., 1900",
@@ -156,9 +179,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "7th Ave. and Jefferson St.",
-    "coordinates": ["47.603921", "-122.326443"],
+    "coordinates": [
+      "47.603921",
+      "-122.326443"
+    ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1709/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1709/default.jpg"
   },
   {
     "title": "View west from 7th Ave. and Jefferson St., 1900",
@@ -181,9 +207,12 @@
     ],
     "photographer": "",
     "intersection": "7th Ave. and Jefferson St.",
-    "coordinates": ["47.603921", "-122.326443"],
+    "coordinates": [
+      "47.603921",
+      "-122.326443"
+    ],
     "createdDate": "1900-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1708/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1708/default.jpg"
   },
   {
     "title": "Engine Company No. 1, ca. 1879",
@@ -210,9 +239,11 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": [""],
+    "coordinates": [
+      ""
+    ],
     "createdDate": "1879-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1712/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1712/default.jpg"
   },
   {
     "title": "Elephant on parade at Pine St. and 3rd Ave., 1899",
@@ -228,9 +259,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "3rd Ave. and Pine St.",
-    "coordinates": ["47.610823", "-122.338668"],
+    "coordinates": [
+      "47.610823",
+      "-122.338668"
+    ],
     "createdDate": "1899-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1710/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1710/default.jpg"
   },
   {
     "title": "John W. Denny House, 1906",
@@ -247,9 +281,12 @@
     ],
     "photographer": "",
     "intersection": "Corliss Ave. N. and N. 92nd St.",
-    "coordinates": ["47.695927", "-122.331117"],
+    "coordinates": [
+      "47.695927",
+      "-122.331117"
+    ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1704/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1704/default.jpg"
   },
   {
     "title": "Yesler's Mill, 1893",
@@ -267,9 +304,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.650000", "-122.276988"],
+    "coordinates": [
+      "47.650000",
+      "-122.276988"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1725/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1725/default.jpg"
   },
   {
     "title": "Yesler (Town), 1893",
@@ -284,9 +324,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.650000", "-122.276988"],
+    "coordinates": [
+      "47.650000",
+      "-122.276988"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1723/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1723/default.jpg"
   },
   {
     "title": "Coxey's Army: Camp Goodwin, 1894",
@@ -307,9 +350,12 @@
     ],
     "photographer": "",
     "intersection": "9th Ave. and Columbia St.",
-    "coordinates": ["47.606983", "-122.32606"],
+    "coordinates": [
+      "47.606983",
+      "-122.32606"
+    ],
     "createdDate": "1894-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1721/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1721/default.jpg"
   },
   {
     "title": "Snowball Fight at Seattle Female College, 1893",
@@ -327,9 +373,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1720/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1720/default.jpg"
   },
   {
     "title": "Sulphur Springs at Ravenna Park, 1893",
@@ -344,9 +393,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1718/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1718/default.jpg"
   },
   {
     "title": "Train Load of Logs at Yesler (Town), 1893",
@@ -362,9 +414,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.650000", "-122.276988"],
+    "coordinates": [
+      "47.650000",
+      "-122.276988"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1724/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1724/default.jpg"
   },
   {
     "title": "Steamer Bailey Gatzert, ca. 1905",
@@ -380,9 +435,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["45.667896", "-121.896804"],
+    "coordinates": [
+      "45.667896",
+      "-121.896804"
+    ],
     "createdDate": "1905-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1722/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1722/default.jpg"
   },
   {
     "title": "3rd St. Street Car at Ravenna Park, ca. 1895",
@@ -399,9 +457,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1895-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1717/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1717/default.jpg"
   },
   {
     "title": "Seattle Female College, 1893",
@@ -418,9 +479,12 @@
     ],
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1719/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1719/default.jpg"
   },
   {
     "title": "Seattle Female College, 1893",
@@ -438,9 +502,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.668856", "-122.303893"],
+    "coordinates": [
+      "47.668856",
+      "-122.303893"
+    ],
     "createdDate": "1893-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1716/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1716/default.jpg"
   },
   {
     "title": "View east from Elliott Bay, 1870",
@@ -454,9 +521,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1870-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1727/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1727/default.jpg"
   },
   {
     "title": "Alaska Yukon Pacific Exposition Forestry Building, 1909",
@@ -471,9 +541,12 @@
     ],
     "photographer": "Nowell, Frank H., 1864-1950",
     "intersection": "",
-    "coordinates": ["47.655079", "-122.305959"],
+    "coordinates": [
+      "47.655079",
+      "-122.305959"
+    ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1726/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1726/default.jpg"
   },
   {
     "title": "Parade for President Wilson, September 12, 1919",
@@ -495,9 +568,12 @@
     ],
     "photographer": "",
     "intersection": "2nd Ave. and Stewart St.",
-    "coordinates": ["47.610703", "-122.340332"],
+    "coordinates": [
+      "47.610703",
+      "-122.340332"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1738/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1738/default.jpg"
   },
   {
     "title": "Destroyer saluting President Wilson, September 12, 1919",
@@ -513,9 +589,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1739/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1739/default.jpg"
   },
   {
     "title": "King County Courthouse  and City Hall park on Third Ave and Jefferson St., 1924",
@@ -535,9 +614,12 @@
     ],
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
-    "coordinates": ["47.602132", "-122.330816"],
+    "coordinates": [
+      "47.602132",
+      "-122.330816"
+    ],
     "createdDate": "1924-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1731/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1731/default.jpg"
   },
   {
     "title": "Harbor activities during Pacific Fleet Review, September 12, 1919",
@@ -559,9 +641,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1737/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1737/default.jpg"
   },
   {
     "title": "Quarterdeck of the Battleship \"New Mexico,\" September 12, 1919",
@@ -580,9 +665,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1733/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1733/default.jpg"
   },
   {
     "title": "President Wilson arriving in Seattle for Pacific Fleet Review, September 12, 1919",
@@ -598,9 +686,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.599013", "-122.329933"],
+    "coordinates": [
+      "47.599013",
+      "-122.329933"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1736/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1736/default.jpg"
   },
   {
     "title": "President and Mrs. Wilson reviewing fleet from bridge of the Oregon, September 12, 1919",
@@ -618,9 +709,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1734/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1734/default.jpg"
   },
   {
     "title": "John Hay School, ca. 1922",
@@ -637,9 +731,12 @@
     ],
     "photographer": "",
     "intersection": "4th Ave. N and Newton St.",
-    "coordinates": ["47.636565", "-122.349506"],
+    "coordinates": [
+      "47.636565",
+      "-122.349506"
+    ],
     "createdDate": "1922-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1730/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1730/default.jpg"
   },
   {
     "title": "Great Northern Dock, Smith's Cove, ca. 1926",
@@ -659,9 +756,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.629083", "-122.381631"],
+    "coordinates": [
+      "47.629083",
+      "-122.381631"
+    ],
     "createdDate": "1926-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1729/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1729/default.jpg"
   },
   {
     "title": "Fraser and Wilson Store on Pike St., ca. 1895",
@@ -680,9 +780,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.610379", "-122.336303"],
+    "coordinates": [
+      "47.610379",
+      "-122.336303"
+    ],
     "createdDate": "1895-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1732/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1732/default.jpg"
   },
   {
     "title": "Parade for President Wilson on 2nd Ave., September 12, 1919",
@@ -706,9 +809,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.605626", "-122.335541"],
+    "coordinates": [
+      "47.605626",
+      "-122.335541"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1735/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1735/default.jpg"
   },
   {
     "title": "American Can Co. Alaskan Way and Cedar St., ca. 1925",
@@ -727,9 +833,12 @@
     ],
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way and Cedar St.",
-    "coordinates": ["47.613881", "-122.35311"],
+    "coordinates": [
+      "47.613881",
+      "-122.35311"
+    ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1728/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1728/default.jpg"
   },
   {
     "title": "Battleship Mississippi, September 12, 1919",
@@ -748,9 +857,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1740/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1740/default.jpg"
   },
   {
     "title": "Fleet coming into Seattle harbor, September 12, 1919",
@@ -765,9 +877,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1741/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1741/default.jpg"
   },
   {
     "title": "Destroyers in review, September 12, 1919",
@@ -782,9 +897,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1743/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1743/default.jpg"
   },
   {
     "title": "Forward deck of Battleship New Mexico, September 12, 1919",
@@ -802,9 +920,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1749/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1749/default.jpg"
   },
   {
     "title": "Battleship Texas, September 12, 1919",
@@ -819,9 +940,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1745/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1745/default.jpg"
   },
   {
     "title": "Fleet rounding Magnolia Bluff, September 12, 1919",
@@ -841,9 +965,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1742/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1742/default.jpg"
   },
   {
     "title": "Battleship New York, September 12, 1919",
@@ -861,9 +988,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1750/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1750/default.jpg"
   },
   {
     "title": "Battleships in Harbor, September 12, 1919",
@@ -883,9 +1013,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1744/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1744/default.jpg"
   },
   {
     "title": "Destroyer, September 12, 1919",
@@ -904,9 +1037,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1746/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1746/default.jpg"
   },
   {
     "title": "Destroyers in harbor, September 12, 1919",
@@ -921,9 +1057,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1748/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1748/default.jpg"
   },
   {
     "title": "Battleship New Mexico, September 12, 1919",
@@ -944,9 +1083,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1751/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1751/default.jpg"
   },
   {
     "title": "Destroyers in review, September 12, 1919",
@@ -962,9 +1104,12 @@
     ],
     "photographer": "",
     "intersection": "",
-    "coordinates": ["47.607427", "-122.370833"],
+    "coordinates": [
+      "47.607427",
+      "-122.370833"
+    ],
     "createdDate": "1919-09-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1747/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1747/default.jpg"
   },
   {
     "title": "Wharves at foot of S. Main St., June 6, 1889",
@@ -982,8 +1127,11 @@
     ],
     "photographer": "Soule, John P.",
     "intersection": "Alaskan Way S. and S. Main St.",
-    "coordinates": ["47.600037", "-122.335947"],
+    "coordinates": [
+      "47.600037",
+      "-122.335947"
+    ],
     "createdDate": "1889-06-06T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1757/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1757/default.jpg"
   }
 ]

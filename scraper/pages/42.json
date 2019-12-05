@@ -20,7 +20,7 @@
       "-122.334234"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3387/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3387/default.jpg"
   },
   {
     "title": "Seattle City Light Substation at Yesler Way and 7th Ave., ca. 1910",
@@ -39,7 +39,7 @@
       "-122.324255"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3390/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3390/default.jpg"
   },
   {
     "title": "Monmouth Apartments at 20th Ave. and Yesler Way, ca. 1910",
@@ -61,7 +61,7 @@
       "-122.306349"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3395/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3395/default.jpg"
   },
   {
     "title": "Weed's Pharmacy window, ca. 1910",
@@ -83,7 +83,7 @@
       "-122.29854"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3389/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3389/default.jpg"
   },
   {
     "title": "View south on 2nd Ave. from Columbia St., ca. 1910.",
@@ -111,7 +111,7 @@
       "-122.333842"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3391/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3391/default.jpg"
   },
   {
     "title": "Hotel Seward on 3rd Ave., ca. 1910",
@@ -136,7 +136,7 @@
       "-122.331034"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3385/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3385/default.jpg"
   },
   {
     "title": "Star Apartments at 11th Ave. and E. Spruce St., ca. 1910",
@@ -158,7 +158,7 @@
       "-122.317727"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3394/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3394/default.jpg"
   },
   {
     "title": "View west from Yesler Way and 4th Ave., ca. 1911",
@@ -185,7 +185,7 @@
       "-122.329016"
     ],
     "createdDate": "1911-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3388/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3388/default.jpg"
   },
   {
     "title": "Unidentified apartment building, ca. 1910",
@@ -203,7 +203,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3392/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3392/default.jpg"
   },
   {
     "title": "Storefronts at 510 1st Ave. S., ca. 1910",
@@ -228,7 +228,7 @@
       "-122.333708"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3386/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3386/default.jpg"
   },
   {
     "title": "Ben Lomond Apartments, ca. 1910",
@@ -248,7 +248,7 @@
       "-122.327435"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3393/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3393/default.jpg"
   },
   {
     "title": "Storefronts at 930-1020 1st Ave. S., ca. 1910",
@@ -271,7 +271,7 @@
       "-122.33371"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3384/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3384/default.jpg"
   },
   {
     "title": "Normandie Apartments at 9th Ave. and University, ca. 1910",
@@ -292,7 +292,7 @@
       "-122.329261"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3396/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3396/default.jpg"
   },
   {
     "title": "Man [Walter F. Piper?] with backpack, ca. 1910",
@@ -312,7 +312,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3405/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3405/default.jpg"
   },
   {
     "title": "Boat on riverbank, ca. 1910",
@@ -328,7 +328,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3402/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3402/default.jpg"
   },
   {
     "title": "View west to Puget Sound, ca. 1910",
@@ -344,7 +344,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3407/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3407/default.jpg"
   },
   {
     "title": "\"Henriette\" loading cargo at Colman Dock, ca. 1910",
@@ -368,7 +368,7 @@
       "-122.336897"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3401/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3401/default.jpg"
   },
   {
     "title": "Pair of puppies, ca. 1910",
@@ -384,7 +384,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3403/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3403/default.jpg"
   },
   {
     "title": "The Silvian Apartments on E. Harrison St., ca. 1910",
@@ -405,7 +405,7 @@
       "-122.320172"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3397/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3397/default.jpg"
   },
   {
     "title": "Man [Walter F. Piper?] on Great Northern Railway Bridge in Index, WA, 1909",
@@ -428,7 +428,7 @@
       "-121.554921"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3406/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3406/default.jpg"
   },
   {
     "title": "Steamships loading cargo at Colman Dock, ca. 1910",
@@ -451,7 +451,7 @@
       "-122.336897"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3400/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3400/default.jpg"
   },
   {
     "title": "Ralph Williams with backpack, ca. 1910",
@@ -472,7 +472,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3404/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3404/default.jpg"
   },
   {
     "title": "The Van Siclen Apartments on 8th Ave., ca. 1910",
@@ -493,7 +493,7 @@
       "-122.329869"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3398/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3398/default.jpg"
   },
   {
     "title": "Sigma Nu Fraternity house, ca. 1910",
@@ -512,7 +512,7 @@
       "-122.311976"
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3399/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3399/default.jpg"
   },
   {
     "title": "Unidentified man on Great Northern Railway Bridge in Index, WA, 1909",
@@ -532,7 +532,7 @@
       "-121.554921"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3408/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3408/default.jpg"
   },
   {
     "title": "Snowy country road with wagon tracks, ca. 1910",
@@ -549,7 +549,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3417/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3417/default.jpg"
   },
   {
     "title": "Group riding horse and wagon in Shelton, WA, ca. 1910",
@@ -570,7 +570,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3409/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3409/default.jpg"
   },
   {
     "title": "Snowy country road, ca. 1910",
@@ -587,7 +587,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3419/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3419/default.jpg"
   },
   {
     "title": "Old logging railway, ca. 1910",
@@ -604,7 +604,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3412/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3412/default.jpg"
   },
   {
     "title": "Country road, ca. 1910",
@@ -620,7 +620,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3411/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3411/default.jpg"
   },
   {
     "title": "Broken log, ca. 1910",
@@ -636,7 +636,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3415/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3415/default.jpg"
   },
   {
     "title": "Country road and barn, ca. 1910",
@@ -654,7 +654,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3414/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3414/default.jpg"
   },
   {
     "title": "View west to Puget Sound, ca. 1910",
@@ -670,7 +670,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3410/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3410/default.jpg"
   },
   {
     "title": "Broken log, ca. 1910",
@@ -686,7 +686,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3416/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3416/default.jpg"
   },
   {
     "title": "Rock slide, ca. 1910",
@@ -702,7 +702,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3418/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3418/default.jpg"
   },
   {
     "title": "Puget Sound with snow, ca. 1910",
@@ -719,7 +719,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3413/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3413/default.jpg"
   },
   {
     "title": "Man and dog at log cabin doorway, ca. 1910",
@@ -737,7 +737,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3423/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3423/default.jpg"
   },
   {
     "title": "Man in Sunset Mine tunnel, ca. 1910",
@@ -758,7 +758,7 @@
       "-121.4648"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3429/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3429/default.jpg"
   },
   {
     "title": "Trees and snow, ca. 1910",
@@ -774,7 +774,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3422/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3422/default.jpg"
   },
   {
     "title": "Back view of house with boy and laundry, ca. 1910",
@@ -793,7 +793,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3426/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3426/default.jpg"
   },
   {
     "title": "View of forest and mountains from Sunset Hill, ca. 1910",
@@ -813,7 +813,7 @@
       "-121.4648"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3431/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3431/default.jpg"
   },
   {
     "title": "Side view of house, ca. 1910",
@@ -829,7 +829,7 @@
       ""
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3425/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3425/default.jpg"
   },
   {
     "title": "Group with cabin and cow, ca. 1910",
@@ -851,7 +851,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3427/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3427/default.jpg"
   },
   {
     "title": "Cabin on lake, ca. 1910",
@@ -868,7 +868,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3421/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3421/default.jpg"
   },
   {
     "title": "Country home, ca. 1910",
@@ -887,7 +887,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3424/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3424/default.jpg"
   },
   {
     "title": "Miners outside Sunset Mine tunnel entrance, ca. 1910",
@@ -908,7 +908,7 @@
       "-121.4648"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3428/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3428/default.jpg"
   },
   {
     "title": "View of forest from Sunset Mine, ca. 1910",
@@ -926,7 +926,7 @@
       "-121.4648"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3430/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3430/default.jpg"
   },
   {
     "title": "Puget Sound and Mount Rainier, ca. 1910",
@@ -943,7 +943,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3420/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3420/default.jpg"
   },
   {
     "title": "Piper home at 1504 18th Ave., ca. 1910",
@@ -962,7 +962,7 @@
       "-122.308459"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3440/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3440/default.jpg"
   },
   {
     "title": "Tracks leading to Sunset mine, ca. 1910",
@@ -981,6 +981,6 @@
       "-121.4648"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3434/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3434/default.jpg"
   }
 ]

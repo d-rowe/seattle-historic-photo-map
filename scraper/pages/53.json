@@ -16,7 +16,7 @@
       "-122.331634"
     ],
     "createdDate": "1944-03-31T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4188/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4188/default.jpg"
   },
   {
     "title": "Streetcar No. 34., ca. 1910Front",
@@ -34,7 +34,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4193/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4193/default.jpg"
   },
   {
     "title": "View from 3rd Ave. and Seneca St., 1875Recto",
@@ -80,8 +80,8 @@
       "47.606502",
       "-122.334938"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2275/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2275/default.jpg"
   },
   {
     "title": "View from Beacon Hill looking north, ca. 1885Recto",
@@ -105,7 +105,7 @@
       "-122.319254"
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2665/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2665/default.jpg"
   },
   {
     "title": "View from Beacon Hill looking north, ca. 1885Recto",
@@ -129,7 +129,7 @@
       "-122.322445"
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2287/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2287/default.jpg"
   },
   {
     "title": "Totem pole in Pioneer Square, ca. 1900Front",
@@ -158,7 +158,7 @@
       "-122.333886"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3818/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3818/default.jpg"
   },
   {
     "title": "Seattle's Shopping Center at 2nd Ave. and Pine St., ca. 1946Front",
@@ -181,7 +181,7 @@
       "-122.339809"
     ],
     "createdDate": "1946-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4207/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4207/default.jpg"
   },
   {
     "title": "View from 2nd Ave. and Virginia St., 1882Recto",
@@ -210,7 +210,7 @@
       "-122.341729"
     ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2284/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2284/default.jpg"
   },
   {
     "title": "The Oasis Restaurant souvenir photograph, June 8, 1948Page 1",
@@ -230,7 +230,7 @@
       "-122.344488"
     ],
     "createdDate": "1948-06-08T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4199/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4199/default.jpg"
   },
   {
     "title": "View from Denny Hill, 1882Recto",
@@ -249,7 +249,7 @@
       ""
     ],
     "createdDate": "1882-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2281/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2281/default.jpg"
   },
   {
     "title": "Suzzallo Library, ca. 1950Front",
@@ -274,8 +274,8 @@
       "-122.30808647.655827",
       "-122.308086"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3815/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3815/default.jpg"
   },
   {
     "title": "View NE from 3rd Ave. and Marion St., ca. 1941Front",
@@ -305,7 +305,7 @@
       "-122.333369"
     ],
     "createdDate": "1941-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3824/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3824/default.jpg"
   },
   {
     "title": "West Seattle Ferry and Seattle Yacht Club anchorage, ca. 1910Front",
@@ -335,7 +335,7 @@
       "-122.382325"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4215/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4215/default.jpg"
   },
   {
     "title": "University of Washington trail through snow, January 1916Front",
@@ -358,8 +358,8 @@
       "-122.3035247.655335",
       "-122.30352"
     ],
-    "createdDate": null,
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3830/default.jpg?highlightTerms="
+    "createdDate": "",
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3830/default.jpg"
   },
   {
     "title": "Snow at 2nd Ave. and Marion St., 1916Front",
@@ -387,7 +387,7 @@
       "-122.334479"
     ],
     "createdDate": "1916-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3827/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3827/default.jpg"
   },
   {
     "title": "Yukon Club souvenir photograph, ca. 1948Page 1",
@@ -408,7 +408,7 @@
       "-122.340466"
     ],
     "createdDate": "1948-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4210/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4210/default.jpg"
   },
   {
     "title": "Town Ranch Restaurant souvenir photograph, March 21, 1945Page 1",
@@ -427,7 +427,7 @@
       "-122.331634"
     ],
     "createdDate": "1945-03-21T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4218/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4218/default.jpg"
   },
   {
     "title": "Storytime at Collins Playfield, ca. 1910",
@@ -453,7 +453,7 @@
       "-122.311574"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4312/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4312/default.jpg"
   },
   {
     "title": "Seattle Central Library Reference Department, ca. 1909",
@@ -477,7 +477,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4310/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4310/default.jpg"
   },
   {
     "title": "Model airplane contest, August 1914",
@@ -497,7 +497,7 @@
       "-122.294889"
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4284/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4284/default.jpg"
   },
   {
     "title": "Seattle Public Library from 4th Ave. and Madison St., ca. 1940",
@@ -525,7 +525,7 @@
       "-122.332984"
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4279/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4279/default.jpg"
   },
   {
     "title": "Georgetown Library Branch, 1912",
@@ -555,7 +555,7 @@
       "-122.315894"
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4274/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4274/default.jpg"
   },
   {
     "title": "Seattle Public Library booth at Child Welfare Exhibit, May 25-31, 1914",
@@ -583,7 +583,7 @@
       "-122.343799"
     ],
     "createdDate": "1914-05-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4276/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4276/default.jpg"
   },
   {
     "title": "Children reading at wading pool, ca. 1915",
@@ -607,7 +607,7 @@
       ""
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4311/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4311/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts and Technology Department, ca. 1914",
@@ -633,7 +633,7 @@
       "-122.332984"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4335/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4335/default.jpg"
   },
   {
     "title": "Children's books in cabinet, ca. 1910",
@@ -652,7 +652,7 @@
       ""
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4319/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4319/default.jpg"
   },
   {
     "title": "Group of children at Collins Playfield Deposit Station, ca. 1912",
@@ -676,7 +676,7 @@
       "-122.311574"
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4333/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4333/default.jpg"
   },
   {
     "title": "Ballard Library Branch, 1910",
@@ -700,7 +700,7 @@
       "-122.383394"
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4334/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4334/default.jpg"
   },
   {
     "title": "Seattle Central Library Bindery, February 1921",
@@ -725,7 +725,7 @@
       "-122.332984"
     ],
     "createdDate": "1921-09-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4332/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4332/default.jpg"
   },
   {
     "title": "Queen Anne Library Branch interior, ca. 1914",
@@ -749,7 +749,7 @@
       "-122.362665"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4318/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4318/default.jpg"
   },
   {
     "title": "Seattle Central Library Reference Department, ca. 1909",
@@ -774,7 +774,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4317/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4317/default.jpg"
   },
   {
     "title": "Library story hour in an unidentified school, ca. 1915",
@@ -799,7 +799,7 @@
       ""
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4309/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4309/default.jpg"
   },
   {
     "title": "Seattle Central Library Children's Room, ca. 1909",
@@ -829,7 +829,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4314/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4314/default.jpg"
   },
   {
     "title": "Library Deposit Station No. 1, Weeds Pharmacy, 1912",
@@ -856,7 +856,7 @@
       "-122.29854"
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4286/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4286/default.jpg"
   },
   {
     "title": "Yesler Library Branch, ca. 1914",
@@ -880,7 +880,7 @@
       "-122.301731"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4290/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4290/default.jpg"
   },
   {
     "title": "Firehouse Deposit Station, ca. 1912",
@@ -900,7 +900,7 @@
       ""
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4295/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4295/default.jpg"
   },
   {
     "title": "Seattle Central Library Order Department, ca. 1909",
@@ -924,7 +924,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4293/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4293/default.jpg"
   },
   {
     "title": "Seattle Central Library 2nd Floor Lobby, ca. 1909",
@@ -945,7 +945,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4294/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4294/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1909",
@@ -970,7 +970,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4330/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4330/default.jpg"
   },
   {
     "title": "Model airplane contest, August 1914",
@@ -990,7 +990,7 @@
       "-122.294889"
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4321/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4321/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1914",
@@ -1014,7 +1014,7 @@
       "-122.332984"
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4328/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4328/default.jpg"
   },
   {
     "title": "Seattle Central Library Reference Department, ca. 1909",
@@ -1037,7 +1037,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4324/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4324/default.jpg"
   },
   {
     "title": "Seattle Central Library Circulation Department, ca. 1909",
@@ -1062,7 +1062,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4325/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4325/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts Department, ca. 1909",
@@ -1090,7 +1090,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4327/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4327/default.jpg"
   },
   {
     "title": "Seattle Central Library Children's Room, ca. 1909",
@@ -1121,7 +1121,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4331/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4331/default.jpg"
   },
   {
     "title": "Seattle Central Library Catalog Department, ca. 1909",
@@ -1146,7 +1146,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4326/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4326/default.jpg"
   },
   {
     "title": "Seattle Central Library Reference Department, ca. 1909",
@@ -1168,7 +1168,7 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4272/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4272/default.jpg"
   },
   {
     "title": "Children reading in classroom, ca. 1915",
@@ -1193,7 +1193,7 @@
       ""
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4278/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4278/default.jpg"
   },
   {
     "title": "Seattle Public Library booth at Child Welfare Exhibit, May 25-31, 1914",
@@ -1221,7 +1221,7 @@
       "-122.343799"
     ],
     "createdDate": "1914-05-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4275/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4275/default.jpg"
   },
   {
     "title": "Seattle Central Library Fine Arts Department, ca. 1909",
@@ -1249,6 +1249,6 @@
       "-122.332984"
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4281/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4281/default.jpg"
   }
 ]

@@ -17,7 +17,7 @@
       ""
     ],
     "createdDate": "1969-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2768/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2768/default.jpg"
   },
   {
     "title": "Harbor Island, 1969",
@@ -44,7 +44,7 @@
       "-122.359849"
     ],
     "createdDate": "1969-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2765/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2765/default.jpg"
   },
   {
     "title": "Central Branch, Seattle Public Library, 1906",
@@ -67,7 +67,7 @@
       "-122.332984"
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2750/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2750/default.jpg"
   },
   {
     "title": "Three views of Seattle Central Library, 1960",
@@ -92,7 +92,7 @@
       "-122.332984"
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2758/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2758/default.jpg"
   },
   {
     "title": "Children's area in the Lake City Branch, Seattle Public Library,  1967",
@@ -114,7 +114,7 @@
       "-122.298113"
     ],
     "createdDate": "1967-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2760/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2760/default.jpg"
   },
   {
     "title": "Century 21 promotional aerial view, 1961",
@@ -140,7 +140,7 @@
       "-122.358014"
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2752/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2752/default.jpg"
   },
   {
     "title": "King County Poor Farm, ca. 1877",
@@ -158,7 +158,7 @@
       ""
     ],
     "createdDate": "1877-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2751/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2751/default.jpg"
   },
   {
     "title": "Century 21 model, Pacific Science Center, 1962",
@@ -184,7 +184,7 @@
       "-122.351371"
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2753/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2753/default.jpg"
   },
   {
     "title": "Bronze repoussé altar rail St. Catherine Church, 1959",
@@ -203,7 +203,7 @@
       "-122.319466"
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2772/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2772/default.jpg"
   },
   {
     "title": "Montlake Branch, Seattle Public Library, 1966",
@@ -222,7 +222,7 @@
       "-122.301791"
     ],
     "createdDate": "1966-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2773/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2773/default.jpg"
   },
   {
     "title": "Beacon Hill Station, Seattle Public Library, ca. 1962",
@@ -242,7 +242,7 @@
       "-122.31369"
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2774/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2774/default.jpg"
   },
   {
     "title": "University Branch, Seattle Public Library, August 12, 1987",
@@ -262,7 +262,7 @@
       "-122.317912"
     ],
     "createdDate": "1987-08-12T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2803/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2803/default.jpg"
   },
   {
     "title": "Columbia City Branch, Seattle Public Library, 1925",
@@ -281,7 +281,7 @@
       "-122.286959"
     ],
     "createdDate": "1925-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2806/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2806/default.jpg"
   },
   {
     "title": "Franklin High School Glee Club \"Princess Bonnie\" cast, Spring 1921",
@@ -299,7 +299,7 @@
       "-122.292813"
     ],
     "createdDate": "1921-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2801/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2801/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, ca. 1929",
@@ -320,7 +320,7 @@
       "-122.326659"
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2804/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2804/default.jpg"
   },
   {
     "title": "Green Lake Branch, Seattle Public Library, 1929",
@@ -341,7 +341,7 @@
       "-122.326659"
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2802/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2802/default.jpg"
   },
   {
     "title": "Queen Anne Branch, Seattle Public Library, ca. 1925",
@@ -361,7 +361,7 @@
       "-122.362665"
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2805/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2805/default.jpg"
   },
   {
     "title": "Man standing on empty Viaduct with camera, ca. 1953",
@@ -384,7 +384,7 @@
       "-122.338808"
     ],
     "createdDate": "1953-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2807/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2807/default.jpg"
   },
   {
     "title": "Space Needle and monorail, 1969",
@@ -404,7 +404,7 @@
       "-122.347419"
     ],
     "createdDate": "1969-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2799/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2799/default.jpg"
   },
   {
     "title": "Camera perched on edge of Viaduct, ca. 1953",
@@ -426,7 +426,7 @@
       "-122.338808"
     ],
     "createdDate": "1953-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2808/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2808/default.jpg"
   },
   {
     "title": "William Bloch's son and dog, ca. 1894",
@@ -446,7 +446,7 @@
       "-122.313839"
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2814/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2814/default.jpg"
   },
   {
     "title": "Bloch family portrait, ca. 1905",
@@ -466,7 +466,7 @@
       "-122.313839"
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2815/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2815/default.jpg"
   },
   {
     "title": "Six columns, ca. 1920",
@@ -481,7 +481,7 @@
       ""
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2839/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2839/default.jpg"
   },
   {
     "title": "William and Minna Bloch, ca. 1900",
@@ -502,7 +502,7 @@
       "-122.313839"
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2816/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2816/default.jpg"
   },
   {
     "title": "Candlelight vigil in University District, ca. 1970",
@@ -518,7 +518,7 @@
       ""
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2812/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2812/default.jpg"
   },
   {
     "title": "Bussell residence, ca. 1910",
@@ -538,7 +538,7 @@
       "-122.286716"
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2817/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2817/default.jpg"
   },
   {
     "title": "Blasting the old court house cupola, January 14, 1931",
@@ -556,7 +556,7 @@
       "-122.32477"
     ],
     "createdDate": "1941-01-14T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2811/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2811/default.jpg"
   },
   {
     "title": "Sobey Manufacturing Company workers, ca. 1915",
@@ -575,7 +575,7 @@
       "-122.391405"
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2818/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2818/default.jpg"
   },
   {
     "title": "Orion O. Denny, ca. 1890",
@@ -593,7 +593,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2810/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2810/default.jpg"
   },
   {
     "title": "Children outside Denny Hall, 1895",
@@ -614,7 +614,7 @@
       "-122.308833"
     ],
     "createdDate": "1895-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2819/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2819/default.jpg"
   },
   {
     "title": "Group standing on empty Viaduct with photography equipment, ca. 1953",
@@ -638,7 +638,7 @@
       "-122.338808"
     ],
     "createdDate": "1953-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2809/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2809/default.jpg"
   },
   {
     "title": "Yeichi Nimura in \"Spear Episode,\" 1937",
@@ -655,7 +655,7 @@
       ""
     ],
     "createdDate": "1937-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2844/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2844/default.jpg"
   },
   {
     "title": "Women advertising 5th Ave. Theatre program, November 1927",
@@ -675,7 +675,7 @@
       "-122.328349"
     ],
     "createdDate": "1927-11-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2834/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2834/default.jpg"
   },
   {
     "title": "University of Washington crew team, 1953",
@@ -695,7 +695,7 @@
       "-122.255756"
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2837/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2837/default.jpg"
   },
   {
     "title": "Yeichi Nimura in \"Javanesque,\" 1937",
@@ -712,7 +712,7 @@
       ""
     ],
     "createdDate": "1937-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2842/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2842/default.jpg"
   },
   {
     "title": "Yeichi Nimura and Lisan Kay in \"Figures of Earth,\" 1934",
@@ -730,7 +730,7 @@
       ""
     ],
     "createdDate": "1934-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2841/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2841/default.jpg"
   },
   {
     "title": "Yeichi Nimura and Lisan Kay in \"Figures of Earth,\" 1934",
@@ -748,7 +748,7 @@
       ""
     ],
     "createdDate": "1934-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2840/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2840/default.jpg"
   },
   {
     "title": "Hotel Seattle, ca. 1894",
@@ -776,7 +776,7 @@
       "-122.334076"
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2838/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2838/default.jpg"
   },
   {
     "title": "Yeichi Nimura in \"Javanesque,\" 1937",
@@ -793,7 +793,7 @@
       ""
     ],
     "createdDate": "1937-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2843/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2843/default.jpg"
   },
   {
     "title": "Anti-war protesters and state troopers blocking Interstate 5, May 5, 1970",
@@ -813,7 +813,7 @@
       "-122.323387"
     ],
     "createdDate": "1970-05-05T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2821/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2821/default.jpg"
   },
   {
     "title": "Ships in harbor, ca. 1905",
@@ -830,7 +830,7 @@
       ""
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2867/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2867/default.jpg"
   },
   {
     "title": "Anti-war protesters blocking Interstate 5, May 5, 1970",
@@ -849,7 +849,7 @@
       "-122.322772"
     ],
     "createdDate": "1970-05-05T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2820/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2820/default.jpg"
   },
   {
     "title": "1st Ave. looking north from Cherry St., ca. 1876",
@@ -876,7 +876,7 @@
       "-122.334303"
     ],
     "createdDate": "1876-01-01T07:52:58.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2826/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2826/default.jpg"
   },
   {
     "title": "Group gathered in Fremont, ca. 1911",
@@ -898,7 +898,7 @@
       ""
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2827/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2827/default.jpg"
   },
   {
     "title": "First Presbyterian Church at 3rd Ave. and Madison St., 1889",
@@ -920,7 +920,7 @@
       "-122.333832"
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2825/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2825/default.jpg"
   },
   {
     "title": "Cattle team and workers on skid road, ca. 1890",
@@ -938,7 +938,7 @@
       ""
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2828/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2828/default.jpg"
   },
   {
     "title": "Portrait of Yeichi Nimura, 1949",
@@ -954,7 +954,7 @@
       ""
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2847/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2847/default.jpg"
   },
   {
     "title": "Portrait of Yeichi Nimura and cat, 1949",
@@ -971,7 +971,7 @@
       ""
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2846/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2846/default.jpg"
   },
   {
     "title": "Yeichi Nimura in \"Spear Episode,\" 1937",
@@ -988,7 +988,7 @@
       ""
     ],
     "createdDate": "1937-01-01T00:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2845/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2845/default.jpg"
   },
   {
     "title": "Girls standing outside of Madrona School, ca. 1920",
@@ -1008,6 +1008,6 @@
       "-122.290342"
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
-    "imageURL": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2824/default.jpg?highlightTerms="
+    "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2824/default.jpg"
   }
 ]
