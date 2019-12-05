@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "client": "npm start --prefix client",
-    "scraper": "npm start --prefix scraper",
+    "scrape": "npm start --prefix scraper",
     "client-install": "npm install --prefix client",
     "scraper-install": "npm install --prefix scraper",
     "test": "echo \"Error: no test specified\" && exit 1"
