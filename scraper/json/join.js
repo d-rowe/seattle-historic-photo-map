@@ -20,6 +20,14 @@ let totalEntries = joined.length;
 // Remove entries without coordinate data
 joined = joined.filter(entry => entry.coordinates[0] !== "");
 
+// Remove extra rounded coordinate(s)
+for (let i = 0; i < joined.length; i++) {
+  let { length } = joined[i].coordinates;
+  if (length > 2) {
+    joined[i].coordinates.splice(2, length);
+  }
+}
+
 let numOmitted = totalEntries - joined.length;
 
 fs.writeFile("historic-photos.json", JSON.stringify(joined, null, 2), function(
