@@ -15,7 +15,7 @@ const geoJSON = joined.map(entry => {
 });
 
 fs.writeFile(
-  "../../client/src/geoJSON/photos.json",
+  "../../src/geoJSON/photos.json",
   JSON.stringify(geoJSON, null, 2),
   function(err) {
     if (err) {
