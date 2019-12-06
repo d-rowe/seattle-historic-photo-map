@@ -14,7 +14,7 @@
     "photographer": "Williamson, Joe D.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2970/default.jpg"
@@ -32,7 +32,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2968/default.jpg"
@@ -53,8 +53,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1935-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2969/default.jpg"
@@ -72,7 +72,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2971/default.jpg"
@@ -91,8 +91,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.639629",
-      "-122.333268"
+      47.639629,
+      -122.333268
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2975/default.jpg"
@@ -111,8 +111,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.659565",
-      "-122.312821"
+      47.659565,
+      -122.312821
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2965/default.jpg"
@@ -134,8 +134,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.600775 ",
-      "-122.288069"
+      47.600775,
+      -122.288069
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2972/default.jpg"
@@ -155,7 +155,7 @@
     "photographer": "Air Corps, U.S. Army",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1938-03-23T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2967/default.jpg"
@@ -176,8 +176,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-05-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2976/default.jpg"
@@ -196,8 +196,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2979/default.jpg"
@@ -218,8 +218,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2987/default.jpg"
@@ -240,8 +240,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-05-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2982/default.jpg"
@@ -260,8 +260,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2978/default.jpg"
@@ -283,8 +283,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2977/default.jpg"
@@ -305,8 +305,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-05-21T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2980/default.jpg"
@@ -327,8 +327,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-05-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2983/default.jpg"
@@ -344,8 +344,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-12-04T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2985/default.jpg"
@@ -367,8 +367,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-05-21T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2981/default.jpg"
@@ -389,8 +389,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-04-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2986/default.jpg"
@@ -411,8 +411,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-01-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2984/default.jpg"
@@ -433,8 +433,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1972-03-04T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2988/default.jpg"
@@ -455,8 +455,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-06-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2990/default.jpg"
@@ -477,8 +477,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1967-09-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2993/default.jpg"
@@ -499,8 +499,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-04-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2989/default.jpg"
@@ -521,8 +521,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1967-09-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2992/default.jpg"
@@ -543,8 +543,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1967-09-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2994/default.jpg"
@@ -564,8 +564,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1964-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2997/default.jpg"
@@ -586,8 +586,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1967-09-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2995/default.jpg"
@@ -608,8 +608,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1967-09-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2996/default.jpg"
@@ -628,8 +628,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-12-04T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2998/default.jpg"
@@ -649,8 +649,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-11-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2991/default.jpg"
@@ -671,8 +671,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-06-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2999/default.jpg"
@@ -693,8 +693,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1971-01-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3000/default.jpg"
@@ -714,8 +714,8 @@
     "photographer": "",
     "intersection": "NE 41st St. and Brooklyn Ave.",
     "coordinates": [
-      "47.658134",
-      "-122.314038"
+      47.658134,
+      -122.314038
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3003/default.jpg"
@@ -737,8 +737,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660424",
-      "-122.312818"
+      47.660424,
+      -122.312818
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3009/default.jpg"
@@ -763,8 +763,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3006/default.jpg"
@@ -783,7 +783,7 @@
     "photographer": "",
     "intersection": "NE 41st St. and Brooklyn Ave.",
     "coordinates": [
-      "47.658134; -122.314038"
+      47.658134
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3010/default.jpg"
@@ -810,8 +810,8 @@
     "photographer": "",
     "intersection": "NE 41st St. and University Way NE",
     "coordinates": [
-      "47.657189",
-      "-122.312951"
+      47.657189,
+      -122.312951
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3005/default.jpg"
@@ -829,8 +829,8 @@
     "photographer": "",
     "intersection": "NE 41st St. and University Way NE",
     "coordinates": [
-      "47.656669",
-      "-122.313469"
+      47.656669,
+      -122.313469
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3004/default.jpg"
@@ -855,8 +855,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3008/default.jpg"
@@ -879,8 +879,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3007/default.jpg"
@@ -901,8 +901,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-04-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3002/default.jpg"
@@ -921,8 +921,8 @@
     "photographer": "",
     "intersection": "NE 41st St. and Brooklyn Ave.",
     "coordinates": [
-      "47.658134",
-      "-122.314038"
+      47.658134,
+      -122.314038
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3011/default.jpg"
@@ -943,8 +943,8 @@
     "photographer": "Lockheed Shipbuilding and Construction Company",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1970-04-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3001/default.jpg"
@@ -962,8 +962,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.677173",
-      "-122.290026"
+      47.677173,
+      -122.290026
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3023/default.jpg"
@@ -987,8 +987,8 @@
     "photographer": "",
     "intersection": "NE 45th Street and University Way NE",
     "coordinates": [
-      "47.661271",
-      "-122.313772"
+      47.661271,
+      -122.313772
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3018/default.jpg"
@@ -1007,8 +1007,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.678001",
-      "-122.290696"
+      47.678001,
+      -122.290696
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3021/default.jpg"
@@ -1026,8 +1026,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.672179",
-      "-122.311252"
+      47.672179,
+      -122.311252
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3015/default.jpg"
@@ -1053,8 +1053,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3017/default.jpg"
@@ -1074,8 +1074,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.677189",
-      "-122.291005"
+      47.677189,
+      -122.291005
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3022/default.jpg"

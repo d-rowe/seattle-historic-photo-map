@@ -11,7 +11,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2206/default.jpg"
@@ -27,7 +27,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2207/default.jpg"
@@ -45,7 +45,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1874-05-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2213/default.jpg"
@@ -67,8 +67,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2216/default.jpg"
@@ -88,8 +88,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600877",
-      "-122.328984"
+      47.600877,
+      -122.328984
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2214/default.jpg"
@@ -105,7 +105,7 @@
     "photographer": "Peiser, Theodore, E.Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1868-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2210/default.jpg"
@@ -143,8 +143,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Stewart St.",
     "coordinates": [
-      "47.611642",
-      "-122.339576"
+      47.611642,
+      -122.339576
     ],
     "createdDate": "1902-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2218/default.jpg"
@@ -163,8 +163,8 @@
     "photographer": "Sammis, E.M.Curtis, Asahel, 1874-1941",
     "intersection": "S. Jackson St. and Occidental Ave. S.",
     "coordinates": [
-      "47.59927",
-      "-122.332436"
+      47.59927,
+      -122.332436
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2211/default.jpg"
@@ -185,8 +185,8 @@
     "photographer": "",
     "intersection": "Pike St. and Western Ave.",
     "coordinates": [
-      "47.608413",
-      "-122.341185"
+      47.608413,
+      -122.341185
     ],
     "createdDate": "1881-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2219/default.jpg"
@@ -203,7 +203,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1911-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2212/default.jpg"
@@ -233,8 +233,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "1st Ave. and Pike St.",
     "coordinates": [
-      "47.608863",
-      "-122.340071"
+      47.608863,
+      -122.340071
     ],
     "createdDate": "1893-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2217/default.jpg"
@@ -250,7 +250,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1860-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2208/default.jpg"
@@ -266,7 +266,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2209/default.jpg"
@@ -285,8 +285,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1880-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2215/default.jpg"
@@ -305,8 +305,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way and Yesler Way",
     "coordinates": [
-      "47.601735",
-      "-122.336591"
+      47.601735,
+      -122.336591
     ],
     "createdDate": "1879-07-26T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2225/default.jpg"
@@ -326,7 +326,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2228/default.jpg"
@@ -349,8 +349,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way and Yesler Way",
     "coordinates": [
-      "47.601735",
-      "-122.336591"
+      47.601735,
+      -122.336591
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2222/default.jpg"
@@ -374,8 +374,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2226/default.jpg"
@@ -391,7 +391,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2230/default.jpg"
@@ -409,8 +409,8 @@
     "photographer": "Sammis, E.M.Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. and University St.",
     "coordinates": [
-      "47.608214",
-      "-122.334896"
+      47.608214,
+      -122.334896
     ],
     "createdDate": "1862-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2223/default.jpg"
@@ -428,7 +428,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2231/default.jpg"
@@ -460,8 +460,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "1st Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600046",
-      "-122.334125"
+      47.600046,
+      -122.334125
     ],
     "createdDate": "1879-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2224/default.jpg"
@@ -481,7 +481,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2229/default.jpg"
@@ -507,8 +507,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2220/default.jpg"
@@ -541,8 +541,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Pine St.",
     "coordinates": [
-      "47.610276",
-      "-122.339809"
+      47.610276,
+      -122.339809
     ],
     "createdDate": "1912-07-20T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2221/default.jpg"
@@ -574,8 +574,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Post Ave. and Yesler Way",
     "coordinates": [
-      "47.601737",
-      "-122.334876"
+      47.601737,
+      -122.334876
     ],
     "createdDate": "1882-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2227/default.jpg"
@@ -594,8 +594,8 @@
     "photographer": "",
     "intersection": "47.607427, -122.370833",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1868-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2232/default.jpg"
@@ -612,7 +612,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2238/default.jpg"
@@ -629,7 +629,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2236/default.jpg"
@@ -646,7 +646,7 @@
     "photographer": "James & Merrihew",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1926-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2240/default.jpg"
@@ -663,7 +663,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1908-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2239/default.jpg"
@@ -681,7 +681,7 @@
     "photographer": "Moffett Studio",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2237/default.jpg"
@@ -698,7 +698,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1906-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2235/default.jpg"
@@ -734,8 +734,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      "-122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1888-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2243/default.jpg"
@@ -752,7 +752,7 @@
     "photographer": "James & Merrihew",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2241/default.jpg"
@@ -769,7 +769,7 @@
     "photographer": "Mushet Studio",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1923-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2234/default.jpg"
@@ -788,8 +788,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Columbia St.",
     "coordinates": [
-      "47.604191",
-      "-122.332588"
+      47.604191,
+      -122.332588
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2233/default.jpg"
@@ -806,7 +806,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2242/default.jpg"
@@ -825,7 +825,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1904-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2244/default.jpg"
@@ -854,8 +854,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "James St. and Yesler Way",
     "coordinates": [
-      "47.601722",
-      "-122.333686"
+      47.601722,
+      -122.333686
     ],
     "createdDate": "1882-01-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2246/default.jpg"
@@ -881,8 +881,8 @@
     "photographer": "",
     "intersection": "4th Ave. and Union St.",
     "coordinates": [
-      "47.609131",
-      "-122.336182"
+      47.609131,
+      -122.336182
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2247/default.jpg"
@@ -900,8 +900,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1871-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2253/default.jpg"
@@ -920,8 +920,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. and University St.",
     "coordinates": [
-      "47.608214",
-      "-122.334896"
+      47.608214,
+      -122.334896
     ],
     "createdDate": "1883-09-14T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2251/default.jpg"
@@ -944,8 +944,8 @@
     "photographer": "",
     "intersection": "NE 72nd St. and E. Green Lake Dr. N.",
     "coordinates": [
-      "47.680305",
-      "-122.325836"
+      47.680305,
+      -122.325836
     ],
     "createdDate": "1898-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2249/default.jpg"
@@ -964,8 +964,8 @@
     "photographer": "Sammis, E.M.Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. and University St.",
     "coordinates": [
-      "47.608214",
-      "-122.334896"
+      47.608214,
+      -122.334896
     ],
     "createdDate": "1864-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2252/default.jpg"
@@ -989,8 +989,8 @@
     "photographer": "",
     "intersection": "7th Ave. and Alder St.",
     "coordinates": [
-      "47.602561",
-      "-122.32477"
+      47.602561,
+      -122.32477
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2250/default.jpg"
@@ -1011,8 +1011,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd and Madison St.",
     "coordinates": [
-      "47.605627",
-      "-122.334012"
+      47.605627,
+      -122.334012
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2248/default.jpg"
@@ -1032,8 +1032,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and University St.",
     "coordinates": [
-      "47.607761",
-      " -122.335979"
+      47.607761,
+      -122.335979
     ],
     "createdDate": "1892-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2245/default.jpg"
@@ -1055,8 +1055,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "Valley St. and Warren Ave. N.",
     "coordinates": [
-      "47.626245",
-      "-122.35409"
+      47.626245,
+      -122.35409
     ],
     "createdDate": "1964-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2311/default.jpg"
@@ -1079,8 +1079,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Seneca St.",
     "coordinates": [
-      "47.60522",
-      "-122.339758"
+      47.60522,
+      -122.339758
     ],
     "createdDate": "1898-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2315/default.jpg"

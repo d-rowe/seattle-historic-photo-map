@@ -25,8 +25,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      " -122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1880-01-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3193/default.jpg"
@@ -53,8 +53,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1886-05-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3197/default.jpg"
@@ -83,8 +83,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "2nd Ave. and Pine St.",
     "coordinates": [
-      "47.610276",
-      "-122.339809"
+      47.610276,
+      -122.339809
     ],
     "createdDate": "1882-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3198/default.jpg"
@@ -104,8 +104,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and Yesler Way",
     "coordinates": [
-      "47.601733",
-      "-122.333974"
+      47.601733,
+      -122.333974
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3194/default.jpg"
@@ -125,7 +125,7 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3203/default.jpg"
@@ -151,8 +151,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "2nd Ave. and Yesler Way",
     "coordinates": [
-      "47.601716",
-      "-122.331999"
+      47.601716,
+      -122.331999
     ],
     "createdDate": "1874-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3196/default.jpg"
@@ -175,8 +175,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3136/default.jpg"
@@ -201,8 +201,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.654017",
-      "-122.318926"
+      47.654017,
+      -122.318926
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3133/default.jpg"
@@ -222,8 +222,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3140/default.jpg"
@@ -247,8 +247,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.654451",
-      "-122.319036"
+      47.654451,
+      -122.319036
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3137/default.jpg"
@@ -276,8 +276,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3139/default.jpg"
@@ -296,8 +296,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655068",
-      "-122.317808"
+      47.655068,
+      -122.317808
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3135/default.jpg"
@@ -319,8 +319,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3138/default.jpg"
@@ -340,8 +340,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3141/default.jpg"
@@ -365,8 +365,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3142/default.jpg"
@@ -388,8 +388,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3134/default.jpg"
@@ -411,8 +411,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.653971",
-      "-122.319367"
+      47.653971,
+      -122.319367
     ],
     "createdDate": "1984-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3143/default.jpg"
@@ -436,8 +436,8 @@
     "photographer": "",
     "intersection": "Boat St. NE and NE Pacific St.",
     "coordinates": [
-      "47.65372",
-      "-122.317373"
+      47.65372,
+      -122.317373
     ],
     "createdDate": "1984-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3132/default.jpg"
@@ -462,8 +462,8 @@
     "photographer": "",
     "intersection": "NE 50th St. and University Way NE.",
     "coordinates": [
-      "47.664784",
-      "-122.312852"
+      47.664784,
+      -122.312852
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3169/default.jpg"
@@ -488,8 +488,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3179/default.jpg"
@@ -509,8 +509,8 @@
     "photographer": "",
     "intersection": "University Way NE and NE 50th St.",
     "coordinates": [
-      "47.665895",
-      "-122.313624"
+      47.665895,
+      -122.313624
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3170/default.jpg"
@@ -531,8 +531,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3099/default.jpg"
@@ -554,8 +554,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3101/default.jpg"
@@ -578,8 +578,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3097/default.jpg"
@@ -601,8 +601,8 @@
     "photographer": "",
     "intersection": "NE 47th St. and Brooklyn Ave. NE",
     "coordinates": [
-      "47.662942",
-      "-122.313796"
+      47.662942,
+      -122.313796
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3107/default.jpg"
@@ -620,8 +620,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. and Battery St.",
     "coordinates": [
-      "47.614107",
-      "-122.347757"
+      47.614107,
+      -122.347757
     ],
     "createdDate": "1888-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3206/default.jpg"
@@ -644,8 +644,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.661625",
-      "-122.317455"
+      47.661625,
+      -122.317455
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3111/default.jpg"
@@ -663,8 +663,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665244",
-      "-122.317883"
+      47.665244,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3116/default.jpg"
@@ -685,8 +685,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 50th St.",
     "coordinates": [
-      "47.664745",
-      "-122.317794"
+      47.664745,
+      -122.317794
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3119/default.jpg"
@@ -708,8 +708,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.663581",
-      "-122.31741"
+      47.663581,
+      -122.31741
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3110/default.jpg"
@@ -729,8 +729,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665245",
-      "-122.317883"
+      47.665245,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3113/default.jpg"
@@ -751,8 +751,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.664788",
-      "-122.317651"
+      47.664788,
+      -122.317651
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3112/default.jpg"
@@ -772,8 +772,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665245",
-      "-122.317883"
+      47.665245,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3115/default.jpg"
@@ -794,8 +794,8 @@
     "photographer": "",
     "intersection": "15th Ave. NE and NE 45th St.",
     "coordinates": [
-      "47.661268",
-      "-122.311939"
+      47.661268,
+      -122.311939
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3178/default.jpg"
@@ -813,8 +813,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.663646",
-      "-122.309145"
+      47.663646,
+      -122.309145
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3171/default.jpg"
@@ -837,8 +837,8 @@
     "photographer": "",
     "intersection": "15th Ave. NE and NE 45th St.",
     "coordinates": [
-      "47.660814",
-      "-122.31236"
+      47.660814,
+      -122.31236
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3177/default.jpg"
@@ -858,8 +858,8 @@
     "photographer": "",
     "intersection": "17th Avenue NE and NE 47th St.",
     "coordinates": [
-      "47.66401",
-      "-122.309947"
+      47.66401,
+      -122.309947
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3172/default.jpg"
@@ -876,7 +876,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3176/default.jpg"
@@ -895,8 +895,8 @@
     "photographer": "",
     "intersection": "16th Ave. NE and NE 47th St.",
     "coordinates": [
-      "47.662858",
-      "-122.311578"
+      47.662858,
+      -122.311578
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3173/default.jpg"
@@ -915,8 +915,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.662858",
-      "-122.311578"
+      47.662858,
+      -122.311578
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3175/default.jpg"
@@ -937,8 +937,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3074/default.jpg"
@@ -958,8 +958,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3073/default.jpg"
@@ -978,8 +978,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.658393",
-      "-122.308833"
+      47.658393,
+      -122.308833
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3082/default.jpg"
@@ -998,8 +998,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.658393",
-      "-122.308833"
+      47.658393,
+      -122.308833
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3079/default.jpg"
@@ -1020,8 +1020,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.650009",
-      "-122.316113"
+      47.650009,
+      -122.316113
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3083/default.jpg"
@@ -1040,8 +1040,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.656817",
-      "-122.306563"
+      47.656817,
+      -122.306563
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3076/default.jpg"
@@ -1062,8 +1062,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3075/default.jpg"
@@ -1081,7 +1081,7 @@
     "photographer": "Williamson, Joe D.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2966/default.jpg"
@@ -1099,8 +1099,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666705",
-      "-122.398068"
+      47.666705,
+      -122.398068
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2973/default.jpg"
@@ -1116,8 +1116,8 @@
     "photographer": "Krantz, Ray",
     "intersection": "",
     "coordinates": [
-      "47.657537",
-      "-122.366517"
+      47.657537,
+      -122.366517
     ],
     "createdDate": "1943-10-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2974/default.jpg"

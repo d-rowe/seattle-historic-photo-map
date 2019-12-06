@@ -17,8 +17,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.617012",
-      "-122.319131"
+      47.617012,
+      -122.319131
     ],
     "createdDate": "1903-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1569/default.jpg"
@@ -37,8 +37,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.610412",
-      "-122.328616"
+      47.610412,
+      -122.328616
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1186/default.jpg"
@@ -58,8 +58,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6659",
-      "-122.318464"
+      47.6659,
+      -122.318464
     ],
     "createdDate": "1951-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1184/default.jpg"
@@ -78,8 +78,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "8th Ave. and Seneca St.",
     "coordinates": [
-      "47.60936",
-      "-122.329774"
+      47.60936,
+      -122.329774
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1182/default.jpg"
@@ -104,8 +104,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "Maynard Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597519",
-      "-122.325063"
+      47.597519,
+      -122.325063
     ],
     "createdDate": "1908-10-30T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1566/default.jpg"
@@ -132,8 +132,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way",
     "coordinates": [
-      "47.661282",
-      "-122.313145"
+      47.661282,
+      -122.313145
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1568/default.jpg"
@@ -155,8 +155,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "8th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597512",
-      "-122.322458"
+      47.597512,
+      -122.322458
     ],
     "createdDate": "1908-03-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1564/default.jpg"
@@ -177,8 +177,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. and Spring St.",
     "coordinates": [
-      "47.608196",
-      "-122.330226"
+      47.608196,
+      -122.330226
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1180/default.jpg"
@@ -202,8 +202,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "6th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597518",
-      "-122.326369"
+      47.597518,
+      -122.326369
     ],
     "createdDate": "1908-07-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1561/default.jpg"
@@ -226,8 +226,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. and Jefferson St.",
     "coordinates": [
-      "47.602993",
-      "-122.328553"
+      47.602993,
+      -122.328553
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1181/default.jpg"
@@ -246,8 +246,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.618361",
-      "-122.31174"
+      47.618361,
+      -122.31174
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1185/default.jpg"
@@ -266,8 +266,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.605127",
-      "-122.326347"
+      47.605127,
+      -122.326347
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1177/default.jpg"
@@ -289,7 +289,7 @@
     "photographer": "Lewis & Wiley",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1909-08-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1563/default.jpg"
@@ -309,8 +309,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Pine St.",
     "coordinates": [
-      "47.610823",
-      "-122.338668"
+      47.610823,
+      -122.338668
     ],
     "createdDate": "1887-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1570/default.jpg"
@@ -334,8 +334,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "",
     "coordinates": [
-      "47.597911",
-      "-122.317246"
+      47.597911,
+      -122.317246
     ],
     "createdDate": "1908-04-09T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1567/default.jpg"
@@ -363,8 +363,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Pike St.2nd Ave. and Marion",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1916-02-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1183/default.jpg"
@@ -384,8 +384,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.605536",
-      "-122.331186"
+      47.605536,
+      -122.331186
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1178/default.jpg"
@@ -408,8 +408,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "6th Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.611141",
-      "-122.334465"
+      47.611141,
+      -122.334465
     ],
     "createdDate": "1908-06-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1562/default.jpg"
@@ -431,8 +431,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "7th Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.599238",
-      "-122.323767"
+      47.599238,
+      -122.323767
     ],
     "createdDate": "1908-10-30T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1565/default.jpg"
@@ -449,8 +449,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.592808",
-      "-122.315956"
+      47.592808,
+      -122.315956
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1187/default.jpg"
@@ -471,8 +471,8 @@
     "photographer": "",
     "intersection": "4th Ave. and University St.",
     "coordinates": [
-      "47.608214",
-      "-122.334896"
+      47.608214,
+      -122.334896
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1571/default.jpg"
@@ -497,8 +497,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.608851",
-      "-122.334309"
+      47.608851,
+      -122.334309
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1188/default.jpg"
@@ -519,8 +519,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1880-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1572/default.jpg"
@@ -545,7 +545,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1916-02-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1573/default.jpg"
@@ -571,8 +571,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Pike St.",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1916-02-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1195/default.jpg"
@@ -594,7 +594,7 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1194/default.jpg"
@@ -617,7 +617,7 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1196/default.jpg"
@@ -641,8 +641,8 @@
     "photographer": "",
     "intersection": "15th Ave. W. and W. Ruffner St.",
     "coordinates": [
-      "47.652175",
-      "-122.376186"
+      47.652175,
+      -122.376186
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1192/default.jpg"
@@ -671,8 +671,8 @@
     "photographer": "",
     "intersection": "4th Ave. and Pike St.",
     "coordinates": [
-      "47.610212",
-      "-122.336685"
+      47.610212,
+      -122.336685
     ],
     "createdDate": "1916-02-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1190/default.jpg"
@@ -703,8 +703,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Yesler Way",
     "coordinates": [
-      "47.601716",
-      "-122.331999"
+      47.601716,
+      -122.331999
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1193/default.jpg"
@@ -729,8 +729,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.580276",
-      "-122.376688"
+      47.580276,
+      -122.376688
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1191/default.jpg"
@@ -758,8 +758,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "2nd Ave. and Yesler Way",
     "coordinates": [
-      "47.601716",
-      "-122.331999"
+      47.601716,
+      -122.331999
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1197/default.jpg"
@@ -791,8 +791,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.608463",
-      "-122.334313"
+      47.608463,
+      -122.334313
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1189/default.jpg"
@@ -810,8 +810,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.582689",
-      "-122.384696"
+      47.582689,
+      -122.384696
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1199/default.jpg"
@@ -832,7 +832,7 @@
     "photographer": "Gilbert, C.M.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1198/default.jpg"
@@ -849,8 +849,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665244",
-      "-122.317883"
+      47.665244,
+      -122.317883
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1200/default.jpg"
@@ -869,8 +869,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Marion St.",
     "coordinates": [
-      "47.605022",
-      "-122.333651"
+      47.605022,
+      -122.333651
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1203/default.jpg"
@@ -889,8 +889,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1926-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1209/default.jpg"
@@ -913,8 +913,8 @@
     "photographer": "Nowell, Frank H., 1864-1950",
     "intersection": "",
     "coordinates": [
-      "47.652480",
-      "-122.305459"
+      47.65248,
+      -122.305459
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1206/default.jpg"
@@ -941,8 +941,8 @@
     "photographer": "Haines, J.C.Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1201/default.jpg"
@@ -963,8 +963,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. and University St.",
     "coordinates": [
-      "47.608214",
-      "-122.334896"
+      47.608214,
+      -122.334896
     ],
     "createdDate": "1901-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1204/default.jpg"
@@ -986,8 +986,8 @@
     "photographer": "",
     "intersection": "Pine St. and Terry Ave.",
     "coordinates": [
-      "47.614033",
-      "-122.330874"
+      47.614033,
+      -122.330874
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1210/default.jpg"
@@ -1009,8 +1009,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.656067",
-      "-122.311130"
+      47.656067,
+      -122.31113
     ],
     "createdDate": "1939-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1207/default.jpg"
@@ -1035,8 +1035,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1913-09-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1208/default.jpg"
@@ -1057,8 +1057,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.601651",
-      "-122.285652"
+      47.601651,
+      -122.285652
     ],
     "createdDate": "1888-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1202/default.jpg"
@@ -1078,8 +1078,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1205/default.jpg"
@@ -1103,8 +1103,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.611477",
-      "-122.340308"
+      47.611477,
+      -122.340308
     ],
     "createdDate": "1903-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1211/default.jpg"
@@ -1125,8 +1125,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Stewart St. and Terry Ave.",
     "coordinates": [
-      "47.616279",
-      "-122.333579"
+      47.616279,
+      -122.333579
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1218/default.jpg"
@@ -1152,8 +1152,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "3rd Ave. and Union St.",
     "coordinates": [
-      "47.60825",
-      "-122.336548"
+      47.60825,
+      -122.336548
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1216/default.jpg"
@@ -1173,8 +1173,8 @@
     "photographer": "Romans, W.P.",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1906-07-16T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1214/default.jpg"

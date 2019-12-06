@@ -15,7 +15,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-09-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1753/default.jpg"
@@ -37,8 +37,8 @@
     "photographer": "",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1889-06-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1756/default.jpg"
@@ -63,8 +63,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1889-06-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1758/default.jpg"
@@ -83,8 +83,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1919-09-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1754/default.jpg"
@@ -103,8 +103,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1919-09-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1755/default.jpg"
@@ -131,8 +131,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1919-09-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1752/default.jpg"
@@ -152,7 +152,7 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1941-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1760/default.jpg"
@@ -181,7 +181,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1761/default.jpg"
@@ -204,8 +204,8 @@
     "photographer": "",
     "intersection": "S. Main St. and S. Post Alley",
     "coordinates": [
-      "47.600056",
-      "-122.334845"
+      47.600056,
+      -122.334845
     ],
     "createdDate": "1894-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1762/default.jpg"
@@ -225,8 +225,8 @@
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "",
     "coordinates": [
-      "47.602034",
-      "-122.333886"
+      47.602034,
+      -122.333886
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1763/default.jpg"
@@ -250,8 +250,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655335",
-      "-122.30352"
+      47.655335,
+      -122.30352
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1767/default.jpg"
@@ -279,7 +279,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1765/default.jpg"
@@ -298,8 +298,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1774/default.jpg"
@@ -322,8 +322,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.602644",
-      "-122.333709"
+      47.602644,
+      -122.333709
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1766/default.jpg"
@@ -341,7 +341,7 @@
     "photographer": "Andrews, Clarence Leroy, 1862-1948",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1896-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1772/default.jpg"
@@ -370,7 +370,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1768/default.jpg"
@@ -391,8 +391,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1775/default.jpg"
@@ -417,7 +417,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1771/default.jpg"
@@ -443,8 +443,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
     "coordinates": [
-      "47.602386",
-      "-122.33271"
+      47.602386,
+      -122.33271
     ],
     "createdDate": "1901-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1770/default.jpg"
@@ -465,8 +465,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1769/default.jpg"
@@ -487,7 +487,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1764/default.jpg"
@@ -511,8 +511,8 @@
     "photographer": "",
     "intersection": "Alaskan Way and Seneca St.",
     "coordinates": [
-      "47.60522",
-      "-122.339758"
+      47.60522,
+      -122.339758
     ],
     "createdDate": "1898-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1773/default.jpg"
@@ -536,8 +536,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1779/default.jpg"
@@ -557,8 +557,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1777/default.jpg"
@@ -578,8 +578,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1783/default.jpg"
@@ -603,8 +603,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1785/default.jpg"
@@ -626,8 +626,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1781/default.jpg"
@@ -644,7 +644,7 @@
     "photographer": "Sammis, E.M.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1866-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1787/default.jpg"
@@ -663,8 +663,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1780/default.jpg"
@@ -683,8 +683,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1782/default.jpg"
@@ -704,8 +704,8 @@
     "photographer": "Boyd & Braas",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1778/default.jpg"
@@ -727,8 +727,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1784/default.jpg"
@@ -746,8 +746,8 @@
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "Corliss Ave. N. and N. 92nd St.",
     "coordinates": [
-      "47.695927",
-      "-122.331117"
+      47.695927,
+      -122.331117
     ],
     "createdDate": "1894-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1786/default.jpg"
@@ -768,8 +768,8 @@
     "photographer": "Soule, John P.",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1776/default.jpg"
@@ -788,8 +788,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.630281",
-      "-122.314234"
+      47.630281,
+      -122.314234
     ],
     "createdDate": "1933-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1788/default.jpg"
@@ -806,7 +806,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1795/default.jpg"
@@ -824,7 +824,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1793/default.jpg"
@@ -841,7 +841,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1794/default.jpg"
@@ -860,8 +860,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.630281",
-      "-122.314234"
+      47.630281,
+      -122.314234
     ],
     "createdDate": "1933-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1789/default.jpg"
@@ -877,7 +877,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1799/default.jpg"
@@ -895,7 +895,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1855-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1796/default.jpg"
@@ -921,8 +921,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.578397",
-      "-122.413302"
+      47.578397,
+      -122.413302
     ],
     "createdDate": "1905-11-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1790/default.jpg"
@@ -938,7 +938,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1798/default.jpg"
@@ -966,8 +966,8 @@
     "photographer": "Pettit, Benjamin W.",
     "intersection": "",
     "coordinates": [
-      "47.578397",
-      "-122.413302"
+      47.578397,
+      -122.413302
     ],
     "createdDate": "1914-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1791/default.jpg"
@@ -984,7 +984,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1875-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1797/default.jpg"
@@ -1012,8 +1012,8 @@
     "photographer": "Pettit, Benjamin W.",
     "intersection": "",
     "coordinates": [
-      "47.578397",
-      "-122.413302"
+      47.578397,
+      -122.413302
     ],
     "createdDate": "1914-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1792/default.jpg"
@@ -1030,7 +1030,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1884-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1810/default.jpg"
@@ -1046,7 +1046,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1801/default.jpg"
@@ -1063,7 +1063,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1807/default.jpg"
@@ -1079,7 +1079,7 @@
     "photographer": "McClaire, Morton S.Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1886-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1805/default.jpg"

@@ -11,8 +11,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.678658",
-      "-122.326312"
+      47.678658,
+      -122.326312
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3596/default.jpg"
@@ -34,8 +34,8 @@
     "photographer": "Peiser, Theodore E.Moore, George N.",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1868-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3589/default.jpg"
@@ -57,8 +57,8 @@
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "NE 72nd St. and 5th Ave. NE",
     "coordinates": [
-      "47.680389",
-      "-122.324129"
+      47.680389,
+      -122.324129
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3593/default.jpg"
@@ -78,8 +78,8 @@
     "photographer": "Kerr, Skip",
     "intersection": "",
     "coordinates": [
-      "47.681494",
-      "-122.326659"
+      47.681494,
+      -122.326659
     ],
     "createdDate": "1991-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3591/default.jpg"
@@ -97,7 +97,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1903-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3628/default.jpg"
@@ -121,8 +121,8 @@
     "photographer": "Carson, Tom, 1915-1963Seattle Post-Intelligencer",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1953-06-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3632/default.jpg"
@@ -146,8 +146,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.521074",
-      "-122.387063"
+      47.521074,
+      -122.387063
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3635/default.jpg"
@@ -167,8 +167,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.668415",
-      "-122.34407"
+      47.668415,
+      -122.34407
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3630/default.jpg"
@@ -186,8 +186,8 @@
     "photographer": "Perkins, Gertie FaePerkins Studio",
     "intersection": "",
     "coordinates": [
-      "47.61582",
-      "-122.321861"
+      47.61582,
+      -122.321861
     ],
     "createdDate": "1939-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3585/default.jpg"
@@ -214,8 +214,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607405",
-      "-122.342887"
+      47.607405,
+      -122.342887
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3582/default.jpg"
@@ -231,7 +231,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3583/default.jpg"
@@ -247,8 +247,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.650869",
-      "-122.354062"
+      47.650869,
+      -122.354062
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3586/default.jpg"
@@ -270,8 +270,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.681494",
-      "-122.326659"
+      47.681494,
+      -122.326659
     ],
     "createdDate": "1917-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3579/default.jpg"
@@ -291,8 +291,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.622283",
-      "-122.352175"
+      47.622283,
+      -122.352175
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3576/default.jpg"
@@ -313,8 +313,8 @@
     "photographer": "Nowell, Frank H., 1864-1950",
     "intersection": "",
     "coordinates": [
-      "47.679718",
-      "-122.325661"
+      47.679718,
+      -122.325661
     ],
     "createdDate": "1913-01-04T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3580/default.jpg"
@@ -334,8 +334,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "Valley St. and Westlake Ave. N.",
     "coordinates": [
-      "47.625731",
-      "-122.338604"
+      47.625731,
+      -122.338604
     ],
     "createdDate": "1888-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3587/default.jpg"
@@ -355,8 +355,8 @@
     "photographer": "",
     "intersection": "N. 54th St. and Green Lake Way N.",
     "coordinates": [
-      "47.667764",
-      "-122.340068"
+      47.667764,
+      -122.340068
     ],
     "createdDate": "1927-08-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3578/default.jpg"
@@ -375,8 +375,8 @@
     "photographer": "Rogers Studio",
     "intersection": "",
     "coordinates": [
-      "47.679718",
-      "-122.325661"
+      47.679718,
+      -122.325661
     ],
     "createdDate": "1913-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3584/default.jpg"
@@ -396,8 +396,8 @@
     "photographer": "Jansen, DickMorley Studios",
     "intersection": "",
     "coordinates": [
-      "47.620746",
-      "-122.350433"
+      47.620746,
+      -122.350433
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3570/default.jpg"
@@ -418,8 +418,8 @@
     "photographer": "",
     "intersection": "N. 46th St. and Woodland Park Ave. N.",
     "coordinates": [
-      "47.662128",
-      "-122.3446"
+      47.662128,
+      -122.3446
     ],
     "createdDate": "1930-08-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3574/default.jpg"
@@ -444,8 +444,8 @@
     "photographer": "Potts, DaveSeattle Post-Intelligencer",
     "intersection": "1st Ave. and Pike St.",
     "coordinates": [
-      "47.608863",
-      "-122.340071"
+      47.608863,
+      -122.340071
     ],
     "createdDate": "1971-06-22T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3568/default.jpg"
@@ -463,8 +463,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.673414",
-      "-122.346239"
+      47.673414,
+      -122.346239
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3573/default.jpg"
@@ -494,8 +494,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1867-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3624/default.jpg"
@@ -516,8 +516,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.679718",
-      "-122.325661"
+      47.679718,
+      -122.325661
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3621/default.jpg"
@@ -538,8 +538,8 @@
     "photographer": "Nowell, Frank H., 1864-1950",
     "intersection": "",
     "coordinates": [
-      "47.679718",
-      "-122.325661"
+      47.679718,
+      -122.325661
     ],
     "createdDate": "1913-01-04T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3616/default.jpg"
@@ -555,8 +555,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.664792",
-      "-122.349588"
+      47.664792,
+      -122.349588
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3615/default.jpg"
@@ -574,8 +574,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.676326",
-      "-122.328633"
+      47.676326,
+      -122.328633
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3623/default.jpg"
@@ -596,8 +596,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.6025568",
-      "-122.334303"
+      47.6025568,
+      -122.334303
     ],
     "createdDate": "1876-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3618/default.jpg"
@@ -616,8 +616,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "4th Ave. and Spring St.",
     "coordinates": [
-      "47.606796",
-      "-122.333548"
+      47.606796,
+      -122.333548
     ],
     "createdDate": "1870-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3613/default.jpg"
@@ -641,8 +641,8 @@
     "photographer": "",
     "intersection": "E. Green Lake Way N. and NE Ravenna Blvd.",
     "coordinates": [
-      "47.679662",
-      "-122.325737"
+      47.679662,
+      -122.325737
     ],
     "createdDate": "1921-05-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3619/default.jpg"
@@ -659,8 +659,8 @@
     "photographer": "Abadilla, Amy C.",
     "intersection": "",
     "coordinates": [
-      "47.601978",
-      "-122.331722"
+      47.601978,
+      -122.331722
     ],
     "createdDate": "2007-10-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3622/default.jpg"
@@ -677,8 +677,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.679718",
-      "-122.325661"
+      47.679718,
+      -122.325661
     ],
     "createdDate": "1937-03-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3617/default.jpg"
@@ -698,8 +698,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.668415",
-      "-122.34407"
+      47.668415,
+      -122.34407
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3614/default.jpg"
@@ -723,8 +723,8 @@
     "photographer": "",
     "intersection": "E. Green Lake Way N. and NE Ravenna Blvd.",
     "coordinates": [
-      "47.679662",
-      "-122.325737"
+      47.679662,
+      -122.325737
     ],
     "createdDate": "1921-05-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3620/default.jpg"
@@ -745,8 +745,8 @@
     "photographer": "",
     "intersection": "N. 55th St. and Green Lake Way N.",
     "coordinates": [
-      "47.668804",
-      "-122.340041"
+      47.668804,
+      -122.340041
     ],
     "createdDate": "1927-02-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3612/default.jpg"
@@ -764,7 +764,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3572/default.jpg"
@@ -780,8 +780,8 @@
     "photographer": "",
     "intersection": "N. 66th St. and Phinney Ave. N.",
     "coordinates": [
-      "47.676920",
-      "-122.354347"
+      47.67692,
+      -122.354347
     ],
     "createdDate": "1919-12-31T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3567/default.jpg"
@@ -823,8 +823,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600046",
-      "-122.334125"
+      47.600046,
+      -122.334125
     ],
     "createdDate": "1877-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3569/default.jpg"
@@ -844,8 +844,8 @@
     "photographer": "Boyd & Braas",
     "intersection": "",
     "coordinates": [
-      "47.668415",
-      "-122.34407"
+      47.668415,
+      -122.34407
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3575/default.jpg"
@@ -868,8 +868,8 @@
     "photographer": "Staples, HowardSeattle Post-Intelligencer",
     "intersection": "",
     "coordinates": [
-      "47.60704",
-      "-122.341828"
+      47.60704,
+      -122.341828
     ],
     "createdDate": "1974-06-26T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3639/default.jpg"
@@ -891,8 +891,8 @@
     "photographer": "Brownell, Tom, 1914-2001Seattle Post-Intelligencer",
     "intersection": "",
     "coordinates": [
-      "47.687448",
-      "-122.354853"
+      47.687448,
+      -122.354853
     ],
     "createdDate": "1954-01-21T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3636/default.jpg"
@@ -912,8 +912,8 @@
     "photographer": "",
     "intersection": "N. 54th St. and Green Lake Way N.",
     "coordinates": [
-      "47.667534",
-      "-122.339706"
+      47.667534,
+      -122.339706
     ],
     "createdDate": "1927-08-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3638/default.jpg"
@@ -931,8 +931,8 @@
     "photographer": "International Newsreel Corp",
     "intersection": "",
     "coordinates": [
-      "47.680479",
-      "-122.368006"
+      47.680479,
+      -122.368006
     ],
     "createdDate": "1929-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3642/default.jpg"
@@ -951,7 +951,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1962-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3640/default.jpg"
@@ -970,8 +970,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.573299",
-      "-122.290713"
+      47.573299,
+      -122.290713
     ],
     "createdDate": "1932-03-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3646/default.jpg"
@@ -993,8 +993,8 @@
     "photographer": "Warner & Randolph",
     "intersection": "",
     "coordinates": [
-      "47.668415",
-      "-122.34407"
+      47.668415,
+      -122.34407
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3644/default.jpg"
@@ -1018,8 +1018,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.668415",
-      "-122.34407"
+      47.668415,
+      -122.34407
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3641/default.jpg"
@@ -1036,7 +1036,7 @@
     "photographer": "Tolman, CarySeattle Post-Intelligencer",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1965-10-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3647/default.jpg"
@@ -1061,8 +1061,8 @@
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
     "coordinates": [
-      "47.680384",
-      "-122.341652"
+      47.680384,
+      -122.341652
     ],
     "createdDate": "1896-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3643/default.jpg"
@@ -1082,8 +1082,8 @@
     "photographer": "Conn, Margaret, 1864-1942",
     "intersection": "",
     "coordinates": [
-      "47.680548",
-      "-122.325457"
+      47.680548,
+      -122.325457
     ],
     "createdDate": "1896-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3637/default.jpg"

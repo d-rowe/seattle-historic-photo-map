@@ -10,7 +10,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1860-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1811/default.jpg"
@@ -26,7 +26,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1860-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1808/default.jpg"
@@ -42,7 +42,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1894-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1802/default.jpg"
@@ -58,7 +58,7 @@
     "photographer": "Lainer, Charles",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1875-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1806/default.jpg"
@@ -75,7 +75,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1809/default.jpg"
@@ -92,7 +92,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1894-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1804/default.jpg"
@@ -112,7 +112,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1858-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1803/default.jpg"
@@ -129,7 +129,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1852-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1800/default.jpg"
@@ -155,8 +155,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "3rd Ave. and Union St.",
     "coordinates": [
-      "47.60825",
-      "-122.336548"
+      47.60825,
+      -122.336548
     ],
     "createdDate": "1945-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1822/default.jpg"
@@ -173,7 +173,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1868-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1813/default.jpg"
@@ -201,8 +201,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. and Spring St.",
     "coordinates": [
-      "47.607262",
-      "-122.332447"
+      47.607262,
+      -122.332447
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1819/default.jpg"
@@ -228,8 +228,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1817/default.jpg"
@@ -255,8 +255,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1820/default.jpg"
@@ -279,8 +279,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. S. and S. King St.",
     "coordinates": [
-      "47.598351",
-      "-122.32765"
+      47.598351,
+      -122.32765
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1823/default.jpg"
@@ -312,8 +312,8 @@
     "photographer": "",
     "intersection": "4th Ave. and Spring St.",
     "coordinates": [
-      "47.606796",
-      "-122.333548"
+      47.606796,
+      -122.333548
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1821/default.jpg"
@@ -338,8 +338,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1818/default.jpg"
@@ -355,7 +355,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1814/default.jpg"
@@ -379,8 +379,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1816/default.jpg"
@@ -417,8 +417,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607738",
-      "-122.335473"
+      47.607738,
+      -122.335473
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1815/default.jpg"
@@ -435,7 +435,7 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1868-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1812/default.jpg"
@@ -453,8 +453,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.665828",
-      "-122.345284"
+      47.665828,
+      -122.345284
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1826/default.jpg"
@@ -479,8 +479,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.647221",
-      "-122.316408"
+      47.647221,
+      -122.316408
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1825/default.jpg"
@@ -503,8 +503,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1834/default.jpg"
@@ -523,8 +523,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.589919",
-      "-122.284092"
+      47.589919,
+      -122.284092
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1831/default.jpg"
@@ -546,8 +546,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1955-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1828/default.jpg"
@@ -571,8 +571,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.602034",
-      "-122.333886"
+      47.602034,
+      -122.333886
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1832/default.jpg"
@@ -600,8 +600,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.571643",
-      "-122.335077"
+      47.571643,
+      -122.335077
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1835/default.jpg"
@@ -622,8 +622,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.590057",
-      "-122.288149"
+      47.590057,
+      -122.288149
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1830/default.jpg"
@@ -650,8 +650,8 @@
     "photographer": "Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.647615",
-      "-122.347355"
+      47.647615,
+      -122.347355
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1829/default.jpg"
@@ -671,8 +671,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.602034",
-      "-122.333886"
+      47.602034,
+      -122.333886
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1827/default.jpg"
@@ -700,8 +700,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "5th Ave. and University St.",
     "coordinates": [
-      "47.608691",
-      "-122.333759"
+      47.608691,
+      -122.333759
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1824/default.jpg"
@@ -720,8 +720,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.602034",
-      "-122.333886"
+      47.602034,
+      -122.333886
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1833/default.jpg"
@@ -740,8 +740,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.658403",
-      "-122.306412"
+      47.658403,
+      -122.306412
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1838/default.jpg"
@@ -761,8 +761,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.608444 ",
-      "-122.340549"
+      47.608444,
+      -122.340549
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1837/default.jpg"
@@ -783,8 +783,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1846/default.jpg"
@@ -804,8 +804,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.658393",
-      "-122.308833"
+      47.658393,
+      -122.308833
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1840/default.jpg"
@@ -826,8 +826,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1844/default.jpg"
@@ -845,8 +845,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.653286",
-      "-122.305957"
+      47.653286,
+      -122.305957
     ],
     "createdDate": "1948-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1847/default.jpg"
@@ -864,8 +864,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655709",
-      "-122.310569"
+      47.655709,
+      -122.310569
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1842/default.jpg"
@@ -887,8 +887,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655709",
-      "-122.310569"
+      47.655709,
+      -122.310569
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1841/default.jpg"
@@ -908,8 +908,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1843/default.jpg"
@@ -928,8 +928,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.655319",
-      "-122.309352"
+      47.655319,
+      -122.309352
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1839/default.jpg"
@@ -958,8 +958,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1836/default.jpg"
@@ -980,8 +980,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1845/default.jpg"
@@ -1001,8 +1001,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "6th Ave. and Madison St.",
     "coordinates": [
-      "47.607015",
-      "-122.330695"
+      47.607015,
+      -122.330695
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1850/default.jpg"
@@ -1020,8 +1020,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.621041",
-      "-122.355412"
+      47.621041,
+      -122.355412
     ],
     "createdDate": "1951-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1851/default.jpg"
@@ -1040,8 +1040,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "6th Ave. and Madison St.",
     "coordinates": [
-      "47.607015",
-      "-122.330695"
+      47.607015,
+      -122.330695
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1849/default.jpg"
@@ -1058,8 +1058,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.626785",
-      "-122.348873"
+      47.626785,
+      -122.348873
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1848/default.jpg"
@@ -1077,8 +1077,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. W. and W. Olympic Pl.",
     "coordinates": [
-      "47.627687",
-      "-122.366127"
+      47.627687,
+      -122.366127
     ],
     "createdDate": "1956-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1928/default.jpg"
@@ -1095,7 +1095,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1902-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1926/default.jpg"

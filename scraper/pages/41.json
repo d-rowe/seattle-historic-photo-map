@@ -14,7 +14,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3472/default.jpg"
@@ -30,7 +30,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3474/default.jpg"
@@ -46,7 +46,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3473/default.jpg"
@@ -63,7 +63,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3479/default.jpg"
@@ -84,8 +84,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "7th Ave. and Yesler Way",
     "coordinates": [
-      "47.601728",
-      "-122.324255"
+      47.601728,
+      -122.324255
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3550/default.jpg"
@@ -105,8 +105,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.4235929",
-      "-121.7805717"
+      47.4235929,
+      -121.7805717
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3547/default.jpg"
@@ -126,8 +126,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.4235929",
-      "-121.7805717"
+      47.4235929,
+      -121.7805717
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3551/default.jpg"
@@ -147,7 +147,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3543/default.jpg"
@@ -166,8 +166,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.4235929",
-      "-121.7805717"
+      47.4235929,
+      -121.7805717
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3548/default.jpg"
@@ -183,7 +183,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3488/default.jpg"
@@ -204,8 +204,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3496/default.jpg"
@@ -226,8 +226,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3499/default.jpg"
@@ -245,8 +245,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3493/default.jpg"
@@ -267,8 +267,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3502/default.jpg"
@@ -290,8 +290,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3495/default.jpg"
@@ -311,8 +311,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3500/default.jpg"
@@ -330,8 +330,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.910777",
-      "-122.094407"
+      47.910777,
+      -122.094407
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3501/default.jpg"
@@ -349,8 +349,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3494/default.jpg"
@@ -366,7 +366,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3492/default.jpg"
@@ -382,7 +382,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3476/default.jpg"
@@ -400,7 +400,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3470/default.jpg"
@@ -417,7 +417,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3477/default.jpg"
@@ -435,7 +435,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3468/default.jpg"
@@ -454,8 +454,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.659914",
-      "-122.340003"
+      47.659914,
+      -122.340003
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3514/default.jpg"
@@ -473,8 +473,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3505/default.jpg"
@@ -492,8 +492,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.615808",
-      "-122.321846"
+      47.615808,
+      -122.321846
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3510/default.jpg"
@@ -510,7 +510,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3515/default.jpg"
@@ -528,8 +528,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.615808",
-      "-122.321846"
+      47.615808,
+      -122.321846
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3508/default.jpg"
@@ -546,7 +546,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3512/default.jpg"
@@ -564,8 +564,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.615808",
-      "-122.321846"
+      47.615808,
+      -122.321846
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3507/default.jpg"
@@ -582,7 +582,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3471/default.jpg"
@@ -603,8 +603,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3498/default.jpg"
@@ -620,7 +620,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3516/default.jpg"
@@ -636,7 +636,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3525/default.jpg"
@@ -654,7 +654,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3511/default.jpg"
@@ -672,7 +672,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3506/default.jpg"
@@ -690,8 +690,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.615808",
-      "-122.321846"
+      47.615808,
+      -122.321846
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3509/default.jpg"
@@ -710,8 +710,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.659914",
-      "-122.340003"
+      47.659914,
+      -122.340003
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3513/default.jpg"
@@ -732,8 +732,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3504/default.jpg"
@@ -751,7 +751,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3524/default.jpg"
@@ -767,8 +767,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "12th Ave. and E. Yesler Way",
     "coordinates": [
-      "47.601682",
-      "-122.316858"
+      47.601682,
+      -122.316858
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3518/default.jpg"
@@ -784,7 +784,7 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3542/default.jpg"
@@ -807,8 +807,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3377/default.jpg"
@@ -832,8 +832,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "3rd Ave. and University St.",
     "coordinates": [
-      "47.607761",
-      " -122.335979"
+      47.607761,
+      -122.335979
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3378/default.jpg"
@@ -857,8 +857,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3382/default.jpg"
@@ -882,8 +882,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3383/default.jpg"
@@ -904,8 +904,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "4th Ave. and Madison St.",
     "coordinates": [
-      "47.606004",
-      "-122.332691"
+      47.606004,
+      -122.332691
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3380/default.jpg"
@@ -929,8 +929,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.596444",
-      "-122.333836"
+      47.596444,
+      -122.333836
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3381/default.jpg"
@@ -956,8 +956,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3376/default.jpg"
@@ -983,8 +983,8 @@
     "photographer": "Piper, Walter F.",
     "intersection": "8th Ave. and University St.",
     "coordinates": [
-      "47.61012",
-      "-122.330467"
+      47.61012,
+      -122.330467
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3379/default.jpg"

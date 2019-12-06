@@ -13,8 +13,8 @@
     "photographer": "",
     "intersection": "1st Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.599178",
-      "-122.334256"
+      47.599178,
+      -122.334256
     ],
     "createdDate": "1905-02-11T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2555/default.jpg"
@@ -36,8 +36,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Battery St.",
     "coordinates": [
-      "47.616764",
-      "-122.344421"
+      47.616764,
+      -122.344421
     ],
     "createdDate": "1905-04-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2546/default.jpg"
@@ -63,8 +63,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1914-07-30T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2554/default.jpg"
@@ -104,8 +104,8 @@
     "photographer": "Peterson & Bros.",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1878-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2547/default.jpg"
@@ -129,8 +129,8 @@
     "photographer": "",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1914-07-30T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2553/default.jpg"
@@ -155,8 +155,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "4th Ave. and Union St.",
     "coordinates": [
-      "47.609131",
-      "-122.336182"
+      47.609131,
+      -122.336182
     ],
     "createdDate": "1920-04-07T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2548/default.jpg"
@@ -177,7 +177,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1913-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2549/default.jpg"
@@ -202,8 +202,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "7th Ave. and Columbia St.",
     "coordinates": [
-      "47.606064",
-      "-122.328246"
+      47.606064,
+      -122.328246
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2552/default.jpg"
@@ -225,8 +225,8 @@
     "photographer": "",
     "intersection": "6th Ave. and Madison St.",
     "coordinates": [
-      "47.607015",
-      "-122.330695"
+      47.607015,
+      -122.330695
     ],
     "createdDate": "1887-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2550/default.jpg"
@@ -267,8 +267,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Madison St.",
     "coordinates": [
-      "47.605541",
-      "-122.333832"
+      47.605541,
+      -122.333832
     ],
     "createdDate": "1942-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2551/default.jpg"
@@ -293,8 +293,8 @@
     "photographer": "",
     "intersection": "1st Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600046",
-      "-122.334125"
+      47.600046,
+      -122.334125
     ],
     "createdDate": "1862-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2544/default.jpg"
@@ -315,8 +315,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "6th Ave. and Madison St.",
     "coordinates": [
-      "47.607015",
-      "-122.330695"
+      47.607015,
+      -122.330695
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2556/default.jpg"
@@ -336,7 +336,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2561/default.jpg"
@@ -365,8 +365,8 @@
     "photographer": "Peterson & Bros.",
     "intersection": "2nd Ave. and Pike St.",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1878-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2558/default.jpg"
@@ -383,7 +383,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2567/default.jpg"
@@ -413,7 +413,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Seneca",
     "coordinates": [
-      "47.606502; -122.334938"
+      47.606502
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2563/default.jpg"
@@ -443,8 +443,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
     "coordinates": [
-      "47.601735",
-      "-122.336591"
+      47.601735,
+      -122.336591
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2557/default.jpg"
@@ -466,8 +466,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Yesler Way",
     "coordinates": [
-      "47.601716",
-      "-122.331999"
+      47.601716,
+      -122.331999
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2562/default.jpg"
@@ -487,8 +487,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Broadway and E. Pike St.",
     "coordinates": [
-      "47.61414",
-      "-122.320885"
+      47.61414,
+      -122.320885
     ],
     "createdDate": "1925-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2559/default.jpg"
@@ -506,8 +506,8 @@
     "photographer": "",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      " -122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1875-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2566/default.jpg"
@@ -534,8 +534,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1949-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2565/default.jpg"
@@ -554,7 +554,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1879-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2560/default.jpg"
@@ -578,8 +578,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1899-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2564/default.jpg"
@@ -600,8 +600,8 @@
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "2nd Ave. and Denny Way",
     "coordinates": [
-      "47.618576",
-      "-122.353405"
+      47.618576,
+      -122.353405
     ],
     "createdDate": "1892-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2569/default.jpg"
@@ -624,8 +624,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600046",
-      "-122.334125"
+      47.600046,
+      -122.334125
     ],
     "createdDate": "1878-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2579/default.jpg"
@@ -647,8 +647,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Pike St.",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2570/default.jpg"
@@ -686,7 +686,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2571/default.jpg"
@@ -706,8 +706,8 @@
     "photographer": "Clark, E.A.Boyd & Braas",
     "intersection": "1st. Ave. and Yesler Way",
     "coordinates": [
-      "47.602207",
-      "-122.334076"
+      47.602207,
+      -122.334076
     ],
     "createdDate": "1860-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2578/default.jpg"
@@ -740,8 +740,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "6th Ave. and Madison St.",
     "coordinates": [
-      "47.607015",
-      "-122.330695"
+      47.607015,
+      -122.330695
     ],
     "createdDate": "1889-05-07T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2572/default.jpg"
@@ -759,7 +759,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1870-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2577/default.jpg"
@@ -788,8 +788,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Cherry St.",
     "coordinates": [
-      "47.603048",
-      "-122.333323"
+      47.603048,
+      -122.333323
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2573/default.jpg"
@@ -814,8 +814,8 @@
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "1st Ave. and Columbia St.",
     "coordinates": [
-      "47.6033",
-      "-122.334973"
+      47.6033,
+      -122.334973
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2574/default.jpg"
@@ -840,8 +840,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "5th Ave. and Pike St.",
     "coordinates": [
-      "47.610675",
-      "-122.335583"
+      47.610675,
+      -122.335583
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2576/default.jpg"
@@ -870,8 +870,8 @@
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      "-122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2575/default.jpg"
@@ -889,7 +889,7 @@
     "photographer": "Warner, Arthur Churchill, 1864-1943",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2568/default.jpg"
@@ -913,8 +913,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1915-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2581/default.jpg"
@@ -942,8 +942,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1915-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2591/default.jpg"
@@ -971,8 +971,8 @@
     "photographer": "Boyd & Braas",
     "intersection": "3rd Ave. and Madison St.",
     "coordinates": [
-      "47.605541",
-      "-122.333832"
+      47.605541,
+      -122.333832
     ],
     "createdDate": "1892-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2582/default.jpg"
@@ -996,8 +996,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1915-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2590/default.jpg"
@@ -1021,8 +1021,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "1st. Ave. and Yesler Way",
     "coordinates": [
-      "47.602207",
-      "-122.334076"
+      47.602207,
+      -122.334076
     ],
     "createdDate": "1890-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2583/default.jpg"
@@ -1044,8 +1044,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.599178",
-      "-122.334256"
+      47.599178,
+      -122.334256
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2584/default.jpg"
@@ -1064,8 +1064,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2589/default.jpg"
@@ -1088,8 +1088,8 @@
     "photographer": "",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2585/default.jpg"
@@ -1108,8 +1108,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Pine St.",
     "coordinates": [
-      "47.610276",
-      "-122.339809"
+      47.610276,
+      -122.339809
     ],
     "createdDate": "1883-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2586/default.jpg"
@@ -1129,7 +1129,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2588/default.jpg"
@@ -1149,8 +1149,8 @@
     "photographer": "",
     "intersection": "14th Ave. and E. Jefferson St.",
     "coordinates": [
-      "47.6062",
-      "-122.314181"
+      47.6062,
+      -122.314181
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2587/default.jpg"
@@ -1174,8 +1174,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Pike St.",
     "coordinates": [
-      "47.609559",
-      "-122.337482"
+      47.609559,
+      -122.337482
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2580/default.jpg"
@@ -1196,8 +1196,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.609561",
-      "-122.333548"
+      47.609561,
+      -122.333548
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2593/default.jpg"
@@ -1213,7 +1213,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1856-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2603/default.jpg"
@@ -1232,8 +1232,8 @@
     "photographer": "Whittelsey, Lewis Gates, 1870-1941",
     "intersection": "",
     "coordinates": [
-      "47.649736",
-      "-122.301931"
+      47.649736,
+      -122.301931
     ],
     "createdDate": "1923-07-27T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2594/default.jpg"

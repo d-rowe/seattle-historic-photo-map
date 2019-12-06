@@ -19,8 +19,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Madison St.",
     "coordinates": [
-      "47.605541",
-      "-122.333832"
+      47.605541,
+      -122.333832
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2390/default.jpg"
@@ -38,7 +38,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1914-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2394/default.jpg"
@@ -66,8 +66,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.578397",
-      "-122.413302"
+      47.578397,
+      -122.413302
     ],
     "createdDate": "1915-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2376/default.jpg"
@@ -90,8 +90,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "6th Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600034",
-      "-122.326362"
+      47.600034,
+      -122.326362
     ],
     "createdDate": "1921-12-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2383/default.jpg"
@@ -112,8 +112,8 @@
     "photographer": "",
     "intersection": "6th Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600034",
-      "-122.326362"
+      47.600034,
+      -122.326362
     ],
     "createdDate": "1875-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2385/default.jpg"
@@ -134,8 +134,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "10th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597508",
-      "-122.319646"
+      47.597508,
+      -122.319646
     ],
     "createdDate": "1909-02-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2387/default.jpg"
@@ -160,8 +160,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Pine St.",
     "coordinates": [
-      "47.610823",
-      "-122.338668"
+      47.610823,
+      -122.338668
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2377/default.jpg"
@@ -183,8 +183,8 @@
     "photographer": "Clark, E.A.",
     "intersection": "1st. Ave. and Yesler Way",
     "coordinates": [
-      "47.602207",
-      "-122.334076"
+      47.602207,
+      -122.334076
     ],
     "createdDate": "1860-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2380/default.jpg"
@@ -203,7 +203,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1856-01-26T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2381/default.jpg"
@@ -222,8 +222,8 @@
     "photographer": "",
     "intersection": "Eastlake Ave. E. and E. Hamlin St.",
     "coordinates": [
-      "47.645627",
-      "-122.325868"
+      47.645627,
+      -122.325868
     ],
     "createdDate": "1891-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2379/default.jpg"
@@ -243,7 +243,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2384/default.jpg"
@@ -270,8 +270,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "2nd Ave. and Pike St.",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1889-06-05T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2378/default.jpg"
@@ -291,8 +291,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "1st Ave. S. and S. King St.",
     "coordinates": [
-      "47.598308",
-      "-122.334254"
+      47.598308,
+      -122.334254
     ],
     "createdDate": "1880-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2382/default.jpg"
@@ -312,8 +312,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "46th Ave. S. and S. Holly St.",
     "coordinates": [
-      "47.542468",
-      "-122.275366"
+      47.542468,
+      -122.275366
     ],
     "createdDate": "1907-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2386/default.jpg"
@@ -337,8 +337,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2374/default.jpg"
@@ -360,8 +360,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1899-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2364/default.jpg"
@@ -382,8 +382,8 @@
     "photographer": "",
     "intersection": "14th Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600841",
-      "-122.314142"
+      47.600841,
+      -122.314142
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2406/default.jpg"
@@ -402,8 +402,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.5975",
-      "-122.317179"
+      47.5975,
+      -122.317179
     ],
     "createdDate": "1892-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2409/default.jpg"
@@ -421,8 +421,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1899-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2403/default.jpg"
@@ -449,8 +449,8 @@
     "photographer": "",
     "intersection": "N. 36 St. and Aurora Ave. N.",
     "coordinates": [
-      "47.650971",
-      "-122.347261"
+      47.650971,
+      -122.347261
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2404/default.jpg"
@@ -469,8 +469,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.5975",
-      "-122.317179"
+      47.5975,
+      -122.317179
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2411/default.jpg"
@@ -488,7 +488,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1870-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2410/default.jpg"
@@ -511,8 +511,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "7th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597515",
-      "-122.323759"
+      47.597515,
+      -122.323759
     ],
     "createdDate": "1878-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2401/default.jpg"
@@ -530,8 +530,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Vine St.",
     "coordinates": [
-      "47.616871",
-      "-122.348297"
+      47.616871,
+      -122.348297
     ],
     "createdDate": "1882-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2402/default.jpg"
@@ -551,7 +551,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1896-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2408/default.jpg"
@@ -571,7 +571,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2407/default.jpg"
@@ -593,8 +593,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way and Vine St.",
     "coordinates": [
-      "47.613328",
-      "-122.352168"
+      47.613328,
+      -122.352168
     ],
     "createdDate": "1882-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2405/default.jpg"
@@ -615,7 +615,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2336/default.jpg"
@@ -634,7 +634,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2352/default.jpg"
@@ -656,8 +656,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2362/default.jpg"
@@ -674,7 +674,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2353/default.jpg"
@@ -690,7 +690,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2355/default.jpg"
@@ -708,8 +708,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.5975",
-      "-122.317179"
+      47.5975,
+      -122.317179
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2354/default.jpg"
@@ -731,8 +731,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2361/default.jpg"
@@ -756,8 +756,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1897-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2359/default.jpg"
@@ -778,8 +778,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1895-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2357/default.jpg"
@@ -798,8 +798,8 @@
     "photographer": "",
     "intersection": "6th Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600034",
-      "-122.326362"
+      47.600034,
+      -122.326362
     ],
     "createdDate": "1883-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2356/default.jpg"
@@ -822,8 +822,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Sullivan St.",
     "coordinates": [
-      "47.527302",
-      "-122.317568"
+      47.527302,
+      -122.317568
     ],
     "createdDate": "1888-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2358/default.jpg"
@@ -843,8 +843,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1897-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2360/default.jpg"
@@ -866,8 +866,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1901-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2363/default.jpg"
@@ -886,8 +886,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.523487",
-      "-122.324415"
+      47.523487,
+      -122.324415
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2334/default.jpg"
@@ -911,8 +911,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Vine St.",
     "coordinates": [
-      "47.616871",
-      "-122.348297"
+      47.616871,
+      -122.348297
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2328/default.jpg"
@@ -934,8 +934,8 @@
     "photographer": "",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.597378",
-      "-122.317123"
+      47.597378,
+      -122.317123
     ],
     "createdDate": "1940-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2317/default.jpg"
@@ -957,8 +957,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.619125",
-      "-122.34189"
+      47.619125,
+      -122.34189
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2327/default.jpg"
@@ -979,8 +979,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Battery St.",
     "coordinates": [
-      "47.616764",
-      "-122.344421"
+      47.616764,
+      -122.344421
     ],
     "createdDate": "1904-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2326/default.jpg"
@@ -1009,8 +1009,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Battery St.",
     "coordinates": [
-      "47.616764",
-      "-122.344421"
+      47.616764,
+      -122.344421
     ],
     "createdDate": "1928-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2318/default.jpg"
@@ -1032,8 +1032,8 @@
     "photographer": "Lewis & Wiley",
     "intersection": "12th Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.599438",
-      "-122.317108"
+      47.599438,
+      -122.317108
     ],
     "createdDate": "1908-08-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2325/default.jpg"
@@ -1052,8 +1052,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.5975",
-      "-122.317179"
+      47.5975,
+      -122.317179
     ],
     "createdDate": "1892-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2319/default.jpg"
@@ -1072,8 +1072,8 @@
     "photographer": "Novelty Photo Co.",
     "intersection": "",
     "coordinates": [
-      "47.60117",
-      "-122.315569"
+      47.60117,
+      -122.315569
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2324/default.jpg"
@@ -1091,8 +1091,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Battery St.",
     "coordinates": [
-      "47.616764",
-      "-122.344421"
+      47.616764,
+      -122.344421
     ],
     "createdDate": "1884-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2320/default.jpg"

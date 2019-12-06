@@ -18,8 +18,8 @@
     "photographer": "Peterson, Bob",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2105/default.jpg"
@@ -42,8 +42,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. and Olive Way",
     "coordinates": [
-      "47.61359",
-      "-122.335193"
+      47.61359,
+      -122.335193
     ],
     "createdDate": "1957-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2104/default.jpg"
@@ -60,7 +60,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2107/default.jpg"
@@ -82,8 +82,8 @@
     "photographer": "Kitasako, John Y. , 1910-1987",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2101/default.jpg"
@@ -107,8 +107,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2110/default.jpg"
@@ -129,8 +129,8 @@
     "photographer": "Scully, RoySeattle Times",
     "intersection": "N. 68th St. and Dayton Ave. N.",
     "coordinates": [
-      "47.678738",
-      "-122.352616"
+      47.678738,
+      -122.352616
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2100/default.jpg"
@@ -153,8 +153,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2115/default.jpg"
@@ -177,8 +177,8 @@
     "photographer": "",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1905-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2117/default.jpg"
@@ -201,8 +201,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.668967",
-      "-122.383394"
+      47.668967,
+      -122.383394
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2119/default.jpg"
@@ -225,8 +225,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Seneca St.",
     "coordinates": [
-      "47.60522",
-      "-122.339758"
+      47.60522,
+      -122.339758
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2114/default.jpg"
@@ -250,8 +250,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2113/default.jpg"
@@ -275,8 +275,8 @@
     "photographer": "Seattle Post-Intelligencer",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2116/default.jpg"
@@ -303,8 +303,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1915-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2118/default.jpg"
@@ -328,8 +328,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2112/default.jpg"
@@ -352,8 +352,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2123/default.jpg"
@@ -376,8 +376,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2120/default.jpg"
@@ -400,8 +400,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2122/default.jpg"
@@ -424,8 +424,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2121/default.jpg"
@@ -456,8 +456,8 @@
     "photographer": "Dudley, Roger, 1917-2003",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1959-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2126/default.jpg"
@@ -478,8 +478,8 @@
     "photographer": "Condiotty, Vic, 1922-2000Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.629083",
-      "-122.381631"
+      47.629083,
+      -122.381631
     ],
     "createdDate": "1964-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2132/default.jpg"
@@ -499,8 +499,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.625302",
-      "-122.323156"
+      47.625302,
+      -122.323156
     ],
     "createdDate": "1922-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2130/default.jpg"
@@ -521,8 +521,8 @@
     "photographer": "Kitasako, John Y. , 1910-1987",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2133/default.jpg"
@@ -548,8 +548,8 @@
     "photographer": "Scaylea, Josef",
     "intersection": "1st Ave. S. and Railroad Way S.",
     "coordinates": [
-      "47.59567",
-      "-122.334087"
+      47.59567,
+      -122.334087
     ],
     "createdDate": "1952-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2131/default.jpg"
@@ -572,8 +572,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1957-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2125/default.jpg"
@@ -592,8 +592,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.645563",
-      "-122.301791"
+      47.645563,
+      -122.301791
     ],
     "createdDate": "1951-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2135/default.jpg"
@@ -618,8 +618,8 @@
     "photographer": "Dudley, Roger, 1917-2003",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1959-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2127/default.jpg"
@@ -637,8 +637,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.649736",
-      "-122.301931"
+      47.649736,
+      -122.301931
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2129/default.jpg"
@@ -666,8 +666,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.60198",
-      "-122.331717"
+      47.60198,
+      -122.331717
     ],
     "createdDate": "1954-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2134/default.jpg"
@@ -685,8 +685,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.649736",
-      "-122.301931"
+      47.649736,
+      -122.301931
     ],
     "createdDate": "1950-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2128/default.jpg"
@@ -711,8 +711,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1914-07-30T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2124/default.jpg"
@@ -738,8 +738,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1968-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2141/default.jpg"
@@ -763,8 +763,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2144/default.jpg"
@@ -781,8 +781,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.652275",
-      "-122.307877"
+      47.652275,
+      -122.307877
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2139/default.jpg"
@@ -806,8 +806,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2143/default.jpg"
@@ -830,8 +830,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1968-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2145/default.jpg"
@@ -852,8 +852,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1968-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2138/default.jpg"
@@ -879,8 +879,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2146/default.jpg"
@@ -898,8 +898,8 @@
     "photographer": "Stanton, Robert R.",
     "intersection": "12th Ave. S. and S. Weller St.",
     "coordinates": [
-      "47.5975",
-      "-122.317179"
+      47.5975,
+      -122.317179
     ],
     "createdDate": "1897-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2140/default.jpg"
@@ -923,8 +923,8 @@
     "photographer": "Pearson, Charles R., 1920-2015",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1968-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2142/default.jpg"
@@ -945,8 +945,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655827",
-      "-122.308086"
+      47.655827,
+      -122.308086
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2137/default.jpg"
@@ -963,7 +963,7 @@
     "photographer": "Boyd & Braas",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2147/default.jpg"
@@ -982,8 +982,8 @@
     "photographer": "",
     "intersection": "9th Ave. and Pine St.",
     "coordinates": [
-      "47.608413",
-      "-122.327356"
+      47.608413,
+      -122.327356
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2136/default.jpg"
@@ -1007,8 +1007,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2156/default.jpg"
@@ -1028,8 +1028,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.645323",
-      "-122.401436"
+      47.645323,
+      -122.401436
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2153/default.jpg"
@@ -1056,8 +1056,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "7th Ave. and Olive Way",
     "coordinates": [
-      "47.61359",
-      "-122.335193"
+      47.61359,
+      -122.335193
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2150/default.jpg"
@@ -1078,8 +1078,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2154/default.jpg"
@@ -1109,8 +1109,8 @@
     "photographer": "Dudley, Roger, 1917-2003",
     "intersection": "Alaskan Way and Marion St.",
     "coordinates": [
-      "47.603052",
-      "-122.33784"
+      47.603052,
+      -122.33784
     ],
     "createdDate": "1948-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2158/default.jpg"
@@ -1139,8 +1139,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2151/default.jpg"
@@ -1167,8 +1167,8 @@
     "photographer": "Dudley, Roger, 1917-2003",
     "intersection": "Alaskan Way and Pike St.",
     "coordinates": [
-      "47.607993",
-      "-122.34259"
+      47.607993,
+      -122.34259
     ],
     "createdDate": "1948-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2159/default.jpg"
@@ -1188,8 +1188,8 @@
     "photographer": "Lenggenhager, Werner W., 1899-1988",
     "intersection": "",
     "coordinates": [
-      "47.719716",
-      "-122.298113"
+      47.719716,
+      -122.298113
     ],
     "createdDate": "1966-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2157/default.jpg"

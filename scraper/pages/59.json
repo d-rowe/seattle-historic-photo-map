@@ -11,7 +11,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4709/default.jpg"
@@ -27,7 +27,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1954-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4713/default.jpg"
@@ -46,8 +46,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.563081",
-      "-122.626572"
+      47.563081,
+      -122.626572
     ],
     "createdDate": "1919-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4707/default.jpg"
@@ -64,7 +64,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4691/default.jpg"
@@ -85,8 +85,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.625324",
-      "-122.323067"
+      47.625324,
+      -122.323067
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4689/default.jpg"
@@ -106,8 +106,8 @@
     "photographer": "Wide World Photos",
     "intersection": "2nd Ave. and Stewart St.",
     "coordinates": [
-      "47.610967",
-      "-122.340478"
+      47.610967,
+      -122.340478
     ],
     "createdDate": "1935-04-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4714/default.jpg"
@@ -124,8 +124,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.443188",
-      "-122.296285"
+      47.443188,
+      -122.296285
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4715/default.jpg"
@@ -142,7 +142,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4723/default.jpg"
@@ -161,8 +161,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.563081",
-      "-122.626572"
+      47.563081,
+      -122.626572
     ],
     "createdDate": "1919-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4721/default.jpg"
@@ -179,8 +179,8 @@
     "photographer": "Keystone View CompanyLingley, B.L.",
     "intersection": "",
     "coordinates": [
-      "47.668539",
-      "-122.353645"
+      47.668539,
+      -122.353645
     ],
     "createdDate": "1898-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4718/default.jpg"
@@ -206,8 +206,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.625324",
-      "-122.323067"
+      47.625324,
+      -122.323067
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4705/default.jpg"
@@ -231,8 +231,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.682142",
-      "-122.263301"
+      47.682142,
+      -122.263301
     ],
     "createdDate": "1934-07-21T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4712/default.jpg"
@@ -250,7 +250,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4710/default.jpg"
@@ -268,8 +268,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "",
     "coordinates": [
-      "47.613634",
-      "-122.335122"
+      47.613634,
+      -122.335122
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4706/default.jpg"
@@ -289,8 +289,8 @@
     "photographer": "Wide World Photos",
     "intersection": "2nd Ave. and Stewart St.",
     "coordinates": [
-      "47.610967",
-      "-122.340478"
+      47.610967,
+      -122.340478
     ],
     "createdDate": "1935-04-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4698/default.jpg"
@@ -314,8 +314,8 @@
     "photographer": "Underwood & Underwood",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1907-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4682/default.jpg"
@@ -335,8 +335,8 @@
     "photographer": "",
     "intersection": "14th Ave. S. and S. Jackson St.",
     "coordinates": [
-      "47.5992057",
-      "-122.3141443"
+      47.5992057,
+      -122.3141443
     ],
     "createdDate": "1927-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4735/default.jpg"
@@ -356,8 +356,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.694936",
-      "-122.290915"
+      47.694936,
+      -122.290915
     ],
     "createdDate": "1958-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4733/default.jpg"
@@ -377,7 +377,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-07-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4730/default.jpg"
@@ -401,8 +401,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.604045",
-      "-122.334907"
+      47.604045,
+      -122.334907
     ],
     "createdDate": "1935-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4739/default.jpg"
@@ -435,8 +435,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
     "coordinates": [
-      "47.602386",
-      "-122.33271"
+      47.602386,
+      -122.33271
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4737/default.jpg"
@@ -467,8 +467,8 @@
     "photographer": "Potts, DaveSeattle Post-Intelligencer",
     "intersection": "1st Ave. and Virginia St.",
     "coordinates": [
-      "47.611061",
-      "-122.342621"
+      47.611061,
+      -122.342621
     ],
     "createdDate": "1971-06-22T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4738/default.jpg"
@@ -489,8 +489,8 @@
     "photographer": "Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.615005",
-      "-122.323651"
+      47.615005,
+      -122.323651
     ],
     "createdDate": "1961-02-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4731/default.jpg"
@@ -509,8 +509,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.563081",
-      "-122.626572"
+      47.563081,
+      -122.626572
     ],
     "createdDate": "1919-04-14T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4729/default.jpg"
@@ -531,8 +531,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.616598",
-      "-122.320699"
+      47.616598,
+      -122.320699
     ],
     "createdDate": "1949-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4734/default.jpg"
@@ -553,8 +553,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.625324",
-      "-122.323067"
+      47.625324,
+      -122.323067
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4736/default.jpg"
@@ -571,7 +571,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4732/default.jpg"
@@ -589,8 +589,8 @@
     "photographer": "Dudley, Roger, 1917-2003",
     "intersection": "",
     "coordinates": [
-      "47.579149",
-      "-122.351281"
+      47.579149,
+      -122.351281
     ],
     "createdDate": "1955-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4728/default.jpg"
@@ -616,8 +616,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Pike St.",
     "coordinates": [
-      "47.610675",
-      "-122.335583"
+      47.610675,
+      -122.335583
     ],
     "createdDate": "1931-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4686/default.jpg"
@@ -637,8 +637,8 @@
     "photographer": "Romans Photographic Company",
     "intersection": "",
     "coordinates": [
-      "47.537886",
-      "-122.334992"
+      47.537886,
+      -122.334992
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4685/default.jpg"
@@ -660,7 +660,7 @@
     "photographer": "United Press International",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1955-05-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4683/default.jpg"
@@ -677,7 +677,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1955-08-15T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4680/default.jpg"
@@ -693,7 +693,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1919-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4700/default.jpg"
@@ -716,8 +716,8 @@
     "photographer": "Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.615005",
-      "-122.323651"
+      47.615005,
+      -122.323651
     ],
     "createdDate": "1960-12-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4703/default.jpg"
@@ -737,8 +737,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.72427",
-      "-122.348793"
+      47.72427,
+      -122.348793
     ],
     "createdDate": "1956-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4694/default.jpg"
@@ -761,8 +761,8 @@
     "photographer": "Williamson, Joe D., 1909-1994Williamson's Marine Photo Shop",
     "intersection": "",
     "coordinates": [
-      "47.639629",
-      "-122.333268"
+      47.639629,
+      -122.333268
     ],
     "createdDate": "1965-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4692/default.jpg"
@@ -789,8 +789,8 @@
     "photographer": "",
     "intersection": "5th Ave. and Spring St.",
     "coordinates": [
-      "47.607262",
-      "-122.332447"
+      47.607262,
+      -122.332447
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4659/default.jpg"
@@ -810,7 +810,7 @@
     "photographer": "Associated Press",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1956-11-08T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4679/default.jpg"
@@ -826,7 +826,7 @@
     "photographer": "Cushman, FrankCushman, Frank",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4617/default.jpg"
@@ -856,9 +856,9 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611088",
-      "-122.33556547.611088",
-      "-122.335565"
+      47.611088,
+      -122.33556547,
+      -122.335565
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4614/default.jpg"
@@ -875,8 +875,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      "47.628434",
-      "-122.313839"
+      47.628434,
+      -122.313839
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2778/default.jpg"
@@ -894,7 +894,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2781/default.jpg"
@@ -911,8 +911,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.647534",
-      "-122.349747"
+      47.647534,
+      -122.349747
     ],
     "createdDate": "1921-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2935/default.jpg"
@@ -931,8 +931,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666705",
-      "-122.398068"
+      47.666705,
+      -122.398068
     ],
     "createdDate": "1919-01-18T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3319/default.jpg"
@@ -955,8 +955,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.623884",
-      "-122.350357"
+      47.623884,
+      -122.350357
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3695/default.jpg"
@@ -984,7 +984,7 @@
     "photographer": "Laidlaw, Charles R., 1899-1974Laidlaw, Charles R., 1899-1974",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3310/default.jpg"
@@ -1003,8 +1003,8 @@
     "photographer": "Ellis, J. Boyd",
     "intersection": "",
     "coordinates": [
-      "47.654972",
-      "-122.30795"
+      47.654972,
+      -122.30795
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3755/default.jpg"
@@ -1024,9 +1024,9 @@
     "photographer": "Romans Photographic CompanyRomans Photo Company",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.37083347.607427",
-      "-122.370833"
+      47.607427,
+      -122.37083347,
+      -122.370833
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4524/default.jpg"
@@ -1042,8 +1042,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.652746",
-      "-122.306311"
+      47.652746,
+      -122.306311
     ],
     "createdDate": "1948-07-16T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3764/default.jpg"
@@ -1063,8 +1063,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.647609",
-      "-122.304607"
+      47.647609,
+      -122.304607
     ],
     "createdDate": "1948-09-29T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3370/default.jpg"

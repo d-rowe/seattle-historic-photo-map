@@ -14,7 +14,7 @@
     "photographer": "Romans Photographic Company",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4295/default.jpg"
@@ -38,8 +38,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4326/default.jpg"
@@ -69,8 +69,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4331/default.jpg"
@@ -97,8 +97,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4327/default.jpg"
@@ -119,8 +119,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.582689",
-      "-122.384696"
+      47.582689,
+      -122.384696
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4304/default.jpg"
@@ -143,8 +143,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.668967",
-      "-122.383394"
+      47.668967,
+      -122.383394
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4334/default.jpg"
@@ -171,8 +171,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4316/default.jpg"
@@ -199,8 +199,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.650358",
-      "-122.350179"
+      47.650358,
+      -122.350179
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4313/default.jpg"
@@ -226,8 +226,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.633814",
-      "-122.362665"
+      47.633814,
+      -122.362665
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4308/default.jpg"
@@ -251,8 +251,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4325/default.jpg"
@@ -274,8 +274,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4324/default.jpg"
@@ -298,8 +298,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4328/default.jpg"
@@ -318,8 +318,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "29th Ave. and E. Cherry St.",
     "coordinates": [
-      "47.608",
-      "-122.294889"
+      47.608,
+      -122.294889
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4321/default.jpg"
@@ -342,8 +342,8 @@
     "photographer": "",
     "intersection": "16th Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600846",
-      "-122.311574"
+      47.600846,
+      -122.311574
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4297/default.jpg"
@@ -368,8 +368,8 @@
     "photographer": "",
     "intersection": "16th Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600846",
-      "-122.311574"
+      47.600846,
+      -122.311574
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4301/default.jpg"
@@ -399,8 +399,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4299/default.jpg"
@@ -427,8 +427,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4298/default.jpg"
@@ -452,8 +452,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.633814",
-      "-122.362665"
+      47.633814,
+      -122.362665
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4302/default.jpg"
@@ -477,8 +477,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1921-09-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4332/default.jpg"
@@ -500,8 +500,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.681494",
-      "-122.326659"
+      47.681494,
+      -122.326659
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4280/default.jpg"
@@ -524,8 +524,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4282/default.jpg"
@@ -545,8 +545,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "29th Ave. and E. Cherry St.",
     "coordinates": [
-      "47.608",
-      "-122.294889"
+      47.608,
+      -122.294889
     ],
     "createdDate": "1914-08-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4283/default.jpg"
@@ -566,8 +566,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.528422",
-      "-122.324043"
+      47.528422,
+      -122.324043
     ],
     "createdDate": "1912-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4277/default.jpg"
@@ -594,8 +594,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4279/default.jpg"
@@ -624,8 +624,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.547496",
-      "-122.315894"
+      47.547496,
+      -122.315894
     ],
     "createdDate": "1912-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4274/default.jpg"
@@ -652,8 +652,8 @@
     "photographer": "",
     "intersection": "Virginia St. and Western Ave.",
     "coordinates": [
-      "47.610151",
-      "-122.343799"
+      47.610151,
+      -122.343799
     ],
     "createdDate": "1914-05-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4276/default.jpg"
@@ -677,8 +677,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1909-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4330/default.jpg"
@@ -701,8 +701,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1920-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4323/default.jpg"
@@ -731,8 +731,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.582689",
-      "-122.384696"
+      47.582689,
+      -122.384696
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4329/default.jpg"
@@ -755,8 +755,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "",
     "coordinates": [
-      "47.601909",
-      "-122.301731"
+      47.601909,
+      -122.301731
     ],
     "createdDate": "1914-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4290/default.jpg"
@@ -775,8 +775,8 @@
     "photographer": "Signal Corps Photo",
     "intersection": "",
     "coordinates": [
-      "47.603427",
-      "-122.336709"
+      47.603427,
+      -122.336709
     ],
     "createdDate": "1943-03-16T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4273/default.jpg"
@@ -810,8 +810,8 @@
     "photographer": "Ellis, J. Boyd",
     "intersection": "3rd Ave. and Pine St.",
     "coordinates": [
-      "47.610741",
-      "-122.338703"
+      47.610741,
+      -122.338703
     ],
     "createdDate": "1942-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3770/default.jpg"
@@ -829,8 +829,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg"
@@ -850,7 +850,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg"
@@ -871,8 +871,8 @@
     "photographer": "Hale",
     "intersection": "",
     "coordinates": [
-      "47.503442",
-      "-122.205148"
+      47.503442,
+      -122.205148
     ],
     "createdDate": "1929-08-15T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg"
@@ -910,9 +910,9 @@
     "photographer": "Singley, B.L.Singley, B.L.",
     "intersection": "3rd Ave. and Stewart St.3rd Ave. and Stewart St.",
     "coordinates": [
-      "47.612026",
-      "-122.34021847.612026",
-      "-122.340218"
+      47.612026,
+      -122.34021847,
+      -122.340218
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4336/default.jpg"
@@ -930,8 +930,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "Broadway and E. Olive Way.",
     "coordinates": [
-      "47.616561",
-      "-122.320699"
+      47.616561,
+      -122.320699
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4434/default.jpg"
@@ -953,8 +953,8 @@
     "photographer": "Hale",
     "intersection": "",
     "coordinates": [
-      "47.503442",
-      "-122.205148"
+      47.503442,
+      -122.205148
     ],
     "createdDate": "1929-04-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4438/default.jpg"
@@ -972,8 +972,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "Broadway and E. Olive Way.",
     "coordinates": [
-      "47.616561",
-      "-122.320699"
+      47.616561,
+      -122.320699
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4430/default.jpg"
@@ -990,7 +990,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg"
@@ -1008,8 +1008,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg"
@@ -1026,8 +1026,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.810492",
-      "-122.248258"
+      47.810492,
+      -122.248258
     ],
     "createdDate": "1947-06-28T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg"
@@ -1047,8 +1047,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620746",
-      "-122.350433"
+      47.620746,
+      -122.350433
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg"
@@ -1071,8 +1071,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.618925",
-      "-122.35152"
+      47.618925,
+      -122.35152
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg"
@@ -1090,8 +1090,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6221",
-      "-122.353988"
+      47.6221,
+      -122.353988
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg"
@@ -1109,8 +1109,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg"
@@ -1128,8 +1128,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg"
@@ -1147,8 +1147,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "46.879966",
-      "-121.726909"
+      46.879966,
+      -121.726909
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg"
@@ -1166,8 +1166,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6221",
-      "-122.353988"
+      47.6221,
+      -122.353988
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg"
@@ -1187,8 +1187,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.580654",
-      "-122.344015"
+      47.580654,
+      -122.344015
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg"

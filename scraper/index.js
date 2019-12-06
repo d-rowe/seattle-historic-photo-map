@@ -3,7 +3,7 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 
 const STARTING_PAGE = 1;
-const ENDING_PAGE = 62;
+const ENDING_PAGE = 1;
 
 (async () => {
   const browser = await puppeteer.launch();
@@ -54,7 +54,8 @@ const ENDING_PAGE = 62;
       let coordinates = $(".field-coordi")
         .find(".field-value")
         .text()
-        .split(", ");
+        .split(", ")
+        .map(coord => parseFloat(coord));
 
       let createdDate = new Date(
         $(".field-date")

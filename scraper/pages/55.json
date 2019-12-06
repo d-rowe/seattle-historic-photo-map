@@ -10,7 +10,7 @@
     "photographer": "Locke, Harold F., 1890-1969",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4444/default.jpg"
@@ -32,8 +32,8 @@
     "photographer": "Aerolist, Inc.",
     "intersection": "",
     "coordinates": [
-      "47.409352",
-      "-122.326048"
+      47.409352,
+      -122.326048
     ],
     "createdDate": "1974-03-19T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4450/default.jpg"
@@ -52,8 +52,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4396/default.jpg"
@@ -80,8 +80,8 @@
     "photographer": "Aerolist, Inc.",
     "intersection": "",
     "coordinates": [
-      "47.580220",
-      "-122.164482"
+      47.58022,
+      -122.164482
     ],
     "createdDate": "1973-04-07T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4397/default.jpg"
@@ -102,8 +102,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.574504",
-      "-122.346560"
+      47.574504,
+      -122.34656
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4399/default.jpg"
@@ -122,8 +122,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.651983",
-      "-122.308369"
+      47.651983,
+      -122.308369
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4398/default.jpg"
@@ -141,8 +141,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "Broadway and E. Olive Way.",
     "coordinates": [
-      "47.616561",
-      "-122.320699"
+      47.616561,
+      -122.320699
     ],
     "createdDate": "1915-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4392/default.jpg"
@@ -178,9 +178,9 @@
     "photographer": "",
     "intersection": "1st Ave. and Seneca St.1st Ave. and Seneca St.",
     "coordinates": [
-      "47.60612",
-      "-122.33756447.60612",
-      "-122.337564"
+      47.60612,
+      -122.33756447,
+      -122.337564
     ],
     "createdDate": "",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4342/default.jpg"
@@ -198,8 +198,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4483/default.jpg"
@@ -219,8 +219,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.580654",
-      "-122.344015"
+      47.580654,
+      -122.344015
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4486/default.jpg"
@@ -238,8 +238,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6221",
-      "-122.353988"
+      47.6221,
+      -122.353988
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4485/default.jpg"
@@ -257,8 +257,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "46.879966",
-      "-121.726909"
+      46.879966,
+      -121.726909
     ],
     "createdDate": "1945-01-01T07:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4487/default.jpg"
@@ -276,8 +276,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4481/default.jpg"
@@ -295,8 +295,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4482/default.jpg"
@@ -314,8 +314,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6221",
-      "-122.353988"
+      47.6221,
+      -122.353988
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4484/default.jpg"
@@ -338,8 +338,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.618925",
-      "-122.35152"
+      47.618925,
+      -122.35152
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4477/default.jpg"
@@ -359,7 +359,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1906-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4448/default.jpg"
@@ -380,8 +380,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.522729",
-      "-122.345457"
+      47.522729,
+      -122.345457
     ],
     "createdDate": "1931-10-29T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4445/default.jpg"
@@ -399,8 +399,8 @@
     "photographer": "",
     "intersection": "Terry Ave. N. and N. Valley St.",
     "coordinates": [
-      "47.625744",
-      "-122.337129"
+      47.625744,
+      -122.337129
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4441/default.jpg"
@@ -419,8 +419,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.584056",
-      "-122.342229"
+      47.584056,
+      -122.342229
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4446/default.jpg"
@@ -441,8 +441,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.584056",
-      "-122.342229"
+      47.584056,
+      -122.342229
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4447/default.jpg"
@@ -463,8 +463,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.584056",
-      "-122.342229"
+      47.584056,
+      -122.342229
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4440/default.jpg"
@@ -490,8 +490,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1967-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4443/default.jpg"
@@ -511,8 +511,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620746",
-      "-122.350433"
+      47.620746,
+      -122.350433
     ],
     "createdDate": "1961-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4480/default.jpg"
@@ -529,8 +529,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.810492",
-      "-122.248258"
+      47.810492,
+      -122.248258
     ],
     "createdDate": "1947-06-28T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4476/default.jpg"
@@ -549,8 +549,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4410/default.jpg"
@@ -569,7 +569,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1920-12-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4409/default.jpg"
@@ -585,7 +585,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4412/default.jpg"
@@ -602,7 +602,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4426/default.jpg"
@@ -619,7 +619,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1940-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4427/default.jpg"
@@ -638,8 +638,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.582689",
-      "-122.384696"
+      47.582689,
+      -122.384696
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4419/default.jpg"
@@ -656,8 +656,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4413/default.jpg"
@@ -674,7 +674,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4414/default.jpg"
@@ -696,8 +696,8 @@
     "photographer": "Hale",
     "intersection": "",
     "coordinates": [
-      "47.503442",
-      "-122.205148"
+      47.503442,
+      -122.205148
     ],
     "createdDate": "1929-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4405/default.jpg"
@@ -713,7 +713,7 @@
     "photographer": "Williamson, Joe D., 1909-1994",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4404/default.jpg"
@@ -732,8 +732,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.651983",
-      "-122.308369"
+      47.651983,
+      -122.308369
     ],
     "createdDate": "1909-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4373/default.jpg"
@@ -750,7 +750,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4374/default.jpg"
@@ -769,7 +769,7 @@
     "photographer": "Soule, John P.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1893-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4372/default.jpg"
@@ -787,8 +787,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4378/default.jpg"
@@ -805,7 +805,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4379/default.jpg"
@@ -824,7 +824,7 @@
     "photographer": "Boyd, William F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4457/default.jpg"
@@ -845,8 +845,8 @@
     "photographer": "Hale",
     "intersection": "",
     "coordinates": [
-      "47.503442",
-      "-122.205148"
+      47.503442,
+      -122.205148
     ],
     "createdDate": "1929-08-15T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4467/default.jpg"
@@ -866,7 +866,7 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4465/default.jpg"
@@ -884,8 +884,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.620423",
-      "-122.349355"
+      47.620423,
+      -122.349355
     ],
     "createdDate": "1961-11-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4475/default.jpg"
@@ -909,8 +909,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.584056",
-      "-122.342229"
+      47.584056,
+      -122.342229
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4470/default.jpg"
@@ -933,8 +933,8 @@
     "photographer": "Hale",
     "intersection": "",
     "coordinates": [
-      "47.503442",
-      "-122.205148"
+      47.503442,
+      -122.205148
     ],
     "createdDate": "1929-02-07T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4390/default.jpg"
@@ -953,8 +953,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1960-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4381/default.jpg"
@@ -972,7 +972,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1965-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4387/default.jpg"
@@ -989,8 +989,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.6066",
-      "-122.332984"
+      47.6066,
+      -122.332984
     ],
     "createdDate": "1970-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4380/default.jpg"
@@ -1011,8 +1011,8 @@
     "photographer": "Port of Seattle",
     "intersection": "",
     "coordinates": [
-      "47.584056",
-      "-122.342229"
+      47.584056,
+      -122.342229
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/4385/default.jpg"

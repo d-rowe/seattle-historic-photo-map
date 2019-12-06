@@ -21,8 +21,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3982/default.jpg"
@@ -41,8 +41,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.655335",
-      "-122.30352"
+      47.655335,
+      -122.30352
     ],
     "createdDate": "1935-03-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3973/default.jpg"
@@ -70,8 +70,8 @@
     "photographer": "Watkins, Carleton E., 1829-1916Webster & Stevens",
     "intersection": "2nd Ave. and Virginia St.",
     "coordinates": [
-      "47.611738",
-      "-122.341729"
+      47.611738,
+      -122.341729
     ],
     "createdDate": "1882-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3992/default.jpg"
@@ -95,8 +95,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.607427",
-      "-122.370833"
+      47.607427,
+      -122.370833
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3963/default.jpg"
@@ -115,8 +115,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.62607",
-      "-122.358349"
+      47.62607,
+      -122.358349
     ],
     "createdDate": "1935-01-28T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3969/default.jpg"
@@ -139,8 +139,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.630028",
-      "-122.315049"
+      47.630028,
+      -122.315049
     ],
     "createdDate": "1935-04-19T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3970/default.jpg"
@@ -166,8 +166,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1881-09-26T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3962/default.jpg"
@@ -188,8 +188,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.570825",
-      "-122.280101"
+      47.570825,
+      -122.280101
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3960/default.jpg"
@@ -211,8 +211,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.579075",
-      "-122.411428"
+      47.579075,
+      -122.411428
     ],
     "createdDate": "1934-07-29T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3986/default.jpg"
@@ -229,7 +229,7 @@
     "photographer": "Pautzke, Otto, 1862-1918",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3966/default.jpg"
@@ -258,8 +258,8 @@
     "photographer": "Peiser, Theodore, E.Webster & Stevens",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      " -122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1880-01-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3980/default.jpg"
@@ -281,8 +281,8 @@
     "photographer": "Acme Newspictures",
     "intersection": "24th Ave. NW and NW 54th St.",
     "coordinates": [
-      "47.667917",
-      "-122.387645"
+      47.667917,
+      -122.387645
     ],
     "createdDate": "1940-04-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3976/default.jpg"
@@ -305,8 +305,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.609563",
-      "-122.333552"
+      47.609563,
+      -122.333552
     ],
     "createdDate": "1935-03-13T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3951/default.jpg"
@@ -324,8 +324,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.602645",
-      "-122.330526"
+      47.602645,
+      -122.330526
     ],
     "createdDate": "1935-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3961/default.jpg"
@@ -346,8 +346,8 @@
     "photographer": "Public Relations Department, Seattle World's Fair",
     "intersection": "",
     "coordinates": [
-      "47.620746",
-      "-122.350433"
+      47.620746,
+      -122.350433
     ],
     "createdDate": "1962-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3968/default.jpg"
@@ -370,8 +370,8 @@
     "photographer": "Seattle Times",
     "intersection": "3rd Ave. and Union St.",
     "coordinates": [
-      "47.608816",
-      "-122.337526"
+      47.608816,
+      -122.337526
     ],
     "createdDate": "1952-03-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3964/default.jpg"
@@ -390,8 +390,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655407",
-      "-122.430019"
+      47.655407,
+      -122.430019
     ],
     "createdDate": "1940-04-03T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3929/default.jpg"
@@ -419,8 +419,8 @@
     "photographer": "",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.602034",
-      "-122.333886"
+      47.602034,
+      -122.333886
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3935/default.jpg"
@@ -439,8 +439,8 @@
     "photographer": "Acme Newspictures",
     "intersection": "24th Ave. NW and NW 54th St.",
     "coordinates": [
-      "47.667917",
-      "-122.387645"
+      47.667917,
+      -122.387645
     ],
     "createdDate": "1940-04-26T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3930/default.jpg"
@@ -461,8 +461,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602234",
-      "-122.331047"
+      47.602234,
+      -122.331047
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3925/default.jpg"
@@ -485,8 +485,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.609563",
-      "-122.333552"
+      47.609563,
+      -122.333552
     ],
     "createdDate": "1935-04-02T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3983/default.jpg"
@@ -505,8 +505,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.649753",
-      "-122.301931"
+      47.649753,
+      -122.301931
     ],
     "createdDate": "1934-09-24T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3912/default.jpg"
@@ -534,8 +534,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "",
     "coordinates": [
-      "47.601989",
-      "-122.331727"
+      47.601989,
+      -122.331727
     ],
     "createdDate": "1923-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3921/default.jpg"
@@ -554,8 +554,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655335",
-      "-122.30352"
+      47.655335,
+      -122.30352
     ],
     "createdDate": "1918-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3915/default.jpg"
@@ -582,8 +582,8 @@
     "photographer": "Clark, E.A.Webster & Stevens",
     "intersection": "1st. Ave. and Yesler Way",
     "coordinates": [
-      "47.602207",
-      "-122.334076"
+      47.602207,
+      -122.334076
     ],
     "createdDate": "1860-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3914/default.jpg"
@@ -613,8 +613,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.624549",
-      "-122.348425"
+      47.624549,
+      -122.348425
     ],
     "createdDate": "1935-03-25T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3920/default.jpg"
@@ -636,8 +636,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.623906",
-      "-122.351918"
+      47.623906,
+      -122.351918
     ],
     "createdDate": "1935-04-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3916/default.jpg"
@@ -658,8 +658,8 @@
     "photographer": "",
     "intersection": "5th Ave. N. and Aloha St.",
     "coordinates": [
-      "47.62716",
-      "-122.347557"
+      47.62716,
+      -122.347557
     ],
     "createdDate": "1950-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3922/default.jpg"
@@ -680,8 +680,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.625722",
-      "-122.338574"
+      47.625722,
+      -122.338574
     ],
     "createdDate": "1935-05-10T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3913/default.jpg"
@@ -701,8 +701,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.736563",
-      "-122.365684"
+      47.736563,
+      -122.365684
     ],
     "createdDate": "1935-05-14T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3919/default.jpg"
@@ -725,8 +725,8 @@
     "photographer": "Peiser, Theodore E.Webster & Stevens",
     "intersection": "4th Ave. and Seneca St.",
     "coordinates": [
-      "47.607498",
-      " -122.334076"
+      47.607498,
+      -122.334076
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3917/default.jpg"
@@ -759,8 +759,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3923/default.jpg"
@@ -781,8 +781,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.599882",
-      "-122.335066"
+      47.599882,
+      -122.335066
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3918/default.jpg"
@@ -799,7 +799,7 @@
     "photographer": "Perkins Studio",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1925-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3967/default.jpg"
@@ -822,8 +822,8 @@
     "photographer": "Associated Press",
     "intersection": "",
     "coordinates": [
-      "47.602645",
-      "-122.330526"
+      47.602645,
+      -122.330526
     ],
     "createdDate": "1940-04-27T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3924/default.jpg"
@@ -841,8 +841,8 @@
     "photographer": "Acme Newspictures",
     "intersection": "",
     "coordinates": [
-      "47.601858",
-      "-122.333045"
+      47.601858,
+      -122.333045
     ],
     "createdDate": "1929-02-27T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3926/default.jpg"
@@ -859,8 +859,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.649753",
-      "-122.301931"
+      47.649753,
+      -122.301931
     ],
     "createdDate": "1934-09-24T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3933/default.jpg"
@@ -880,8 +880,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.652073",
-      "-122.302189"
+      47.652073,
+      -122.302189
     ],
     "createdDate": "1935-03-22T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3932/default.jpg"
@@ -901,8 +901,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.610743",
-      "-122.33542"
+      47.610743,
+      -122.33542
     ],
     "createdDate": "1953-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3965/default.jpg"
@@ -920,8 +920,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.655335",
-      "-122.30352"
+      47.655335,
+      -122.30352
     ],
     "createdDate": "1934-12-24T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3927/default.jpg"
@@ -938,8 +938,8 @@
     "photographer": "Acme Newspictures",
     "intersection": "",
     "coordinates": [
-      "47.602645",
-      "-122.330526"
+      47.602645,
+      -122.330526
     ],
     "createdDate": "1926-02-11T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3931/default.jpg"
@@ -959,8 +959,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.481333",
-      "-122.265205"
+      47.481333,
+      -122.265205
     ],
     "createdDate": "1934-11-16T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3934/default.jpg"
@@ -986,8 +986,8 @@
     "photographer": "Waller, H. H.",
     "intersection": "",
     "coordinates": [
-      "47.599198",
-      "-122.329027"
+      47.599198,
+      -122.329027
     ],
     "createdDate": "1920-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3928/default.jpg"
@@ -1018,8 +1018,8 @@
     "photographer": "Soule, John P.Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3977/default.jpg"
@@ -1038,8 +1038,8 @@
     "photographer": "Associated Press",
     "intersection": "",
     "coordinates": [
-      "47.620746",
-      "-122.350433"
+      47.620746,
+      -122.350433
     ],
     "createdDate": "1962-02-27T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3979/default.jpg"
@@ -1058,8 +1058,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.62607",
-      "-122.358349"
+      47.62607,
+      -122.358349
     ],
     "createdDate": "1935-04-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3978/default.jpg"
@@ -1079,8 +1079,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.614944",
-      "-122.32175"
+      47.614944,
+      -122.32175
     ],
     "createdDate": "1919-07-16T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3936/default.jpg"
@@ -1098,8 +1098,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.62607",
-      "-122.358349"
+      47.62607,
+      -122.358349
     ],
     "createdDate": "1935-04-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3937/default.jpg"
@@ -1117,8 +1117,8 @@
     "photographer": "Unipix",
     "intersection": "",
     "coordinates": [
-      "47.605952",
-      "-122.335627"
+      47.605952,
+      -122.335627
     ],
     "createdDate": "1974-10-08T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3947/default.jpg"
@@ -1138,8 +1138,8 @@
     "photographer": "Wide World Photos",
     "intersection": "",
     "coordinates": [
-      "47.649753",
-      "-122.301931"
+      47.649753,
+      -122.301931
     ],
     "createdDate": "1934-09-29T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3944/default.jpg"

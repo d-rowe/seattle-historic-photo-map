@@ -11,7 +11,7 @@
     "photographer": "Sammis, E.M.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1864-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2924/default.jpg"
@@ -28,7 +28,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2922/default.jpg"
@@ -54,8 +54,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "3rd Ave. and Stewart St.",
     "coordinates": [
-      "47.611642",
-      "-122.339576"
+      47.611642,
+      -122.339576
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2917/default.jpg"
@@ -81,8 +81,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "3rd Ave. and Stewart St.",
     "coordinates": [
-      "47.611642",
-      "-122.339576"
+      47.611642,
+      -122.339576
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2920/default.jpg"
@@ -104,8 +104,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "2nd Ave. and Cherry St.",
     "coordinates": [
-      "47.603048",
-      "-122.333323"
+      47.603048,
+      -122.333323
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2927/default.jpg"
@@ -130,8 +130,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "2nd Ave. and James St.",
     "coordinates": [
-      "47.602386",
-      "-122.33271"
+      47.602386,
+      -122.33271
     ],
     "createdDate": "1889-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2926/default.jpg"
@@ -159,8 +159,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      "47.601449",
-      "-122.332583"
+      47.601449,
+      -122.332583
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2925/default.jpg"
@@ -181,8 +181,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600874",
-      "-122.302224"
+      47.600874,
+      -122.302224
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2921/default.jpg"
@@ -203,8 +203,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "43rd Ave. E. and E. Madison St.",
     "coordinates": [
-      "47.636631",
-      "-122.277016"
+      47.636631,
+      -122.277016
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2928/default.jpg"
@@ -229,8 +229,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      "-122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2930/default.jpg"
@@ -251,8 +251,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "43rd Ave. E. and E. Madison St.",
     "coordinates": [
-      "47.636631",
-      "-122.277016"
+      47.636631,
+      -122.277016
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2929/default.jpg"
@@ -271,8 +271,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.658393",
-      "-122.308833"
+      47.658393,
+      -122.308833
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3081/default.jpg"
@@ -291,8 +291,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.657208",
-      "-122.308311"
+      47.657208,
+      -122.308311
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3077/default.jpg"
@@ -311,8 +311,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.658393",
-      "-122.308833"
+      47.658393,
+      -122.308833
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3080/default.jpg"
@@ -330,7 +330,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3078/default.jpg"
@@ -352,8 +352,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.655854",
-      "-122.309492"
+      47.655854,
+      -122.309492
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3072/default.jpg"
@@ -377,8 +377,8 @@
     "photographer": "",
     "intersection": "Boat St. NE and NE Pacific St.",
     "coordinates": [
-      "47.65372",
-      "-122.317373"
+      47.65372,
+      -122.317373
     ],
     "createdDate": "1984-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3132/default.jpg"
@@ -403,8 +403,8 @@
     "photographer": "",
     "intersection": "NE 45th St. and University Way NE",
     "coordinates": [
-      "47.660818",
-      "-122.313462"
+      47.660818,
+      -122.313462
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3179/default.jpg"
@@ -424,8 +424,8 @@
     "photographer": "",
     "intersection": "University Way NE and NE 50th St.",
     "coordinates": [
-      "47.665895",
-      "-122.313624"
+      47.665895,
+      -122.313624
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3170/default.jpg"
@@ -446,8 +446,8 @@
     "photographer": "",
     "intersection": "15th Ave. NE and NE 45th St.",
     "coordinates": [
-      "47.661268",
-      "-122.311939"
+      47.661268,
+      -122.311939
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3178/default.jpg"
@@ -465,8 +465,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.663646",
-      "-122.309145"
+      47.663646,
+      -122.309145
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3171/default.jpg"
@@ -489,8 +489,8 @@
     "photographer": "",
     "intersection": "15th Ave. NE and NE 45th St.",
     "coordinates": [
-      "47.660814",
-      "-122.31236"
+      47.660814,
+      -122.31236
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3177/default.jpg"
@@ -510,8 +510,8 @@
     "photographer": "",
     "intersection": "17th Avenue NE and NE 47th St.",
     "coordinates": [
-      "47.66401",
-      "-122.309947"
+      47.66401,
+      -122.309947
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3172/default.jpg"
@@ -528,7 +528,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3176/default.jpg"
@@ -547,8 +547,8 @@
     "photographer": "",
     "intersection": "16th Ave. NE and NE 47th St.",
     "coordinates": [
-      "47.662858",
-      "-122.311578"
+      47.662858,
+      -122.311578
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3173/default.jpg"
@@ -567,8 +567,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.662858",
-      "-122.311578"
+      47.662858,
+      -122.311578
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3175/default.jpg"
@@ -589,8 +589,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3096/default.jpg"
@@ -611,8 +611,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3100/default.jpg"
@@ -635,8 +635,8 @@
     "photographer": "",
     "intersection": "Brooklyn Ave. NE and NE 45th St.",
     "coordinates": [
-      "47.661171",
-      "-122.314016"
+      47.661171,
+      -122.314016
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3103/default.jpg"
@@ -658,8 +658,8 @@
     "photographer": "",
     "intersection": "NE 47th St. and Brooklyn Ave. NE",
     "coordinates": [
-      "47.662942",
-      "-122.313796"
+      47.662942,
+      -122.313796
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3107/default.jpg"
@@ -682,8 +682,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3097/default.jpg"
@@ -705,8 +705,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3101/default.jpg"
@@ -726,8 +726,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3089/default.jpg"
@@ -749,8 +749,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3095/default.jpg"
@@ -770,8 +770,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.660708",
-      "-122.314789"
+      47.660708,
+      -122.314789
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3094/default.jpg"
@@ -792,8 +792,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.650009",
-      "-122.316113"
+      47.650009,
+      -122.316113
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3084/default.jpg"
@@ -816,8 +816,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.650009",
-      "-122.316113"
+      47.650009,
+      -122.316113
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3085/default.jpg"
@@ -840,8 +840,8 @@
     "photographer": "",
     "intersection": "NE 40th St. and NE University Way",
     "coordinates": [
-      "47.655484",
-      "-122.312964"
+      47.655484,
+      -122.312964
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3148/default.jpg"
@@ -861,8 +861,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.651832",
-      "-122.320783"
+      47.651832,
+      -122.320783
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3145/default.jpg"
@@ -881,8 +881,8 @@
     "photographer": "",
     "intersection": "16th Ave. NE and NE 47th St.",
     "coordinates": [
-      "47.662858",
-      "-122.311578"
+      47.662858,
+      -122.311578
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3152/default.jpg"
@@ -902,8 +902,8 @@
     "photographer": "",
     "intersection": "9th Ave. NE and NE 50th St.",
     "coordinates": [
-      "47.665135",
-      "-122.318663"
+      47.665135,
+      -122.318663
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3149/default.jpg"
@@ -923,8 +923,8 @@
     "photographer": "",
     "intersection": "15th Ave. NE and NE 47th St.",
     "coordinates": [
-      "47.664464",
-      "-122.312215"
+      47.664464,
+      -122.312215
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3108/default.jpg"
@@ -942,8 +942,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665244",
-      "-122.317883"
+      47.665244,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3118/default.jpg"
@@ -963,8 +963,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665245",
-      "-122.317883"
+      47.665245,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3114/default.jpg"
@@ -987,8 +987,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.661625",
-      "-122.317455"
+      47.661625,
+      -122.317455
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3111/default.jpg"
@@ -1006,8 +1006,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665244",
-      "-122.317883"
+      47.665244,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3116/default.jpg"
@@ -1028,8 +1028,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 50th St.",
     "coordinates": [
-      "47.664745",
-      "-122.317794"
+      47.664745,
+      -122.317794
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3119/default.jpg"
@@ -1051,8 +1051,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.663581",
-      "-122.31741"
+      47.663581,
+      -122.31741
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3110/default.jpg"
@@ -1072,8 +1072,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.665245",
-      "-122.317883"
+      47.665245,
+      -122.317883
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3113/default.jpg"
@@ -1094,8 +1094,8 @@
     "photographer": "",
     "intersection": "Roosevelt Way NE and NE 47th St.",
     "coordinates": [
-      "47.664788",
-      "-122.317651"
+      47.664788,
+      -122.317651
     ],
     "createdDate": "1984-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/3112/default.jpg"

@@ -20,8 +20,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.633814",
-      "-122.362665"
+      47.633814,
+      -122.362665
     ],
     "createdDate": "1913-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1358/default.jpg"
@@ -41,8 +41,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.674066",
-      "-122.384497"
+      47.674066,
+      -122.384497
     ],
     "createdDate": "1911-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1361/default.jpg"
@@ -59,7 +59,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1356/default.jpg"
@@ -77,7 +77,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1368/default.jpg"
@@ -96,8 +96,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1376/default.jpg"
@@ -115,8 +115,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1371/default.jpg"
@@ -136,8 +136,8 @@
     "photographer": "C.E. Ebert Photo-Viewing Company",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1379/default.jpg"
@@ -156,8 +156,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1374/default.jpg"
@@ -173,8 +173,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1373/default.jpg"
@@ -193,8 +193,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.667783",
-      "-122.395857"
+      47.667783,
+      -122.395857
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1372/default.jpg"
@@ -217,8 +217,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1378/default.jpg"
@@ -236,8 +236,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1375/default.jpg"
@@ -261,8 +261,8 @@
     "photographer": "",
     "intersection": "Ballard Ave. NW and NW Dock Pl.",
     "coordinates": [
-      "47.664443",
-      "-122.380918"
+      47.664443,
+      -122.380918
     ],
     "createdDate": "1892-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1369/default.jpg"
@@ -281,8 +281,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1377/default.jpg"
@@ -306,8 +306,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1920-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1370/default.jpg"
@@ -325,8 +325,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1380/default.jpg"
@@ -344,8 +344,8 @@
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Madison St.",
     "coordinates": [
-      "47.60467",
-      "-122.336223"
+      47.60467,
+      -122.336223
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1388/default.jpg"
@@ -370,8 +370,8 @@
     "photographer": "Bailey, Edwin J.",
     "intersection": "James St. and Yesler Way",
     "coordinates": [
-      "47.601722",
-      "-122.333686"
+      47.601722,
+      -122.333686
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1387/default.jpg"
@@ -395,8 +395,8 @@
     "photographer": "Cromwell, Alfred",
     "intersection": "Alaskan Way and University St.",
     "coordinates": [
-      "47.605877",
-      "-122.340393"
+      47.605877,
+      -122.340393
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1389/default.jpg"
@@ -415,8 +415,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1920-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1382/default.jpg"
@@ -437,8 +437,8 @@
     "photographer": "",
     "intersection": "9th Ave. NW and NW 57th St.",
     "coordinates": [
-      "47.670167",
-      "-122.36859"
+      47.670167,
+      -122.36859
     ],
     "createdDate": "1900-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1386/default.jpg"
@@ -456,8 +456,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1384/default.jpg"
@@ -479,8 +479,8 @@
     "photographer": "",
     "intersection": "24th Ave. NW and NW Market St.",
     "coordinates": [
-      "47.668679",
-      "-122.38758"
+      47.668679,
+      -122.38758
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1385/default.jpg"
@@ -501,8 +501,8 @@
     "photographer": "",
     "intersection": "Alaskan Way S. and Columbia St.",
     "coordinates": [
-      "47.602475",
-      "-122.336897"
+      47.602475,
+      -122.336897
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1391/default.jpg"
@@ -520,8 +520,8 @@
     "photographer": "C.E. Ebert Photo-Viewing Company",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1905-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1381/default.jpg"
@@ -540,8 +540,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.559901",
-      "-122.286959"
+      47.559901,
+      -122.286959
     ],
     "createdDate": "1910-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1390/default.jpg"
@@ -559,8 +559,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.666323",
-      "-122.395404"
+      47.666323,
+      -122.395404
     ],
     "createdDate": "1900-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1383/default.jpg"
@@ -583,8 +583,8 @@
     "photographer": "Boyd & Braas",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1908-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1392/default.jpg"
@@ -605,8 +605,8 @@
     "photographer": "Soule, John P.",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1394/default.jpg"
@@ -625,8 +625,8 @@
     "photographer": "",
     "intersection": "1st Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600882",
-      "-122.334249"
+      47.600882,
+      -122.334249
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1401/default.jpg"
@@ -646,8 +646,8 @@
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. S. and S. Main St.",
     "coordinates": [
-      "47.600046",
-      "-122.334125"
+      47.600046,
+      -122.334125
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1398/default.jpg"
@@ -667,8 +667,8 @@
     "photographer": "Boyd & BraasWebster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
     "coordinates": [
-      "47.600037",
-      "-122.335947"
+      47.600037,
+      -122.335947
     ],
     "createdDate": "1880-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1397/default.jpg"
@@ -686,7 +686,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1856-01-28T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1396/default.jpg"
@@ -709,8 +709,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1399/default.jpg"
@@ -729,8 +729,8 @@
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Columbia St.",
     "coordinates": [
-      "47.6033",
-      "-122.334973"
+      47.6033,
+      -122.334973
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1400/default.jpg"
@@ -753,8 +753,8 @@
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1402/default.jpg"
@@ -775,8 +775,8 @@
     "photographer": "Soule, John P.",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1889-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1393/default.jpg"
@@ -795,8 +795,8 @@
     "photographer": "",
     "intersection": "James St. and Yesler Ave.",
     "coordinates": [
-      "47.601722",
-      "-122.333686"
+      47.601722,
+      -122.333686
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1403/default.jpg"
@@ -813,7 +813,7 @@
     "photographer": "Boyd, William F.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1395/default.jpg"
@@ -835,8 +835,8 @@
     "photographer": "Soule, John P.McManus",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1412/default.jpg"
@@ -857,8 +857,8 @@
     "photographer": "McManus",
     "intersection": "3rd Ave. and Yesler Way",
     "coordinates": [
-      "47.601721",
-      "-122.330447"
+      47.601721,
+      -122.330447
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1413/default.jpg"
@@ -875,8 +875,8 @@
     "photographer": "Soule, John P.",
     "intersection": "Post Ave. and Yesler Way",
     "coordinates": [
-      "47.601737",
-      "-122.334876"
+      47.601737,
+      -122.334876
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1411/default.jpg"
@@ -900,8 +900,8 @@
     "photographer": "Clark, E.A.Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1860-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1415/default.jpg"
@@ -921,8 +921,8 @@
     "photographer": "",
     "intersection": "1st Ave. S. and S. Washington St.",
     "coordinates": [
-      "47.600882",
-      "-122.334249"
+      47.600882,
+      -122.334249
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1405/default.jpg"
@@ -943,8 +943,8 @@
     "photographer": "Soule, John P.",
     "intersection": "1st Ave. and Marion St.",
     "coordinates": [
-      "47.603978",
-      "-122.3356"
+      47.603978,
+      -122.3356
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1406/default.jpg"
@@ -965,8 +965,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and James St.",
     "coordinates": [
-      "47.602386",
-      "-122.33271"
+      47.602386,
+      -122.33271
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1410/default.jpg"
@@ -988,8 +988,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Yesler Way",
     "coordinates": [
-      "47.601716",
-      "-122.331999"
+      47.601716,
+      -122.331999
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1408/default.jpg"
@@ -1009,8 +1009,8 @@
     "photographer": "",
     "intersection": "2nd Ave. and Columbia St.",
     "coordinates": [
-      "47.603738",
-      "-122.333842"
+      47.603738,
+      -122.333842
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1409/default.jpg"
@@ -1049,8 +1049,8 @@
     "photographer": "Peterson & Bros.",
     "intersection": "Alaskan Way S. and Columbia St.",
     "coordinates": [
-      "47.602475",
-      "-122.336897"
+      47.602475,
+      -122.336897
     ],
     "createdDate": "1878-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1414/default.jpg"
@@ -1074,8 +1074,8 @@
     "photographer": "Soule, John P.",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1407/default.jpg"

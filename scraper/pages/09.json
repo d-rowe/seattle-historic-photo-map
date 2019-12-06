@@ -18,8 +18,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and James St.",
     "coordinates": [
-      "47.602768",
-      "-122.331409"
+      47.602768,
+      -122.331409
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1522/default.jpg"
@@ -43,8 +43,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1890-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1517/default.jpg"
@@ -76,8 +76,8 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "S. Occidental Ave. and Yesler Way",
     "coordinates": [
-      "47.601715",
-      "-122.33279"
+      47.601715,
+      -122.33279
     ],
     "createdDate": "1884-09-20T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1521/default.jpg"
@@ -97,8 +97,8 @@
     "photographer": "Boyd & Brass",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      " -122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1889-06-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1515/default.jpg"
@@ -120,8 +120,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1890-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1516/default.jpg"
@@ -145,8 +145,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "3rd Ave. and Jefferson St.",
     "coordinates": [
-      "47.602132",
-      "-122.330816"
+      47.602132,
+      -122.330816
     ],
     "createdDate": "1885-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1523/default.jpg"
@@ -177,8 +177,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1520/default.jpg"
@@ -204,8 +204,8 @@
     "photographer": "",
     "intersection": "3rd Ave. and Union St.",
     "coordinates": [
-      "47.60825",
-      "-122.336548"
+      47.60825,
+      -122.336548
     ],
     "createdDate": "1883-09-14T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1513/default.jpg"
@@ -238,8 +238,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1512/default.jpg"
@@ -261,8 +261,8 @@
     "photographer": "",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1885-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1526/default.jpg"
@@ -281,8 +281,8 @@
     "photographer": "Soule, John P.",
     "intersection": "Terry Ave. N. and Valley St.",
     "coordinates": [
-      "47.625744",
-      "-122.337129"
+      47.625744,
+      -122.337129
     ],
     "createdDate": "1888-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1529/default.jpg"
@@ -307,8 +307,8 @@
     "photographer": "Curtis & MillerWebster & Stevens",
     "intersection": "4th Ave. and Seneca St.",
     "coordinates": [
-      "47.607498",
-      " -122.334076"
+      47.607498,
+      -122.334076
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1531/default.jpg"
@@ -336,8 +336,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Cherry St.",
     "coordinates": [
-      "47.602557",
-      "-122.334303"
+      47.602557,
+      -122.334303
     ],
     "createdDate": "1914-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1525/default.jpg"
@@ -360,7 +360,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1895-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1528/default.jpg"
@@ -382,8 +382,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "2nd. Ave. and Cherry St.",
     "coordinates": [
-      "47.603048",
-      "-122.333323"
+      47.603048,
+      -122.333323
     ],
     "createdDate": "1870-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1533/default.jpg"
@@ -402,8 +402,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.633896",
-      "-122.312434"
+      47.633896,
+      -122.312434
     ],
     "createdDate": "1903-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1532/default.jpg"
@@ -434,8 +434,8 @@
     "photographer": "Curtis & Miller",
     "intersection": "Post Ave. and Yesler Way",
     "coordinates": [
-      "47.601737",
-      "-122.334876"
+      47.601737,
+      -122.334876
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1530/default.jpg"
@@ -456,8 +456,8 @@
     "photographer": "Curtis, Asahel, 1874-1941",
     "intersection": "Alaskan Way S. and Columbia St.",
     "coordinates": [
-      "47.602475",
-      "-122.336897"
+      47.602475,
+      -122.336897
     ],
     "createdDate": "1879-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1534/default.jpg"
@@ -487,7 +487,7 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
     "coordinates": [
-      "47.601735"
+      47.601735
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1535/default.jpg"
@@ -520,8 +520,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Madison St.",
     "coordinates": [
-      "47.603764",
-      "-122.338484"
+      47.603764,
+      -122.338484
     ],
     "createdDate": "1887-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1527/default.jpg"
@@ -551,8 +551,8 @@
     "photographer": "Watkins, Carleton E., 1829-1916Webster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
     "coordinates": [
-      "47.600037",
-      "-122.335947"
+      47.600037,
+      -122.335947
     ],
     "createdDate": "1883-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1524/default.jpg"
@@ -587,8 +587,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
     "coordinates": [
-      "47.60829",
-      "-122.337997"
+      47.60829,
+      -122.337997
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1588/default.jpg"
@@ -611,8 +611,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way S. and S. King St.",
     "coordinates": [
-      "47.600037",
-      "-122.335947"
+      47.600037,
+      -122.335947
     ],
     "createdDate": "1878-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1580/default.jpg"
@@ -635,8 +635,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
     "coordinates": [
-      "47.614599",
-      "-122.342636"
+      47.614599,
+      -122.342636
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1582/default.jpg"
@@ -657,8 +657,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "2nd Ave. and Pike St.",
     "coordinates": [
-      "47.608689",
-      "-122.338518"
+      47.608689,
+      -122.338518
     ],
     "createdDate": "1884-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1581/default.jpg"
@@ -680,8 +680,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "Alaskan Way and Yesler Way",
     "coordinates": [
-      "47.601735",
-      "-122.336591"
+      47.601735,
+      -122.336591
     ],
     "createdDate": "1880-01-01T07:52:58.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1576/default.jpg"
@@ -700,7 +700,7 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1575/default.jpg"
@@ -722,8 +722,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "4th Ave. and Marion St.",
     "coordinates": [
-      "47.60538",
-      "-122.332264"
+      47.60538,
+      -122.332264
     ],
     "createdDate": "1875-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1577/default.jpg"
@@ -756,8 +756,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "1st Ave. and Madison St.",
     "coordinates": [
-      "47.60467",
-      "-122.336223"
+      47.60467,
+      -122.336223
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1579/default.jpg"
@@ -780,8 +780,8 @@
     "photographer": "",
     "intersection": "1st Ave. and Spring St.",
     "coordinates": [
-      "47.605395",
-      "-122.336917"
+      47.605395,
+      -122.336917
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1578/default.jpg"
@@ -807,8 +807,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1583/default.jpg"
@@ -834,8 +834,8 @@
     "photographer": "",
     "intersection": "7th Ave. and Seneca St.",
     "coordinates": [
-      "47.608926",
-      "-122.330885"
+      47.608926,
+      -122.330885
     ],
     "createdDate": "1885-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1574/default.jpg"
@@ -856,8 +856,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
     "coordinates": [
-      "47.614599",
-      "-122.342636"
+      47.614599,
+      -122.342636
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1595/default.jpg"
@@ -882,8 +882,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1586/default.jpg"
@@ -914,8 +914,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
     "coordinates": [
-      "47.60829",
-      "-122.337997"
+      47.60829,
+      -122.337997
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1587/default.jpg"
@@ -937,8 +937,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "3rd Ave. and University St.",
     "coordinates": [
-      "47.607761",
-      " -122.335979"
+      47.607761,
+      -122.335979
     ],
     "createdDate": "1912-07-20T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1594/default.jpg"
@@ -963,8 +963,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "3rd Ave. and University St.",
     "coordinates": [
-      "47.607761",
-      " -122.335979"
+      47.607761,
+      -122.335979
     ],
     "createdDate": "1912-07-20T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1592/default.jpg"
@@ -992,8 +992,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd St. and Madison Ave.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1589/default.jpg"
@@ -1021,8 +1021,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Stewart St.",
     "coordinates": [
-      "47.610703",
-      "-122.340332"
+      47.610703,
+      -122.340332
     ],
     "createdDate": "1912-07-20T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1593/default.jpg"
@@ -1041,8 +1041,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
     "coordinates": [
-      "47.614599",
-      "-122.342636"
+      47.614599,
+      -122.342636
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1591/default.jpg"
@@ -1076,8 +1076,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1585/default.jpg"
@@ -1100,8 +1100,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
     "coordinates": [
-      "47.614599",
-      "-122.342636"
+      47.614599,
+      -122.342636
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1590/default.jpg"
@@ -1133,8 +1133,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
     "coordinates": [
-      "47.60829",
-      "-122.337997"
+      47.60829,
+      -122.337997
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1584/default.jpg"
@@ -1163,8 +1163,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1598/default.jpg"
@@ -1191,8 +1191,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Madison St.",
     "coordinates": [
-      "47.605158",
-      "-122.335131"
+      47.605158,
+      -122.335131
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1599/default.jpg"
@@ -1224,8 +1224,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Union St.",
     "coordinates": [
-      "47.60829",
-      "-122.337997"
+      47.60829,
+      -122.337997
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1606/default.jpg"
@@ -1255,8 +1255,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Seneca St.",
     "coordinates": [
-      "47.606584",
-      "-122.336436"
+      47.606584,
+      -122.336436
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1602/default.jpg"
@@ -1295,8 +1295,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and University St.",
     "coordinates": [
-      "47.607297",
-      "-122.337088"
+      47.607297,
+      -122.337088
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1600/default.jpg"
@@ -1327,8 +1327,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "2nd Ave. and Spring St.",
     "coordinates": [
-      "47.605871",
-      "-122.335784"
+      47.605871,
+      -122.335784
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1604/default.jpg"
@@ -1347,8 +1347,8 @@
     "photographer": "Jacobs, Frank A., 1881-1979",
     "intersection": "4th Ave. and Blanchard St.",
     "coordinates": [
-      "47.614599",
-      "-122.342636"
+      47.614599,
+      -122.342636
     ],
     "createdDate": "1912-07-17T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/1601/default.jpg"

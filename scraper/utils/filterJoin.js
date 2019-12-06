@@ -18,7 +18,7 @@ for (let page = 1; page <= 62; page++) {
 
 let totalEntries = joined.length;
 // Remove entries without coordinate data
-joined = joined.filter(entry => entry.coordinates[0] !== "");
+joined = joined.filter(entry => entry.coordinates[0]);
 
 // Remove extra rounded coordinate(s)
 for (let i = 0; i < joined.length; i++) {

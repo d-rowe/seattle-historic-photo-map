@@ -11,7 +11,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1905-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2867/default.jpg"
@@ -30,8 +30,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665244",
-      "-122.317912"
+      47.665244,
+      -122.317912
     ],
     "createdDate": "1987-08-12T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2803/default.jpg"
@@ -49,8 +49,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.559901",
-      "-122.286959"
+      47.559901,
+      -122.286959
     ],
     "createdDate": "1925-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2806/default.jpg"
@@ -67,8 +67,8 @@
     "photographer": "Cress-Dale Photo Co.",
     "intersection": "",
     "coordinates": [
-      "47.576063",
-      "-122.292813"
+      47.576063,
+      -122.292813
     ],
     "createdDate": "1921-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2801/default.jpg"
@@ -88,8 +88,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.681494",
-      "-122.326659"
+      47.681494,
+      -122.326659
     ],
     "createdDate": "1929-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2804/default.jpg"
@@ -108,8 +108,8 @@
     "photographer": "Moore, George N.",
     "intersection": "",
     "coordinates": [
-      "47.628434",
-      "-122.313839"
+      47.628434,
+      -122.313839
     ],
     "createdDate": "1894-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2814/default.jpg"
@@ -131,8 +131,8 @@
     "photographer": "Webster & Stevens",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1921-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2875/default.jpg"
@@ -156,8 +156,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1906-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2879/default.jpg"
@@ -181,8 +181,8 @@
     "photographer": "Wall, John",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1975-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2877/default.jpg"
@@ -206,8 +206,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1991-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2878/default.jpg"
@@ -231,8 +231,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1980-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2876/default.jpg"
@@ -256,8 +256,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1997-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2881/default.jpg"
@@ -273,8 +273,8 @@
     "photographer": "Boeing Company",
     "intersection": "",
     "coordinates": [
-      "47.491917",
-      "-122.217332"
+      47.491917,
+      -122.217332
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2891/default.jpg"
@@ -297,8 +297,8 @@
     "photographer": "Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1935-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2882/default.jpg"
@@ -320,8 +320,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.669143",
-      "-122.385751"
+      47.669143,
+      -122.385751
     ],
     "createdDate": "1982-05-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2883/default.jpg"
@@ -342,8 +342,8 @@
     "photographer": "Boeing Company",
     "intersection": "",
     "coordinates": [
-      "47.491917",
-      "-122.217332"
+      47.491917,
+      -122.217332
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2890/default.jpg"
@@ -365,8 +365,8 @@
     "photographer": "",
     "intersection": "22nd Ave. NW and NW Market St.",
     "coordinates": [
-      "47.668687",
-      "-122.384752"
+      47.668687,
+      -122.384752
     ],
     "createdDate": "1982-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2884/default.jpg"
@@ -387,8 +387,8 @@
     "photographer": "Boeing Company",
     "intersection": "",
     "coordinates": [
-      "47.491917",
-      "-122.217332"
+      47.491917,
+      -122.217332
     ],
     "createdDate": "1975-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2889/default.jpg"
@@ -410,8 +410,8 @@
     "photographer": "",
     "intersection": "22nd Ave. NW and NW Market St.",
     "coordinates": [
-      "47.668687",
-      "-122.384752"
+      47.668687,
+      -122.384752
     ],
     "createdDate": "1982-07-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2885/default.jpg"
@@ -428,8 +428,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.665438",
-      "-122.376567"
+      47.665438,
+      -122.376567
     ],
     "createdDate": "1982-05-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2886/default.jpg"
@@ -451,8 +451,8 @@
     "photographer": "Romans Photographic Company",
     "intersection": "",
     "coordinates": [
-      "47.608511",
-      "-122.300819"
+      47.608511,
+      -122.300819
     ],
     "createdDate": "1911-06-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2888/default.jpg"
@@ -473,8 +473,8 @@
     "photographer": "",
     "intersection": "Ballard Ave. NW and NW Market St.",
     "coordinates": [
-      "47.668684",
-      "-122.38611"
+      47.668684,
+      -122.38611
     ],
     "createdDate": "1982-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2887/default.jpg"
@@ -498,8 +498,8 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1994-12-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2880/default.jpg"
@@ -516,7 +516,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1968-02-24T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2893/default.jpg"
@@ -532,7 +532,7 @@
     "photographer": "Kozo, Carolyn",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2903/default.jpg"
@@ -548,7 +548,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2894/default.jpg"
@@ -564,7 +564,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1965-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2895/default.jpg"
@@ -579,7 +579,7 @@
     "photographer": "Kozo, Carolyn",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2902/default.jpg"
@@ -598,8 +598,8 @@
     "photographer": "Morris, Kevin",
     "intersection": "",
     "coordinates": [
-      "47.542098",
-      "-122.483637"
+      47.542098,
+      -122.483637
     ],
     "createdDate": "1993-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2896/default.jpg"
@@ -615,8 +615,8 @@
     "photographer": "Seattle Times",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1910-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2901/default.jpg"
@@ -636,8 +636,8 @@
     "photographer": "Morris, Kevin",
     "intersection": "",
     "coordinates": [
-      "47.542098",
-      "-122.483637"
+      47.542098,
+      -122.483637
     ],
     "createdDate": "1993-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2897/default.jpg"
@@ -659,8 +659,8 @@
     "photographer": "Haugland, R.",
     "intersection": "",
     "coordinates": [
-      "47.611784",
-      "-122.333284"
+      47.611784,
+      -122.333284
     ],
     "createdDate": "1988-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2900/default.jpg"
@@ -678,7 +678,7 @@
     "photographer": "",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2899/default.jpg"
@@ -695,7 +695,7 @@
     "photographer": "U.S. Airforce",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1930-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2892/default.jpg"
@@ -712,7 +712,7 @@
     "photographer": "McKnight",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1887-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2905/default.jpg"
@@ -728,7 +728,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2915/default.jpg"
@@ -746,7 +746,7 @@
     "photographer": "Peiser, Theodore E.",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1886-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2906/default.jpg"
@@ -774,8 +774,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2914/default.jpg"
@@ -799,8 +799,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "3rd Ave. and University St.",
     "coordinates": [
-      "47.607761",
-      " -122.335979"
+      47.607761,
+      -122.335979
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2907/default.jpg"
@@ -821,8 +821,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "6th Ave. and Pike St.",
     "coordinates": [
-      "47.611141",
-      "-122.334465"
+      47.611141,
+      -122.334465
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2908/default.jpg"
@@ -855,8 +855,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "1st Ave. and Yesler Way",
     "coordinates": [
-      "47.601719",
-      "-122.334119"
+      47.601719,
+      -122.334119
     ],
     "createdDate": "1891-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2913/default.jpg"
@@ -875,8 +875,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "5th Ave. and Stewart St.",
     "coordinates": [
-      "47.613002",
-      "-122.337829"
+      47.613002,
+      -122.337829
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2909/default.jpg"
@@ -902,7 +902,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2912/default.jpg"
@@ -922,8 +922,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      "47.585600",
-      "-122.375260"
+      47.5856,
+      -122.37526
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2910/default.jpg"
@@ -946,7 +946,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "6th Ave. S. and S. Charles St.",
     "coordinates": [
-      "47.594871"
+      47.594871
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2911/default.jpg"
@@ -961,7 +961,7 @@
     "photographer": "Kozo, Carolyn",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1980-01-01T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2904/default.jpg"
@@ -995,8 +995,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "Alaskan Way S. and S. Washington St.",
     "coordinates": [
-      "47.600872",
-      "-122.335621"
+      47.600872,
+      -122.335621
     ],
     "createdDate": "1891-06-06T00:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2916/default.jpg"
@@ -1015,8 +1015,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      "47.601449",
-      "-122.332583"
+      47.601449,
+      -122.332583
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2923/default.jpg"
@@ -1031,7 +1031,7 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      ""
+      null
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2919/default.jpg"
@@ -1048,8 +1048,8 @@
     "photographer": "La Roche, Frank, 1853-1934",
     "intersection": "",
     "coordinates": [
-      "47.601449",
-      "-122.332583"
+      47.601449,
+      -122.332583
     ],
     "createdDate": "1890-01-01T08:00:00.000Z",
     "image": "https://cdm16118.contentdm.oclc.org/digital/api/singleitem/image/p15015coll4/2918/default.jpg"
