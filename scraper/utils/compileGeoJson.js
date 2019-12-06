@@ -2,7 +2,8 @@ const joined = require("../joined.json");
 const fs = require("fs");
 
 const features = joined.map(entry => {
-  const { coordinates } = entry;
+  let { coordinates } = entry;
+  coordinates.reverse();
   delete entry.coordinates;
   return {
     type: "Feature",
