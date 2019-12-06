@@ -2,23 +2,25 @@ import React, { useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "./Map.css";
-// import token from "./token";
+import token from "./token";
 
 const Map = ({ geojson }) => {
   useEffect(() => {
-    mapboxgl.accessToken = process.env.TOKEN;
+    mapboxgl.accessToken = token;
+    let center = [-122.3321, 47.6062];
     var map = new mapboxgl.Map({
       container: "map", // container id
       style: "mapbox://styles/mapbox/light-v10",
-      center: [-122.3321, 47.6062],
+      center,
       zoom: 10.75 // starting zoom
     });
 
-    map.setMinZoom(10.75);
+    // map.setMinZoom(10.75);
     map.setMaxZoom(18);
+    let [width, height] = [6, 4];
     map.setMaxBounds([
-      { lon: -122.7, lat: 47.4 },
-      { lon: -121.9, lat: 47.8 }
+      { lon: center[0] - width, lat: center[1] - height },
+      { lon: center[0] + width, lat: center[1] + height }
     ]);
 
     map.on("style.load", function() {
@@ -36,6 +38,7 @@ const Map = ({ geojson }) => {
         layout: {
           "icon-image": "marker-15",
           "icon-size": 3
+          // "icon-allow-overlap": true
         },
         paint: {
           /*"text-size": 10,*/
@@ -46,6 +49,9 @@ const Map = ({ geojson }) => {
     // location of the feature, with description HTML from its properties.
     map.on("click", "markers", function(e) {
       var coordinates = e.features[0].geometry.coordinates.slice();
+      map.flyTo({
+        center: coordinates
+      });
       var properties = e.features[0].properties;
       let { title, image } = properties;
 
@@ -57,7 +63,7 @@ const Map = ({ geojson }) => {
       }
       let popupHTML = `<div class="popup">
           <img src=${image} class="popup-image" alt=${title} />
-          <p>${title}</p>
+          <h3>${title}</h3>
         </div>`;
 
       new mapboxgl.Popup()
