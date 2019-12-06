@@ -2,11 +2,12 @@ import React, { useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "./Map.css";
-import token from "./token";
+
+const TOKEN = process.env.REACT_APP_TOKEN;
 
 const Map = ({ geojson }) => {
   useEffect(() => {
-    mapboxgl.accessToken = token;
+    mapboxgl.accessToken = TOKEN;
     let center = [-122.3321, 47.6062];
     var map = new mapboxgl.Map({
       container: "map", // container id
@@ -24,7 +25,6 @@ const Map = ({ geojson }) => {
     ]);
 
     map.on("style.load", function() {
-      console.log(geojson);
       map.addSource("markers", {
         type: "geojson",
         data: geojson
