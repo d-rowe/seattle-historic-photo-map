@@ -3,11 +3,11 @@
   height: 100vh;
 }
 
-.popup {
-  width: 15em;
-}
-
 .popup-image {
   width: 100%;
   height: auto;
+}
+
+.mapboxgl-popup-content {
+  width: 40em;
 }

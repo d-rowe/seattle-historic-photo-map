@@ -2,11 +2,11 @@ import React, { useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "./Map.css";
-import token from "./token";
+// import token from "./token";
 
 const Map = ({ geojson }) => {
   useEffect(() => {
-    mapboxgl.accessToken = token;
+    mapboxgl.accessToken = process.env.TOKEN;
     var map = new mapboxgl.Map({
       container: "map", // container id
       style: "mapbox://styles/mapbox/light-v10",
