@@ -10,7 +10,7 @@ const Map = ({ geojson }) => {
     let center = [-122.3321, 47.6062];
     var map = new mapboxgl.Map({
       container: "map", // container id
-      style: "mapbox://styles/mapbox/light-v10",
+      style: "mapbox://styles/mapbox/outdoors-v11",
       center,
       zoom: 10.75 // starting zoom
     });
@@ -36,8 +36,8 @@ const Map = ({ geojson }) => {
         type: "symbol",
         source: "markers",
         layout: {
-          "icon-image": "marker-15",
-          "icon-size": 3
+          "icon-image": "attraction-15",
+          "icon-size": 1.5
           // "icon-allow-overlap": true
         },
         paint: {

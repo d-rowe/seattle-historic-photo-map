@@ -10,4 +10,5 @@
 
 .mapboxgl-popup-content {
   width: 25em;
+  text-align: center;
 }
