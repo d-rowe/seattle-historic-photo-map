@@ -12,3 +12,11 @@
   width: 25em;
   text-align: center;
 }
+
+.mapboxgl-popup-close-button {
+  background-color: rgb(192, 0, 0);
+}
+
+.mapboxgl-popup-close-button:hover {
+  background-color: rgb(255, 0, 0);
+}
