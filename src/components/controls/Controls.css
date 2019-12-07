@@ -1,0 +1,9 @@
+.controls {
+  position: fixed;
+  width: 15em;
+  top: 0;
+  left: 0;
+  margin: 1em;
+  opacity: 0.95;
+  border-radius: 0.5em;
+}
