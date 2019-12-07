@@ -1,15 +1,28 @@
 import React, { useEffect } from "react";
 import mapboxgl from "mapbox-gl";
+import { connect } from "react-redux";
 import "mapbox-gl/dist/mapbox-gl.css";
 import "./Map.css";
 
 const TOKEN = process.env.REACT_APP_TOKEN;
 
-const Map = ({ geojson }) => {
+let updates = 0;
+let map;
+
+const Map = ({ displayGeojson }) => {
   useEffect(() => {
+    if (updates === 0) {
+      setup();
+    } else {
+      refreshMarkers();
+    }
+    updates++;
+  });
+
+  const setup = () => {
     mapboxgl.accessToken = TOKEN;
     let center = [-122.3321, 47.6062];
-    var map = new mapboxgl.Map({
+    map = new mapboxgl.Map({
       container: "map", // container id
       style: "mapbox://styles/mapbox/outdoors-v11",
       center,
@@ -27,7 +40,7 @@ const Map = ({ geojson }) => {
     map.on("style.load", function() {
       map.addSource("markers", {
         type: "geojson",
-        data: geojson
+        data: displayGeojson
       });
 
       map.addLayer({
@@ -38,10 +51,6 @@ const Map = ({ geojson }) => {
         layout: {
           "icon-image": "attraction-15",
           "icon-size": 1.5
-          // "icon-allow-overlap": true
-        },
-        paint: {
-          /*"text-size": 10,*/
         }
       });
     });
@@ -81,9 +90,39 @@ const Map = ({ geojson }) => {
     map.on("mouseleave", "places", function() {
       map.getCanvas().style.cursor = "";
     });
-  });
+  };
+
+  const refreshMarkers = () => {
+    if (map.getLayer("markers")) {
+      map.removeLayer("markers");
+    }
+
+    if (map.getSource("markers")) {
+      map.removeSource("markers");
+    }
+
+    map.addSource("markers", {
+      type: "geojson",
+      data: displayGeojson
+    });
+
+    map.addLayer({
+      id: "markers",
+      interactive: true,
+      type: "symbol",
+      source: "markers",
+      layout: {
+        "icon-image": "attraction-15",
+        "icon-size": 1.5
+      }
+    });
+  };
 
   return <div id="map" />;
 };
 
-export default Map;
+function mapStateToProps(state) {
+  return { displayGeojson: state.displayGeojson };
+}
+
+export default connect(mapStateToProps)(Map);
